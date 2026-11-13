@@ -1,0 +1,62 @@
+{
+  "method": "Mono 16 kHz waveform correlation over a 2.5-second interior window of each retained clip; lag search +/-20 ms at 0.5 ms steps. Not speech recognition or direct hearing.",
+  "rows": [
+    {
+      "clip": "6-0",
+      "targetStart": 0.15,
+      "sourceStart": 0.4,
+      "windowSeconds": 2.5,
+      "normalizedCorrelation": 0.11581504344940186,
+      "bestLagMilliseconds": 4.0
+    },
+    {
+      "clip": "4-0",
+      "targetStart": 11.0,
+      "sourceStart": 0.15,
+      "windowSeconds": 2.5,
+      "normalizedCorrelation": 0.07205939292907715,
+      "bestLagMilliseconds": 9.0
+    },
+    {
+      "clip": "3-0",
+      "targetStart": 29.7,
+      "sourceStart": 0.3,
+      "windowSeconds": 2.5,
+      "normalizedCorrelation": 0.1223510354757309,
+      "bestLagMilliseconds": 17.0
+    },
+    {
+      "clip": "2-0",
+      "targetStart": 55.75,
+      "sourceStart": 0.3,
+      "windowSeconds": 2.5,
+      "normalizedCorrelation": 0.07769224792718887,
+      "bestLagMilliseconds": 14.5
+    },
+    {
+      "clip": "1-0",
+      "targetStart": 63.699999999999996,
+      "sourceStart": 0.25,
+      "windowSeconds": 2.5,
+      "normalizedCorrelation": 0.1180950328707695,
+      "bestLagMilliseconds": 15.0
+    },
+    {
+      "clip": "1-1",
+      "targetStart": 92.76666666666667,
+      "sourceStart": 36.589999999999996,
+      "windowSeconds": 2.5,
+      "normalizedCorrelation": 0.12349054217338562,
+      "bestLagMilliseconds": 8.0
+    },
+    {
+      "clip": "5-0",
+      "targetStart": 97.35000000000001,
+      "sourceStart": 0.25,
+      "windowSeconds": 2.5,
+      "normalizedCorrelation": 0.14595457911491394,
+      "bestLagMilliseconds": 20.0
+    }
+  ],
+  "audioTimelineCheck": "REVIEW"
+}

@@ -1,0 +1,550 @@
+{
+  "status": "COMPLETE",
+  "method": "offline ffmpeg + AVFoundation avprobe + whisper.cpp/base CPU",
+  "direct_hearing": false,
+  "continuous_viewing": false,
+  "sources": [
+    {
+      "provided_order": 1,
+      "source": "/Users/USER/Downloads/6ddef9d0438570a5cff46cb0bb87d695_raw.mp4",
+      "sha256": "c6e9af758124d39d1898f57ab4fed8cd9cac18eb2ab94f43ddefa8e905b19f9a",
+      "bytes": 61623513,
+      "metadata": {
+        "format": {
+          "bit_rate": "11996790",
+          "duration": "41.093333333333334",
+          "format_name": "mov,mp4 (AVFoundation adapter)",
+          "size": "61623513"
+        },
+        "streams": [
+          {
+            "avg_frame_rate": "59.985397/1",
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "height": 1920,
+            "width": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ]
+      },
+      "duration": 41.093333333333334,
+      "output_directory": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01",
+      "asr_command": [
+        "/Volumes/EXTERNAL/Tools/Whisper/bin/whisper-cli",
+        "-m",
+        "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+        "-f",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/audio.wav",
+        "-l",
+        "zh",
+        "-t",
+        "4",
+        "-ml",
+        "24",
+        "-otxt",
+        "-osrt",
+        "-ojf",
+        "-of",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr"
+      ],
+      "asr_status": "SUCCESS",
+      "sample_times": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        40.843
+      ],
+      "sampling_interval_seconds": 2,
+      "sampling_limit": "Seek target times, sparse images; intervening motion/audio not viewed. Last sample at duration-0.25.",
+      "contact_sheets": [
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/sheet-1.jpg",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/sheet-2.jpg"
+      ],
+      "status": "COMPLETE"
+    },
+    {
+      "provided_order": 2,
+      "source": "/Users/USER/Downloads/d398bdb31caa205c6e1d60f6dbb03b7c_raw.mp4",
+      "sha256": "a85f01d510e26eeae24c88e68ebb71d372ee139988c031148e8760041c6ed300",
+      "bytes": 26863015,
+      "metadata": {
+        "format": {
+          "bit_rate": "12071004",
+          "duration": "17.803333333333335",
+          "format_name": "mov,mp4 (AVFoundation adapter)",
+          "size": "26863015"
+        },
+        "streams": [
+          {
+            "avg_frame_rate": "59.98315/1",
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "height": 1920,
+            "width": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ]
+      },
+      "duration": 17.803333333333335,
+      "output_directory": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02",
+      "asr_command": [
+        "/Volumes/EXTERNAL/Tools/Whisper/bin/whisper-cli",
+        "-m",
+        "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+        "-f",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/audio.wav",
+        "-l",
+        "zh",
+        "-t",
+        "4",
+        "-ml",
+        "24",
+        "-otxt",
+        "-osrt",
+        "-ojf",
+        "-of",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr"
+      ],
+      "asr_status": "SUCCESS",
+      "sample_times": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        17.553
+      ],
+      "sampling_interval_seconds": 2,
+      "sampling_limit": "Seek target times, sparse images; intervening motion/audio not viewed. Last sample at duration-0.25.",
+      "contact_sheets": [
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/sheet-1.jpg"
+      ],
+      "status": "COMPLETE"
+    },
+    {
+      "provided_order": 3,
+      "source": "/Users/USER/Downloads/659ae8a396fa68ce510db8952b270772_raw.mp4",
+      "sha256": "a4071bfa86713a75c62dd1a1830ac6b63be19e8d3ef9e7aa3c2e9486e1242473",
+      "bytes": 39644130,
+      "metadata": {
+        "format": {
+          "bit_rate": "12010339",
+          "duration": "26.406666666666666",
+          "format_name": "mov,mp4 (AVFoundation adapter)",
+          "size": "39644130"
+        },
+        "streams": [
+          {
+            "avg_frame_rate": "59.98485/1",
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "height": 1920,
+            "width": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ]
+      },
+      "duration": 26.406666666666666,
+      "output_directory": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03",
+      "asr_command": [
+        "/Volumes/EXTERNAL/Tools/Whisper/bin/whisper-cli",
+        "-m",
+        "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+        "-f",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/audio.wav",
+        "-l",
+        "zh",
+        "-t",
+        "4",
+        "-ml",
+        "24",
+        "-otxt",
+        "-osrt",
+        "-ojf",
+        "-of",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr"
+      ],
+      "asr_status": "SUCCESS",
+      "sample_times": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        26.157
+      ],
+      "sampling_interval_seconds": 2,
+      "sampling_limit": "Seek target times, sparse images; intervening motion/audio not viewed. Last sample at duration-0.25.",
+      "contact_sheets": [
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/sheet-1.jpg",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/sheet-2.jpg"
+      ],
+      "status": "COMPLETE"
+    },
+    {
+      "provided_order": 4,
+      "source": "/Users/USER/Downloads/d6f955302c7b1a8b9e18b1d8bf95a739_raw.mp4",
+      "sha256": "621f50ebcfd6b71aaefbfd1983ae63b0d24581d1f98adaf337c2268bda614b8e",
+      "bytes": 28492936,
+      "metadata": {
+        "format": {
+          "bit_rate": "12026564",
+          "duration": "18.953333333333333",
+          "format_name": "mov,mp4 (AVFoundation adapter)",
+          "size": "28492936"
+        },
+        "streams": [
+          {
+            "avg_frame_rate": "59.984173/1",
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "height": 1920,
+            "width": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ]
+      },
+      "duration": 18.953333333333333,
+      "output_directory": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04",
+      "asr_command": [
+        "/Volumes/EXTERNAL/Tools/Whisper/bin/whisper-cli",
+        "-m",
+        "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+        "-f",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/audio.wav",
+        "-l",
+        "zh",
+        "-t",
+        "4",
+        "-ml",
+        "24",
+        "-otxt",
+        "-osrt",
+        "-ojf",
+        "-of",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr"
+      ],
+      "asr_status": "SUCCESS",
+      "sample_times": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        18.703
+      ],
+      "sampling_interval_seconds": 2,
+      "sampling_limit": "Seek target times, sparse images; intervening motion/audio not viewed. Last sample at duration-0.25.",
+      "contact_sheets": [
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/sheet-1.jpg"
+      ],
+      "status": "COMPLETE"
+    },
+    {
+      "provided_order": 5,
+      "source": "/Users/USER/Downloads/646521d1fa5ee575fa2826a3a00a22f0_raw.mp4",
+      "sha256": "61d72e9c25887bd433eb2148f4daa36fe25063e4e4a999dae7a4619208b858cc",
+      "bytes": 25073426,
+      "metadata": {
+        "format": {
+          "bit_rate": "12020819",
+          "duration": "16.686666666666667",
+          "format_name": "mov,mp4 (AVFoundation adapter)",
+          "size": "25073426"
+        },
+        "streams": [
+          {
+            "avg_frame_rate": "59.988014/1",
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "height": 1920,
+            "width": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ]
+      },
+      "duration": 16.686666666666667,
+      "output_directory": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05",
+      "asr_command": [
+        "/Volumes/EXTERNAL/Tools/Whisper/bin/whisper-cli",
+        "-m",
+        "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+        "-f",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/audio.wav",
+        "-l",
+        "zh",
+        "-t",
+        "4",
+        "-ml",
+        "24",
+        "-otxt",
+        "-osrt",
+        "-ojf",
+        "-of",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr"
+      ],
+      "asr_status": "SUCCESS",
+      "sample_times": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        16.437
+      ],
+      "sampling_interval_seconds": 2,
+      "sampling_limit": "Seek target times, sparse images; intervening motion/audio not viewed. Last sample at duration-0.25.",
+      "contact_sheets": [
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/sheet-1.jpg"
+      ],
+      "status": "COMPLETE"
+    },
+    {
+      "provided_order": 6,
+      "source": "/Users/USER/Downloads/5c50133579f3dbb7264e387c481f547c_raw.mp4",
+      "sha256": "cc5a26a79c4a50f61741f345d66fd0675c3b0293a8d4c7c1ae20b39a1e76e151",
+      "bytes": 17109537,
+      "metadata": {
+        "format": {
+          "bit_rate": "12040137",
+          "duration": "11.368333333333334",
+          "format_name": "mov,mp4 (AVFoundation adapter)",
+          "size": "17109537"
+        },
+        "streams": [
+          {
+            "avg_frame_rate": "59.991203/1",
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "height": 1920,
+            "width": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ]
+      },
+      "duration": 11.368333333333334,
+      "output_directory": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06",
+      "asr_command": [
+        "/Volumes/EXTERNAL/Tools/Whisper/bin/whisper-cli",
+        "-m",
+        "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+        "-f",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/audio.wav",
+        "-l",
+        "zh",
+        "-t",
+        "4",
+        "-ml",
+        "24",
+        "-otxt",
+        "-osrt",
+        "-ojf",
+        "-of",
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr"
+      ],
+      "asr_status": "SUCCESS",
+      "sample_times": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        11.118
+      ],
+      "sampling_interval_seconds": 2,
+      "sampling_limit": "Seek target times, sparse images; intervening motion/audio not viewed. Last sample at duration-0.25.",
+      "contact_sheets": [
+        "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/sheet-1.jpg"
+      ],
+      "status": "COMPLETE"
+    }
+  ],
+  "created_files": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/receive_media.py",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/read-evidence.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr.txt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/signal.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/decode.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/sheet-2.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr.srt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/audio.wav",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr.txt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/signal.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/decode.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr.srt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/audio.wav",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr.txt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/signal.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/decode.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr.srt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/audio.wav",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr.txt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/signal.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/decode.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr.srt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/audio.wav",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr.txt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/signal.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/decode.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/sheet-2.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr.srt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/audio.wav",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr.txt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/signal.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/decode.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr.srt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/audio.wav",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/013-26.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/004-8.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/005-10.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/010-20.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/014-26.157.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/001-2.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/011-22.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/000-0.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/009-18.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/007-14.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/006-12.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/003-6.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/008-16.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/012-24.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/002-4.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/004-8.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/005-10.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/010-18.703.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/001-2.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/000-0.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/009-18.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/007-14.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/006-12.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/003-6.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/008-16.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/002-4.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/004-8.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/005-10.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/001-2.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/009-16.437.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/000-0.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/007-14.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/006-12.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/003-6.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/008-16.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/002-4.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/004-8.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/005-10.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/001-2.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/009-17.553.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/000-0.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/007-14.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/006-12.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/003-6.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/008-16.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/002-4.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/013-26.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/004-8.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/005-10.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/015-30.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/010-20.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/020-40.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/021-40.843.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/001-2.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/011-22.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/000-0.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/009-18.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/019-38.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/007-14.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/016-32.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/014-28.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/006-12.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/017-34.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/003-6.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/018-36.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/008-16.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/012-24.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/002-4.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/006-11.118.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/004-8.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/005-10.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/001-2.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/000-0.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/003-6.000.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/002-4.000.jpg"
+  ]
+}

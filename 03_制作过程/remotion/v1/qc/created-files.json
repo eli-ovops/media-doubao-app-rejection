@@ -1,0 +1,2558 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "scope": "04 generated/copy files only under this content_id; symlinked runtime excluded; no deletion performed",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/plan.py",
+      "bytes": 6873
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render.mjs",
+      "bytes": 1753
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/subtitles.srt",
+      "bytes": 3263
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/组件与来源调用表.md",
+      "bytes": 1696
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/final_check.py",
+      "bytes": 4358
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/local_skill.py",
+      "bytes": 2353
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/README.md",
+      "bytes": 2344
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/inspect_candidates.py",
+      "bytes": 1360
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/edited-script.txt",
+      "bytes": 1267
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/package.json",
+      "bytes": 246
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/review_manifest.py",
+      "bytes": 6837
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/manifest.json",
+      "bytes": 90500
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/audio.py",
+      "bytes": 878
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/diagnose_audio.py",
+      "bytes": 1385
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/prepare.py",
+      "bytes": 4888
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/serve.mjs",
+      "bytes": 1823
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/audio_verify.py",
+      "bytes": 766
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/before-color-fix.mp4",
+      "bytes": 40971260
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/film-picture-audio.mp4",
+      "bytes": 50721538
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/first-delivery-pre-sync.mp4",
+      "bytes": 40934058
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/__pycache__/final_check.cpython-312.pyc",
+      "bytes": 7987
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-20.5.png",
+      "bytes": 123483
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-5.5.png",
+      "bytes": 119332
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-61.png",
+      "bytes": 117491
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/review-generation.log",
+      "bytes": 594
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T13d.jpg",
+      "bytes": 12206
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-L81-C005.jpg",
+      "bytes": 10379
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/S02-candidates.json",
+      "bytes": 24575
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-89.png",
+      "bytes": 129881
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-search-4.json",
+      "bytes": 20657
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-1.jpg",
+      "bytes": 188418
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-N047.jpg",
+      "bytes": 6022
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/plan-generation.log",
+      "bytes": 559
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T09b.jpg",
+      "bytes": 12913
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-81.2.png",
+      "bytes": 126655
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-67.png",
+      "bytes": 2171191
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T04d.jpg",
+      "bytes": 10919
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-99.png",
+      "bytes": 1974804
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/S05-candidates.json",
+      "bytes": 23375
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-0.jpg",
+      "bytes": 189454
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-2.jpg",
+      "bytes": 174198
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T09a.jpg",
+      "bytes": 12537
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T04f.jpg",
+      "bytes": 12182
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/implementation.json",
+      "bytes": 871
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-X032.jpg",
+      "bytes": 15736
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-104.png",
+      "bytes": 135440
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/runtime-versions.json",
+      "bytes": 167
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidates-overview-1.jpg",
+      "bytes": 82099
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/full-render.log",
+      "bytes": 931
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidates-overview-0.jpg",
+      "bytes": 86657
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T09d2.jpg",
+      "bytes": 12935
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-search-2.json",
+      "bytes": 23994
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/S04-candidates.json",
+      "bytes": 13135
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T14c.jpg",
+      "bytes": 11428
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/color-test.png",
+      "bytes": 46134
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidates-overview-2.jpg",
+      "bytes": 43210
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T15f.jpg",
+      "bytes": 11812
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/cutfix-5557.png",
+      "bytes": 50234
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-38.png",
+      "bytes": 204726
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/audio-preparation.log",
+      "bytes": 12945
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-3.png",
+      "bytes": 102978
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-25.5.png",
+      "bytes": 127474
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-1.png",
+      "bytes": 1892486
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T14e.jpg",
+      "bytes": 15556
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-111.5.png",
+      "bytes": 2175899
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/representative-motion.jpg",
+      "bytes": 177053
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-search-3.json",
+      "bytes": 18315
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/S03-candidates.json",
+      "bytes": 24520
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T02e.jpg",
+      "bytes": 11078
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-N026.jpg",
+      "bytes": 18278
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T16a.jpg",
+      "bytes": 9864
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/S06-candidates.json",
+      "bytes": 20544
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/color-test.mp4",
+      "bytes": 28959
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-search-0.json",
+      "bytes": 44452
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-53.4.png",
+      "bytes": 188574
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/library-keyframes.json",
+      "bytes": 150
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T02h.jpg",
+      "bytes": 11052
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final-edl.json",
+      "bytes": 8913
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-77.4.png",
+      "bytes": 111130
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-14.5.png",
+      "bytes": 112764
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/representative.mp4",
+      "bytes": 662408
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-8.5.png",
+      "bytes": 279207
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-73.4.png",
+      "bytes": 113883
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-108.png",
+      "bytes": 136170
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final-check.log",
+      "bytes": 669
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-32.png",
+      "bytes": 201833
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-search-1.json",
+      "bytes": 23975
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/S01-candidates.json",
+      "bytes": 13225
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-inspection-files.json",
+      "bytes": 6127
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/media-provenance.json",
+      "bytes": 4026
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-49.5.png",
+      "bytes": 267844
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/planning.json",
+      "bytes": 511
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-T09n.jpg",
+      "bytes": 6821
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-57.png",
+      "bytes": 2014068
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-42.png",
+      "bytes": 249027
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-95.png",
+      "bytes": 120753
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/library-suggestion.json",
+      "bytes": 151
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-85.png",
+      "bytes": 115267
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/S07-candidates.json",
+      "bytes": 5066
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/audio-diagnosis-before-sync.json",
+      "bytes": 1658
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-28.2.png",
+      "bytes": 149437
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/画面检查.md",
+      "bytes": 2438
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-L81-R005.jpg",
+      "bytes": 10029
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/subtitle-cutfix.json",
+      "bytes": 253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-92.png",
+      "bytes": 126968
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/audio_verify_initial.py",
+      "bytes": 1717
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/candidate-L81-R006.jpg",
+      "bytes": 12794
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/index.tsx",
+      "bytes": 298
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/timing.json",
+      "bytes": 8913
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+      "bytes": 5139
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/705.bundle.js.map",
+      "bytes": 395
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/333.bundle.js.map",
+      "bytes": 1996
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/favicon.ico",
+      "bytes": 104640
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/126.bundle.js.map",
+      "bytes": 4957341
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/674.bundle.js",
+      "bytes": 182
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/index.html",
+      "bytes": 4052
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/765.bundle.js.map",
+      "bytes": 177902
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/956.bundle.js.map",
+      "bytes": 319578
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/622.bundle.js.map",
+      "bytes": 321
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/bundle.js.map",
+      "bytes": 1102377
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/492.bundle.js",
+      "bytes": 326816
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/437.bundle.js.map",
+      "bytes": 320
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/622.bundle.js",
+      "bytes": 183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/233.bundle.js",
+      "bytes": 565057
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/bundle.js",
+      "bytes": 954620
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/467.bundle.js.map",
+      "bytes": 306
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/196.bundle.js.map",
+      "bytes": 1916083
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/233.bundle.js.map",
+      "bytes": 639525
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/126.bundle.js",
+      "bytes": 4440511
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/765.bundle.js",
+      "bytes": 157821
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/467.bundle.js",
+      "bytes": 183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/674.bundle.js.map",
+      "bytes": 320
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/492.bundle.js.map",
+      "bytes": 653317
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/705.bundle.js",
+      "bytes": 745
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/196.bundle.js",
+      "bytes": 997921
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/956.bundle.js",
+      "bytes": 317217
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/437.bundle.js",
+      "bytes": 183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/source-map-helper.wasm",
+      "bytes": 48693
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/333.bundle.js",
+      "bytes": 2257
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/sfx/slide.wav",
+      "bytes": 254622
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/sfx/click.wav",
+      "bytes": 96880
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/sfx/woosh.wav",
+      "bytes": 124518
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/sfx/pop.wav",
+      "bytes": 112950
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/fonts/MiSans-Heavy.otf",
+      "bytes": 6677020
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/fonts/MiSans-License.txt",
+      "bytes": 9708
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/fonts/SmileySans-LICENSE.txt",
+      "bytes": 4421
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/fonts/MiSans-Medium.otf",
+      "bytes": 6550784
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/fonts/SmileySans-Oblique.ttf",
+      "bytes": 2629764
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/raw-04.mp4",
+      "bytes": 28492936
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/raw-05.mp4",
+      "bytes": 25073426
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/raw-06.mp4",
+      "bytes": 17109537
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/raw-02.mp4",
+      "bytes": 26863015
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/raw-03.mp4",
+      "bytes": 39644130
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/raw-01.mp4",
+      "bytes": 61623513
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/news-4.jpg",
+      "bytes": 71757
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/news-2.jpg",
+      "bytes": 75841
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/news-3.jpg",
+      "bytes": 95025
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/news-1.jpg",
+      "bytes": 89445
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/bundle/public/media/voice.wav",
+      "bytes": 65088102
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/sfx/slide.wav",
+      "bytes": 254622
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/sfx/click.wav",
+      "bytes": 96880
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/sfx/woosh.wav",
+      "bytes": 124518
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/sfx/pop.wav",
+      "bytes": 112950
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/fonts/MiSans-Heavy.otf",
+      "bytes": 6677020
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/fonts/MiSans-License.txt",
+      "bytes": 9708
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/fonts/SmileySans-LICENSE.txt",
+      "bytes": 4421
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/fonts/MiSans-Medium.otf",
+      "bytes": 6550784
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/fonts/SmileySans-Oblique.ttf",
+      "bytes": 2629764
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/raw-04.mp4",
+      "bytes": 28492936
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/raw-05.mp4",
+      "bytes": 25073426
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/raw-06.mp4",
+      "bytes": 17109537
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/raw-02.mp4",
+      "bytes": 26863015
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/raw-03.mp4",
+      "bytes": 39644130
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/raw-01.mp4",
+      "bytes": 61623513
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/news-4.jpg",
+      "bytes": 71757
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/news-2.jpg",
+      "bytes": 75841
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/news-3.jpg",
+      "bytes": 95025
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/news-1.jpg",
+      "bytes": 89445
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/voice.wav",
+      "bytes": 65088102
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/sources/T14e-StatTriplet.tsx",
+      "bytes": 6252
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/sources/T04f-KeyUnlock.tsx",
+      "bytes": 8196
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/sources/T09i-PickRow.tsx",
+      "bytes": 8807
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/sources/T13d-RequestTrip.tsx",
+      "bytes": 10335
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/sources/theme.ts",
+      "bytes": 3786
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/sources/ui.tsx",
+      "bytes": 9509
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/library/history.json",
+      "bytes": 88121
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/library/media-manifest.json",
+      "bytes": 12126596
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/library/catalog.json",
+      "bytes": 2073871
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/library/member-packages.json",
+      "bytes": 56066
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/library/routes.json",
+      "bytes": 312757
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/scripts/member_access.py",
+      "bytes": 2813
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/README.md",
+      "bytes": 1113
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/package-lock.json",
+      "bytes": 139235
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/package.json",
+      "bytes": 472
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/user-media-inputs.json",
+      "bytes": 10613
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/components.json",
+      "bytes": 9354
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/tsconfig.json",
+      "bytes": 194
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/index.tsx",
+      "bytes": 388
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+      "bytes": 12732
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/brand/dark.png",
+      "bytes": 529353
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/brand/light.png",
+      "bytes": 207243
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/whoosh-short.wav",
+      "bytes": 135522
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/typing.wav",
+      "bytes": 587094
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/gather.wav",
+      "bytes": 521742
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/message.wav",
+      "bytes": 255938
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/scroll.wav",
+      "bytes": 432102
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/slide.wav",
+      "bytes": 254622
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/click.wav",
+      "bytes": 96880
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/woosh.wav",
+      "bytes": 124518
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/pop.wav",
+      "bytes": 112950
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/ding.wav",
+      "bytes": 978126
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/sfx/notify.wav",
+      "bytes": 376286
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/MiSans-Heavy.otf",
+      "bytes": 6677020
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/MiSans-License.txt",
+      "bytes": 9708
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/RuiZi.ttf",
+      "bytes": 1433148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/SourceCodePro-Semibold.otf",
+      "bytes": 131608
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/MiSans-Medium.otf",
+      "bytes": 6550784
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/SourceCodePro-LICENSE.md",
+      "bytes": 4473
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/RuiZi-official-free-use.txt",
+      "bytes": 6063
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/MiSans-Semibold.otf",
+      "bytes": 6530232
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/LXGWWenKai-Regular.ttf",
+      "bytes": 25575676
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public/fonts/LXGWWenKai-OFL.txt",
+      "bytes": 5170
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+      "bytes": 3786
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+      "bytes": 9509
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T17c-FileTree.tsx",
+      "bytes": 8752
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T22a-PostCard.tsx",
+      "bytes": 7351
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T09l-LinkCarry.tsx",
+      "bytes": 13464
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T15e-TrendLine.tsx",
+      "bytes": 11694
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T13a-StackLayers.tsx",
+      "bytes": 8949
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T05i-UnboxResult.tsx",
+      "bytes": 9376
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T14e-StatTriplet.tsx",
+      "bytes": 6252
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T04f-KeyUnlock.tsx",
+      "bytes": 8196
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T13c-CapacityFit.tsx",
+      "bytes": 10024
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T09j-DeviceCode.tsx",
+      "bytes": 11459
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+      "bytes": 9898
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T02h-FileTrio.tsx",
+      "bytes": 9598
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T12h-RoleSwitch.tsx",
+      "bytes": 4278
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T09n-WaitSkip.tsx",
+      "bytes": 8970
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T13b-MetaphorMorph.tsx",
+      "bytes": 9712
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T12i-QuestionBeat.tsx",
+      "bytes": 6795
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T09o-ZoomLens.tsx",
+      "bytes": 8183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T14f-Gauge.tsx",
+      "bytes": 7715
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T20f-ResultFirst.tsx",
+      "bytes": 7908
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T09i-PickRow.tsx",
+      "bytes": 8807
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T15g-RankReveal.tsx",
+      "bytes": 7200
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T15i-PlanTable.tsx",
+      "bytes": 8091
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T22b-NewsStack.tsx",
+      "bytes": 6442
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T21d-SaveChecklist.tsx",
+      "bytes": 6785
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T13d-RequestTrip.tsx",
+      "bytes": 10335
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T09m-Keycap.tsx",
+      "bytes": 8390
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T04g-DecisionTree.tsx",
+      "bytes": 8459
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T18f-LogoGrid.tsx",
+      "bytes": 8469
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T16a-Timeline.tsx",
+      "bytes": 10865
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T18d-RepoCard.tsx",
+      "bytes": 5551
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T18e-LogoVersus.tsx",
+      "bytes": 5634
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T16b-VersionStack.tsx",
+      "bytes": 7821
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T21b-QAResolve.tsx",
+      "bytes": 9881
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T08e-CommentPull.tsx",
+      "bytes": 15991
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T09k-FileFilter.tsx",
+      "bytes": 15736
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T04e-PackOpen.tsx",
+      "bytes": 10445
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T15h-BenchmarkTable.tsx",
+      "bytes": 10728
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T01h-CautionTag.tsx",
+      "bytes": 8530
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T15f-DonutShare.tsx",
+      "bytes": 9979
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/.artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T02g-RoleRoadmap.tsx",
+      "bytes": 10416
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/components/projects/8bb63da6465b/package-lock.json",
+      "bytes": 110041
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/components/projects/8bb63da6465b/src/index.tsx",
+      "bytes": 1344
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/components/projects/8bb63da6465b/src/CalendarV3.tsx",
+      "bytes": 3139
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/components/projects/5673609cc79a/groups/r/legacy/src/EncoderV3.tsx",
+      "bytes": 3496
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/scripts/__pycache__/member_access.cpython-312.pyc",
+      "bytes": 5018
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/implementation.md",
+      "bytes": 3256
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/screen-camera-selected.md",
+      "bytes": 7971
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/visual-quality.md",
+      "bytes": 7159
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/internal-modules.md",
+      "bytes": 2967
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/content-to-component.md",
+      "bytes": 17268
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/segment-review.md",
+      "bytes": 20521
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/storyboard.md",
+      "bytes": 9053
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/episode99-selected.md",
+      "bytes": 1849
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/interaction-components.md",
+      "bytes": 6447
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/visual-usage-registry.json",
+      "bytes": 440639
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/feedback-rules.json",
+      "bytes": 131303
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/news-keyword-match-cut.md",
+      "bytes": 7292
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/episode109-selected.md",
+      "bytes": 6443
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/fixed-skill-library-insert.md",
+      "bytes": 4796
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/bgm-policy.json",
+      "bytes": 209
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/episode103-selected.md",
+      "bytes": 3846
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/fred-wave3-extra-components.md",
+      "bytes": 2362
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/scene-routing.json",
+      "bytes": 13347
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/scene-workflow.md",
+      "bytes": 11306
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library-delivery-gate.md",
+      "bytes": 7293
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/component-distribution.md",
+      "bytes": 4721
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/text-presentation.md",
+      "bytes": 7294
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/eli-production-method.md",
+      "bytes": 5886
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/fred-wave3-components.md",
+      "bytes": 8857
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/text-patterns.json",
+      "bytes": 21544
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/route-and-storyboard-review.md",
+      "bytes": 8545
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/media-and-overlays.md",
+      "bytes": 10621
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/fred-native-components.md",
+      "bytes": 4827
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/components-and-dependencies.md",
+      "bytes": 8632
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library.md",
+      "bytes": 1402
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/transition-patterns.json",
+      "bytes": 29035
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/component-collections.md",
+      "bytes": 10554
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/fred-wave2-components.md",
+      "bytes": 6548
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library-new10-confirmed.md",
+      "bytes": 3742
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library-growth-plan.md",
+      "bytes": 6073
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/storyboard-image-workflow.md",
+      "bytes": 8701
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library-legacy81-confirmed.md",
+      "bytes": 3545
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/content-objects.md",
+      "bytes": 5135
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/fullscreen-video-window.md",
+      "bytes": 5113
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/style-kit-sources.md",
+      "bytes": 36012
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/visual-usage.md",
+      "bytes": 6972
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/distribution-access.md",
+      "bytes": 4351
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/background-music.md",
+      "bytes": 8453
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library-shot-language.md",
+      "bytes": 4565
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/episode-assembly.md",
+      "bytes": 17538
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/typography.md",
+      "bytes": 4260
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/production-defaults.md",
+      "bytes": 21835
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/landscape-subtitles.md",
+      "bytes": 4660
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library-material-provenance.md",
+      "bytes": 2128
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/episode107-selected.md",
+      "bytes": 3512
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/typography-registry.json",
+      "bytes": 11927
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/chatgpt-pro-storyboard-replication.md",
+      "bytes": 14411
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/expansion-selected.md",
+      "bytes": 4895
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/render-and-delivery.md",
+      "bytes": 23824
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library-selfpick24-confirmed.md",
+      "bytes": 5732
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/object-transitions.md",
+      "bytes": 8252
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/new-component-workflow.md",
+      "bytes": 11474
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/production-gates.md",
+      "bytes": 11648
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/exploration.md",
+      "bytes": 2655
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/sound-effects.md",
+      "bytes": 8363
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/maintenance.md",
+      "bytes": 13644
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/component-reuse-map.md",
+      "bytes": 13008
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/feedback-rules.md",
+      "bytes": 46333
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/sound-effects.json",
+      "bytes": 13246
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/episode102-selected.md",
+      "bytes": 5111
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/library-remakes-reuse.md",
+      "bytes": 8572
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/references/motion-craft.md",
+      "bytes": 8174
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/scan_dynamic_scenes.py",
+      "bytes": 4723
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_feedback.py",
+      "bytes": 3467
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/typography.py",
+      "bytes": 1648
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_motion_audit.py",
+      "bytes": 3677
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/verify_dependencies.py",
+      "bytes": 15850
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/lint_remotion_clock.py",
+      "bytes": 2420
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_production_gate.py",
+      "bytes": 12239
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/reference_usage.py",
+      "bytes": 5529
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/build_reference_shelf.py",
+      "bytes": 5743
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_bgm.py",
+      "bytes": 6143
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/snapshot_reference_code.py",
+      "bytes": 5541
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/references.py",
+      "bytes": 273
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/portable_catalog.py",
+      "bytes": 7508
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/component_distribution.py",
+      "bytes": 8712
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/library_gate.py",
+      "bytes": 10615
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/feedback.py",
+      "bytes": 2446
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_segment_review.py",
+      "bytes": 7524
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_component_adaptation.py",
+      "bytes": 4625
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/sfx.py",
+      "bytes": 1677
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_reference_execution.py",
+      "bytes": 835
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/build_transition_study.py",
+      "bytes": 8655
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_component_kit.py",
+      "bytes": 9579
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_review_server.mjs",
+      "bytes": 10669
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_storyboard.py",
+      "bytes": 7349
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/bgm.py",
+      "bytes": 10820
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/init_review_app.py",
+      "bytes": 8810
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/scene.py",
+      "bytes": 19396
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/component_kit.py",
+      "bytes": 39301
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_feedback_evidence.py",
+      "bytes": 5897
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_library_matching.py",
+      "bytes": 9953
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/serve_review_app.py",
+      "bytes": 2971
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/package_bgm.py",
+      "bytes": 2323
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_reference_shelf.py",
+      "bytes": 3598
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_lint_remotion_clock.py",
+      "bytes": 924
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_reference_usage.py",
+      "bytes": 7071
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_reference_integrity.py",
+      "bytes": 13066
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_motion_readiness.py",
+      "bytes": 2621
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_workflow.py",
+      "bytes": 11739
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_review_launcher.py",
+      "bytes": 1013
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/validate_storyboard.py",
+      "bytes": 9746
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/verify_feedback.py",
+      "bytes": 6723
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/common.py",
+      "bytes": 4383
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/transitions.py",
+      "bytes": 3510
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_library_gate.py",
+      "bytes": 6186
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/validate_production_gate.py",
+      "bytes": 20926
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/prepare_review_segments.py",
+      "bytes": 5254
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_component_selection.py",
+      "bytes": 4661
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_reference_selection.py",
+      "bytes": 12221
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_dynamic_sampling.py",
+      "bytes": 1655
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_review_app.py",
+      "bytes": 9431
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/library_matching.py",
+      "bytes": 14246
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_production_contract.py",
+      "bytes": 4925
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/bgm_policy.py",
+      "bytes": 1435
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/motion_audit.py",
+      "bytes": 11833
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/workflow.py",
+      "bytes": 12253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_segment_review_browser.cjs",
+      "bytes": 5713
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/build_reading_guide.py",
+      "bytes": 5090
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/check_component_calls.mjs",
+      "bytes": 2195
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_transitions.py",
+      "bytes": 3784
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_scene.py",
+      "bytes": 19060
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/production_contract.py",
+      "bytes": 10899
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/component_adaptation.py",
+      "bytes": 4729
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/test_component_distribution.py",
+      "bytes": 5208
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/component_selection.py",
+      "bytes": 10487
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/build_segment_review.py",
+      "bytes": 16099
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/assets/dependency-registry.json",
+      "bytes": 141
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/production_contract.cpython-312.pyc",
+      "bytes": 14238
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/library_gate.cpython-312.pyc",
+      "bytes": 18466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/component_distribution.cpython-312.pyc",
+      "bytes": 14044
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/workflow.cpython-312.pyc",
+      "bytes": 17431
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/validate_storyboard.cpython-312.pyc",
+      "bytes": 14378
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/component_selection.cpython-312.pyc",
+      "bytes": 16675
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/common.cpython-312.pyc",
+      "bytes": 6824
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/lint_remotion_clock.cpython-312.pyc",
+      "bytes": 4162
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/component_adaptation.cpython-312.pyc",
+      "bytes": 5903
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/scan_dynamic_scenes.cpython-312.pyc",
+      "bytes": 7664
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/reference_usage.cpython-312.pyc",
+      "bytes": 9044
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/scene.cpython-312.pyc",
+      "bytes": 25395
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/library_matching.cpython-312.pyc",
+      "bytes": 22532
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/portable_catalog.cpython-312.pyc",
+      "bytes": 10919
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/__pycache__/feedback.cpython-312.pyc",
+      "bytes": 4404
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/skills/FredTalk/skills/fred-remotion-output/scripts/fixtures/segment-review.example.json",
+      "bytes": 1566
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-03.jpg",
+      "bytes": 265881
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2.log",
+      "bytes": 3504
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3.log",
+      "bytes": 3352
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-02.jpg",
+      "bytes": 185774
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/audio-correlation.json",
+      "bytes": 2080
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1.log",
+      "bytes": 3444
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-01.jpg",
+      "bytes": 211974
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/1-still.log",
+      "bytes": 3717
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/audio-correlation.log",
+      "bytes": 2081
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-05.jpg",
+      "bytes": 295462
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4.log",
+      "bytes": 3445
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5.log",
+      "bytes": 3444
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-10.jpg",
+      "bytes": 160105
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-04.jpg",
+      "bytes": 238737
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-06.jpg",
+      "bytes": 310168
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6.log",
+      "bytes": 3445
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/111.5-still.log",
+      "bytes": 3775
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-07.jpg",
+      "bytes": 175567
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/silence.log",
+      "bytes": 3398
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/delivery.json",
+      "bytes": 1040
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/exact-frame-5558.png",
+      "bytes": 70543
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/audio-correlation-initial-search.json",
+      "bytes": 1697
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/probe.json",
+      "bytes": 4617
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/decode.log",
+      "bytes": 0
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/exact-frame-5557.png",
+      "bytes": 33321
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/loudness.log",
+      "bytes": 2145
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/audio-diagnosis.json",
+      "bytes": 1617
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2.jpg",
+      "bytes": 168552
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3.jpg",
+      "bytes": 206644
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-09.jpg",
+      "bytes": 235812
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1.jpg",
+      "bytes": 126362
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/contact-08.jpg",
+      "bytes": 188099
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cutfix-encode.log",
+      "bytes": 10233
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4.jpg",
+      "bytes": 169799
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5.jpg",
+      "bytes": 105900
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/player.png",
+      "bytes": 42952
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6.jpg",
+      "bytes": 176757
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/sampling.log",
+      "bytes": 3745
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-05.jpg",
+      "bytes": 7768
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-10.jpg",
+      "bytes": 8618
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-04.jpg",
+      "bytes": 7768
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-06.jpg",
+      "bytes": 8710
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-07.jpg",
+      "bytes": 8798
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-03.jpg",
+      "bytes": 8696
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-02.jpg",
+      "bytes": 8696
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-01.jpg",
+      "bytes": 8696
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-09.jpg",
+      "bytes": 8612
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-1/f-08.jpg",
+      "bytes": 8602
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-05.jpg",
+      "bytes": 7726
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-10.jpg",
+      "bytes": 14242
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-04.jpg",
+      "bytes": 8339
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-06.jpg",
+      "bytes": 13955
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-07.jpg",
+      "bytes": 14129
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-03.jpg",
+      "bytes": 8447
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-02.jpg",
+      "bytes": 8364
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-01.jpg",
+      "bytes": 8401
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-09.jpg",
+      "bytes": 14279
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-6/f-08.jpg",
+      "bytes": 14113
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-027.jpg",
+      "bytes": 22497
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-033.jpg",
+      "bytes": 11915
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-032.jpg",
+      "bytes": 11915
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-026.jpg",
+      "bytes": 19801
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-018.jpg",
+      "bytes": 8479
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-030.jpg",
+      "bytes": 21100
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-024.jpg",
+      "bytes": 11039
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-025.jpg",
+      "bytes": 12706
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-031.jpg",
+      "bytes": 9719
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-019.jpg",
+      "bytes": 9983
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-035.jpg",
+      "bytes": 11742
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-021.jpg",
+      "bytes": 11598
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-009.jpg",
+      "bytes": 12187
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-008.jpg",
+      "bytes": 12184
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-020.jpg",
+      "bytes": 11323
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-034.jpg",
+      "bytes": 11431
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-022.jpg",
+      "bytes": 11595
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-036.jpg",
+      "bytes": 11426
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-037.jpg",
+      "bytes": 12226
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-023.jpg",
+      "bytes": 11595
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-078.jpg",
+      "bytes": 10351
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-044.jpg",
+      "bytes": 14042
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-050.jpg",
+      "bytes": 17167
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-087.jpg",
+      "bytes": 8595
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-093.jpg",
+      "bytes": 12635
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-092.jpg",
+      "bytes": 12643
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-086.jpg",
+      "bytes": 8780
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-051.jpg",
+      "bytes": 17177
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-045.jpg",
+      "bytes": 14239
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-079.jpg",
+      "bytes": 10351
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-053.jpg",
+      "bytes": 16695
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-047.jpg",
+      "bytes": 16117
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-090.jpg",
+      "bytes": 12964
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-084.jpg",
+      "bytes": 9640
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-085.jpg",
+      "bytes": 8801
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-091.jpg",
+      "bytes": 12770
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-046.jpg",
+      "bytes": 14943
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-052.jpg",
+      "bytes": 16733
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-056.jpg",
+      "bytes": 15710
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-042.jpg",
+      "bytes": 14257
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-095.jpg",
+      "bytes": 8275
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-081.jpg",
+      "bytes": 11366
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-080.jpg",
+      "bytes": 11467
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-094.jpg",
+      "bytes": 7724
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-043.jpg",
+      "bytes": 14458
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-057.jpg",
+      "bytes": 20051
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-041.jpg",
+      "bytes": 13838
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-055.jpg",
+      "bytes": 17364
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-069.jpg",
+      "bytes": 20144
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-082.jpg",
+      "bytes": 11153
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-096.jpg",
+      "bytes": 10189
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-109.jpg",
+      "bytes": 18990
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-108.jpg",
+      "bytes": 11996
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-097.jpg",
+      "bytes": 10396
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-083.jpg",
+      "bytes": 9074
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-068.jpg",
+      "bytes": 19836
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-054.jpg",
+      "bytes": 17364
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-040.jpg",
+      "bytes": 13838
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-059.jpg",
+      "bytes": 18594
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-065.jpg",
+      "bytes": 19315
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-071.jpg",
+      "bytes": 21024
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-111.jpg",
+      "bytes": 19535
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-105.jpg",
+      "bytes": 11806
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-104.jpg",
+      "bytes": 11775
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-110.jpg",
+      "bytes": 19155
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-070.jpg",
+      "bytes": 19372
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-064.jpg",
+      "bytes": 9193
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-058.jpg",
+      "bytes": 20576
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-072.jpg",
+      "bytes": 21607
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-066.jpg",
+      "bytes": 20148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-099.jpg",
+      "bytes": 19467
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-106.jpg",
+      "bytes": 12031
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-112.jpg",
+      "bytes": 19616
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-113.jpg",
+      "bytes": 15912
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-107.jpg",
+      "bytes": 12212
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-098.jpg",
+      "bytes": 18989
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-067.jpg",
+      "bytes": 20120
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-073.jpg",
+      "bytes": 7646
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-077.jpg",
+      "bytes": 9795
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-063.jpg",
+      "bytes": 10618
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-088.jpg",
+      "bytes": 12739
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-103.jpg",
+      "bytes": 11301
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-102.jpg",
+      "bytes": 8946
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-089.jpg",
+      "bytes": 12828
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-062.jpg",
+      "bytes": 10618
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-076.jpg",
+      "bytes": 9604
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-060.jpg",
+      "bytes": 9128
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-074.jpg",
+      "bytes": 7638
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-048.jpg",
+      "bytes": 16117
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-100.jpg",
+      "bytes": 19560
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-101.jpg",
+      "bytes": 7403
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-049.jpg",
+      "bytes": 17034
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-075.jpg",
+      "bytes": 8677
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-061.jpg",
+      "bytes": 10204
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-006.jpg",
+      "bytes": 11090
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-012.jpg",
+      "bytes": 11743
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-013.jpg",
+      "bytes": 11756
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-007.jpg",
+      "bytes": 10808
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-039.jpg",
+      "bytes": 12908
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-011.jpg",
+      "bytes": 11997
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-005.jpg",
+      "bytes": 9656
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-004.jpg",
+      "bytes": 8130
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-010.jpg",
+      "bytes": 11997
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-038.jpg",
+      "bytes": 12226
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-014.jpg",
+      "bytes": 11579
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-028.jpg",
+      "bytes": 22513
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-029.jpg",
+      "bytes": 22526
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-001.jpg",
+      "bytes": 19634
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-015.jpg",
+      "bytes": 11584
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-003.jpg",
+      "bytes": 8875
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-017.jpg",
+      "bytes": 8959
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-016.jpg",
+      "bytes": 11604
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/frames/f-002.jpg",
+      "bytes": 20073
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-05.jpg",
+      "bytes": 11380
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-10.jpg",
+      "bytes": 14454
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-04.jpg",
+      "bytes": 11376
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-06.jpg",
+      "bytes": 14210
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-07.jpg",
+      "bytes": 14447
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-03.jpg",
+      "bytes": 12697
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-02.jpg",
+      "bytes": 12697
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-01.jpg",
+      "bytes": 12697
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-09.jpg",
+      "bytes": 14236
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-3/f-08.jpg",
+      "bytes": 14397
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-05.jpg",
+      "bytes": 6746
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-10.jpg",
+      "bytes": 13573
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-04.jpg",
+      "bytes": 6746
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-06.jpg",
+      "bytes": 13662
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-07.jpg",
+      "bytes": 14036
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-03.jpg",
+      "bytes": 7882
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-02.jpg",
+      "bytes": 7882
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-01.jpg",
+      "bytes": 7882
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-09.jpg",
+      "bytes": 13994
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-4/f-08.jpg",
+      "bytes": 13910
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-05.jpg",
+      "bytes": 9435
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-10.jpg",
+      "bytes": 5207
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-04.jpg",
+      "bytes": 9435
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-06.jpg",
+      "bytes": 3702
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-07.jpg",
+      "bytes": 4253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-03.jpg",
+      "bytes": 9435
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-02.jpg",
+      "bytes": 9435
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-01.jpg",
+      "bytes": 9435
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-09.jpg",
+      "bytes": 4863
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-5/f-08.jpg",
+      "bytes": 4687
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-05.jpg",
+      "bytes": 15301
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-10.jpg",
+      "bytes": 6461
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-04.jpg",
+      "bytes": 16481
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-06.jpg",
+      "bytes": 5771
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-07.jpg",
+      "bytes": 6560
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-03.jpg",
+      "bytes": 16487
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-02.jpg",
+      "bytes": 16487
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-01.jpg",
+      "bytes": 16487
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-09.jpg",
+      "bytes": 6445
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final/cut-2/f-08.jpg",
+      "bytes": 6463
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/kit/theme.ts",
+      "bytes": 3786
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+      "bytes": 11932
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/SmileySubtitle.tsx",
+      "bytes": 727
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/豆包App拒绝-完整片-v1.mp4",
+      "bytes": 40967102
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/首帧候选-v1.jpg",
+      "bytes": 183189
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/播放.html",
+      "bytes": 2144
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/收束候选-v1.jpg",
+      "bytes": 205705
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/豆包App拒绝-字幕-v1.srt",
+      "bytes": 3263
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/SHA256SUMS.txt",
+      "bytes": 445
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "doubao-app-rejection-20261016",
+  "stage": "04",
+  "decision": "PASS",
+  "scope": "v3完整候选及Q01时序修正交接给05delta，不是最终连续声画/用户终审通过。",
+  "reviewed_at": "2026-10-17T00:44:53.041453+08:00",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/04-完整片交付-v3.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/delivery.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/decode.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/audio-v2-hash.txt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/audio-v3-hash.txt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/native-85.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/native-86.5.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/Q01-motion-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/Q01-motion-07.jpg"
+  ],
+  "remaining_required_work": [],
+  "video_sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "findings": [
+    "当前实体SHA与交付一致，完整113秒/6780帧，解码回执无错误。",
+    "实际原尺寸85秒推荐高亮且三对象均在；86.5秒问句接管且三对象仍在；密采样显示依次强调并切入数据段。",
+    "音轨PCM hash与v2相同；未改变SRT/时长和无关范围。"
+  ],
+  "downstream_required_checks": [
+    "原05核82.4–87.1与必要邻接，并定向解消04联系表疑点；保留v2全片已审范围。"
+  ],
+  "user_review": "PENDING",
+  "normal_speed_continuous_audiovisual": "UNKNOWN",
+  "direct_hearing": "UNKNOWN"
+}

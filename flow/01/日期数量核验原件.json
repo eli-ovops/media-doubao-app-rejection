@@ -1,0 +1,164 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "owner_thread": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "checked_at": "2026-10-16T23:28:35.253632+08:00",
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/01-本片来源与视觉素材任务.md",
+      "sha256": "06c04912d33d65c744d94ea26144a4dfbc56619d8550f9ab2008ed204e0a352e",
+      "actual_read": "full text"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/制作总单.md",
+      "sha256": "c7b7fa09cf71e148c58b168d44fc118cb937229866bd7520c4d8bd3908ab764e",
+      "actual_read": "full text"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/用户脚本.md",
+      "sha256": "d44c90bc9126e69555f275bf65b3dca5612ceb7f29bd9d6f1bcf1c2af0980ea7",
+      "actual_read": "full text"
+    }
+  ],
+  "rules_read": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4",
+    "HANDOFF-2026-10-10-v2",
+    "ELI-FRED-PRODUCTION-20261016-v1"
+  ],
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "budget": {
+    "minutes_max": 20,
+    "external_collections_max": 12,
+    "conservative_count": 12,
+    "queries": 8,
+    "failed_exa": 1,
+    "new_page_navigations": 3,
+    "actual_news_article_deep_read": 1,
+    "official_navigation_failed_or_rejected": 2,
+    "same_page_capture": "no new source acquisition",
+    "new_public_media_bytes": 376374
+  },
+  "acquisitions": [
+    {
+      "id": 1,
+      "query": "豆包 屏幕自动化操作声明 2026 9月14 155 10月14 腾讯66",
+      "route_or_raw": "exa",
+      "result": "Unknown MCP server exa; stopped, configuration unchanged"
+    },
+    {
+      "id": 2,
+      "query": "豆包 手机助手 屏幕自动化操作声明 155",
+      "route_or_raw": "search-01.json",
+      "result": "search return only"
+    },
+    {
+      "id": 3,
+      "query": "豆包 手机助手 屏幕自动化 9月14日",
+      "route_or_raw": "search-01.json",
+      "result": "search return only"
+    },
+    {
+      "id": 4,
+      "query": "豆包 手机助手 腾讯 66 10月14日",
+      "route_or_raw": "search-01.json",
+      "result": "search return only"
+    },
+    {
+      "id": 5,
+      "query": "豆包 手机助手 官网 拒绝 155",
+      "route_or_raw": "search-02.json",
+      "result": "search return only"
+    },
+    {
+      "id": 6,
+      "query": "豆包 手机助手 2025年12月 微信 阿里 暂停 操作能力 调整 说明",
+      "route_or_raw": "search-02.json",
+      "result": "search return only"
+    },
+    {
+      "id": 7,
+      "query": "微信软件许可及服务协议 未经腾讯授权 自动化操作",
+      "route_or_raw": "search-02.json",
+      "result": "search return only"
+    },
+    {
+      "id": 8,
+      "query": "豆包手机助手 官网 SAEP 不可操作清单 10月14日",
+      "route_or_raw": "search-03.json",
+      "result": "search return only"
+    },
+    {
+      "id": 9,
+      "query": "site.weixin.qq.com [REDACTED_HOST] 自动化操作",
+      "route_or_raw": "search-03.json",
+      "result": "no official clause result"
+    },
+    {
+      "id": 10,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34250739",
+      "result": "whole article text read; selected displayed list regions actually seen; not a full official-row recount"
+    },
+    {
+      "id": 11,
+      "url": "https://www.doubao.com/phone",
+      "result": "one obvious direct navigation; page not found; no route guessing loop"
+    },
+    {
+      "id": 12,
+      "url": "https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=default",
+      "result": "explicit browser site-safety block; no authority to observe; no alternate route or workaround"
+    }
+  ],
+  "facts": {
+    "reported_count": {
+      "source": "The Paper 2026-10-14 21:40",
+      "total": 155,
+      "ecosystem_groups": [
+        66,
+        23,
+        14,
+        11,
+        7,
+        34
+      ],
+      "sum": 155,
+      "independent_current_official_row_count": "UNKNOWN",
+      "conflicts": [
+        {
+          "source": "Beijing News 2026-10-14 16:14",
+          "total": 153,
+          "scope": "search only"
+        },
+        {
+          "source": "Jiemian 2026-10-14 16:14",
+          "total": 151,
+          "scope": "search only"
+        }
+      ],
+      "reason_for_conflict": "UNKNOWN"
+    },
+    "DeepSeek": "actually visible in The Paper reproduced dated list; not independently retrieved official original",
+    "release_date": "2026-09-14 and 30 days supported by media search returns plus The Paper full-text retrospective; official original not retrieved",
+    "end_date": "2026-10-14 per The Paper full text",
+    "WeChat_withdrawal": "2025-12-03 media search return relays official announcement; page/official post not opened",
+    "Alibaba_whole_ecosystem_withdrawal": "UNKNOWN; app login restrictions do not establish Doubao proactively withdrew capability",
+    "official_WeChat_current_clause": "UNKNOWN due site-safety; third-party [REDACTED_HOST] search lead only"
+  },
+  "pmo_decision_received": {
+    "keep_audio_155": true,
+    "visual": "only natural source/date on real The Paper report; not current official numerical assertion, no generic disclaimer small print",
+    "blocked_agreement": "do not fabricate official UI",
+    "scope": "stop at original budget"
+  },
+  "validation": {
+    "asset_sha_dimensions": true,
+    "script_or_original_media_edited": false,
+    "official_originals_all_verified": false,
+    "render_or_new_video_output": false
+  },
+  "cleanup": "all outputs remain necessary for production and evidence, retain; no disposable media cache or deletion"
+}

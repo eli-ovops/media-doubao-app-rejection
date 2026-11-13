@@ -1,0 +1,45 @@
+{
+  "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v4/豆包封面-1080x1440-v4.png",
+  "dimensions": [
+    1080,
+    1440
+  ],
+  "mime": "image/png",
+  "sha256": "5cd410564437c720e6185ee35d[REDACTED_PHONE]ac39b421e303a404efc073f9aa8",
+  "bytes": 2171762,
+  "generatedSourceDimensions": [
+    1086,
+    1448
+  ],
+  "generatedSourceSha256": "30af6aca0b70e1993c9b05daed1422865dc1393d96f1db898e3f278ce0044726",
+  "process": "Built-in image_gen 3:4 recomposition from v4 portrait + exact art portrait + official Doubao avatar; ffmpeg Lanczos proportional contain scaling and white padding to1080x1440, setsar1; no stretch, no crop.",
+  "normalizationFilter": "scale=1080:1440:force_original_aspect_ratio=decrease:flags=lanczos,pad=1080:1440:(ow-iw)/2:(oh-ih)/2:color=white,setsar=1",
+  "review": {
+    "actuallyViewed": [
+      "v4 source",
+      "original brown-suit art portrait",
+      "official avatar",
+      "generated result",
+      "final1080x1440 PNG",
+      "270x360 phone PNG"
+    ],
+    "text": "Only155个app / 拒绝了豆包;155 verified,app lowercase; upper purple/lower black",
+    "subjects": "Brown-suit/white-T same recognizable Eli; blue-circle bob-haired Doubao visible; neither face/eyes/head/hair/glasses nor any title cropped or mutually covered",
+    "phone": "270px wide text readable; both faces clear",
+    "limits": "Generated composition, identity/design visually preserved but pixels may change; platform editor and user acceptance not verified"
+  },
+  "rulesRead": [
+    "imagegen SKILL.md (already read in this context)",
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4",
+    "GROK-OPS-CODEX-PRODUCTION-20261017-v2",
+    "current PMO1080x1440 scoped task"
+  ],
+  "requestedModel": "gpt-6-astra",
+  "requestedEffort": "medium",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "imageModel": "UNKNOWN",
+  "userAcceptance": "PENDING",
+  "scope": "One new final PNG only; evidence in1080x1440; existing manifest,pack,ZIP,shared state,video,audio,SRT unchanged"
+}

@@ -1,0 +1,19 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "scope": "Only Q01 range, necessary neighbors/identity and concrete contact-sheet doubt; preserve full-v2 independent coverage",
+  "frozen_video_sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a79-f636-7823-9350-3c5f7526e6c7\"}"
+      }
+    ],
+    "isError": false
+  },
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "user_final_review": "PENDING"
+}

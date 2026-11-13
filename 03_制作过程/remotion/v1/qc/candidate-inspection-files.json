@@ -1,0 +1,106 @@
+[
+  {
+    "id": "fred-wave3-40-t16a",
+    "label": "T16a",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T16a-1-preview.mp4",
+    "sha256": "8ad8b3a47a1d9fa28742105ed5ea97d63d802eaa93f704d81c9e4f9dc07f3c02",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T16a.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "fred-wave2-42-t04d",
+    "label": "T04d",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T04d-1-preview.mp4",
+    "sha256": "fe9317c8f849fb261f247a8370446afe9dcc3859e41e135ab645fd70dd6a4e55",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T04d.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "library-new10-n026",
+    "label": "N026",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/N026-1-preview.mp4",
+    "sha256": "4e31dc1db31c1d05bcbc96345e1aab14383ae3a49c97527c0f06616743586076",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-N026.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "library-legacy81-r006",
+    "label": "L81-R006",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/L81-R006-1-preview.mp4",
+    "sha256": "8b22f045e5b0fdca794b03bab12901ec753ecc8a39a938eda3159ed0fa4bf92b",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-L81-R006.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "library-legacy81-c005",
+    "label": "L81-C005",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/L81-C005-1-preview.mp4",
+    "sha256": "998b2d9e7d9fc00b4419930d311836f7c17c03633cc5d3e98b986ef456efae68",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-L81-C005.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "fred-wave2-42-t02e",
+    "label": "T02e",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T02e-1-preview.mp4",
+    "sha256": "5267b30861c2028a0da6a82091031469de97dad9bb066c8816d2a526ecae193a",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T02e.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "fred-wave3-40-t13d",
+    "label": "T13d",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T13d-1-preview.mp4",
+    "sha256": "34aa6188226bb43c3d1e0a5597d16fa6d347db48b2f806c224d05b883e1bc1cf",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T13d.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "fred-wave3-40-t14e",
+    "label": "T14e",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T14e-1-preview.mp4",
+    "sha256": "38980c72d42e740fd4fe854a72b54052c54d24553b1f04740d614225ab862181",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T14e.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "fred-native-t14c",
+    "label": "T14c",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T14c-1-preview.mp4",
+    "sha256": "b6ef45b4616f2d77db9fd623f3e017a50dbadac4f5b3859475d56eef4d9c9045",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T14c.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "fred-wave3-40-t15f",
+    "label": "T15f",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T15f-1-preview.mp4",
+    "sha256": "9081c2ebab360753bfb088c2733f5a6e53dd21806d0613d0d3582cbd79b86ede",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T15f.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "fred-wave3-40-t04f",
+    "label": "T04f",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T04f-1-preview.mp4",
+    "sha256": "d3a16615177b01f31b522ce59b6dc21ac12996589070c2298be6872671305bf9",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T04f.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "fred-wave3-40-t02h",
+    "label": "T02h",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/T02h-1-preview.mp4",
+    "sha256": "aa99d90800118b426df9ca558b1411d7dc0bb3822e18549f14c162f70714a4d5",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-T02h.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  },
+  {
+    "id": "library-new10-n047",
+    "label": "N047",
+    "preview": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/\u8d44\u4ea7\u5e93/FredTalk/\u7ec4\u4ef6\u89c6\u9891/N047-1-preview.mp4",
+    "sha256": "376358faff272b2ce121ce19e69f435ff97d8c976885cba75c9cc77435101b6e",
+    "contact": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/doubao-app-rejection-20261016/03_\u5236\u4f5c\u8fc7\u7a0b/remotion/v1/qc/candidate-N047.jpg",
+    "range": "nominal0,1.5,3.0s samples; not continuous"
+  }
+]

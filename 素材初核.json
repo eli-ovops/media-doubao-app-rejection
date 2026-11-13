@@ -1,0 +1,158 @@
+[
+  {
+    "provided_order": 1,
+    "path": "/Users/USER/Downloads/6ddef9d0438570a5cff46cb0bb87d695_raw.mp4",
+    "exists": true,
+    "probe": {
+      "format": {
+        "bit_rate": "11996790",
+        "duration": "41.093333333333334",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "61623513"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.985397/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 1920,
+          "width": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    }
+  },
+  {
+    "provided_order": 2,
+    "path": "/Users/USER/Downloads/d398bdb31caa205c6e1d60f6dbb03b7c_raw.mp4",
+    "exists": true,
+    "probe": {
+      "format": {
+        "bit_rate": "12071004",
+        "duration": "17.803333333333335",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "26863015"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.98315/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 1920,
+          "width": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    }
+  },
+  {
+    "provided_order": 3,
+    "path": "/Users/USER/Downloads/659ae8a396fa68ce510db8952b270772_raw.mp4",
+    "exists": true,
+    "probe": {
+      "format": {
+        "bit_rate": "12010339",
+        "duration": "26.406666666666666",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "39644130"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.98485/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 1920,
+          "width": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    }
+  },
+  {
+    "provided_order": 4,
+    "path": "/Users/USER/Downloads/d6f955302c7b1a8b9e18b1d8bf95a739_raw.mp4",
+    "exists": true,
+    "probe": {
+      "format": {
+        "bit_rate": "12026564",
+        "duration": "18.953333333333333",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "28492936"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.984173/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 1920,
+          "width": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    }
+  },
+  {
+    "provided_order": 5,
+    "path": "/Users/USER/Downloads/646521d1fa5ee575fa2826a3a00a22f0_raw.mp4",
+    "exists": true,
+    "probe": {
+      "format": {
+        "bit_rate": "12020819",
+        "duration": "16.686666666666667",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "25073426"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.988014/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 1920,
+          "width": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    }
+  },
+  {
+    "provided_order": 6,
+    "path": "/Users/USER/Downloads/5c50133579f3dbb7264e387c481f547c_raw.mp4",
+    "exists": true,
+    "probe": {
+      "format": {
+        "bit_rate": "12040137",
+        "duration": "11.368333333333334",
+        "format_name": "mov,mp4 (AVFoundation adapter)",
+        "size": "17109537"
+      },
+      "streams": [
+        {
+          "avg_frame_rate": "59.991203/1",
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "height": 1920,
+          "width": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ]
+    }
+  }
+]

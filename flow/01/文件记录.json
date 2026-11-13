@@ -1,0 +1,103 @@
+{
+  "scope": "01 owned outputs only",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/来源核验与画面素材.md",
+      "bytes": 9854,
+      "sha256": "7636a7b6a4c9e29cfad6fc3087a4483dd1bfbd60ff5a0b37fa5701e9863d64f5",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/search-03.json",
+      "bytes": 31201,
+      "sha256": "8645e36dbfb1665c4e2edc8464a8c67edfb0e1712256cb396eeae6c362eace63",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/search-02.json",
+      "bytes": 32642,
+      "sha256": "c3096a69c16e40476e628a9f337c4fed93b323f53d559eb9a6eece60a23ab386",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/search-01.json",
+      "bytes": 31906,
+      "sha256": "95ab736b8d38fc86edad324ec4e0de49f646bcc6c819b546d58bdfaf73a89ee5",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/日期数量核验原件.json",
+      "bytes": 5721,
+      "sha256": "474b01d9c8826df3b83233641889ad8a42553413437623af716d0bdaea22e9e3",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/整理核验原件.py",
+      "bytes": 6801,
+      "sha256": "795a4aca86d01181f1c9413f6f49f9d6e36cad28bf7a997d7b6289b01004acd7",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/豆包官方phone入口-实际未找到页面.txt",
+      "bytes": 484,
+      "sha256": "a2cceb656899fb9168112cd5eb860a5addd0e9bc2d51e5fb67b3daddffa320d5",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材清单.json",
+      "bytes": 4811,
+      "sha256": "c77f35651f4e47ca36a232a3c1e3352181f713f45a2c92832efb01ff82f95052",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材/澎湃-20261014-腾讯66-上下文.jpg",
+      "bytes": 95025,
+      "sha256": "93783a50b559f42f2ef97866053831ed3a9b7e3a43fd282c232038fe13416b00",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材/澎湃-20261014-155款-首屏.jpg",
+      "bytes": 89445,
+      "sha256": "23ea18297572dbd2e4dab84956abf208d03f334db00e893045512ea5c77648d7",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材/澎湃-20261014-阿里23快手14美团11.jpg",
+      "bytes": 71757,
+      "sha256": "a14d938b49d0b2665ca922f9d0beeb9eb1c824a9f60ed38765358221ae2222b0",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材/澎湃-20261014-155款-正文与名单01.jpg",
+      "bytes": 44306,
+      "sha256": "139f3493e814c7907a887e20a0b374160336ab9f78175c862daa639ba016c614",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材/澎湃-20261014-DeepSeek与其他名单.jpg",
+      "bytes": 75841,
+      "sha256": "ae3193fe1ba241648a68dd4d2043afecf618cee64e5f53b474110153a581f6a6",
+      "purpose": "this-video source, media, verification or reproducibility",
+      "retain": "needed for production/evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/主动报告发送回执.json",
+      "bytes": 538,
+      "sha256": "3a439fe9126799a3725d0c2df840a7ffeefaa85aa4b20837f3e19916c77de61c",
+      "purpose": "final report send receipt; actual PMO receipt and acceptance separate",
+      "retain": "needed for delivery evidence"
+    }
+  ]
+}

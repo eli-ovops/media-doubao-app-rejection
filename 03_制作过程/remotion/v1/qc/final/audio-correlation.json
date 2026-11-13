@@ -1,0 +1,111 @@
+{
+  "method": "All 7 retained clip interiors: full-sample FFT lag search +/-500 ms, 16 kHz mono. Original to prepared and prepared to final compared separately; no direct hearing or ASR correctness claim.",
+  "rows": [
+    {
+      "clip": "6-0",
+      "sourceToPrepared": [
+        0.9504427313804626,
+        0.0
+      ],
+      "sourceToFinal": [
+        0.9484135508537292,
+        0.0
+      ],
+      "preparedToFinal": [
+        0.9983428716659546,
+        0.0
+      ]
+    },
+    {
+      "clip": "4-0",
+      "sourceToPrepared": [
+        0.9435921907424927,
+        0.0
+      ],
+      "sourceToFinal": [
+        0.9433633685112,
+        0.0
+      ],
+      "preparedToFinal": [
+        0.9999237060546875,
+        0.0
+      ]
+    },
+    {
+      "clip": "3-0",
+      "sourceToPrepared": [
+        0.9442641139030457,
+        0.0
+      ],
+      "sourceToFinal": [
+        0.9438947439193726,
+        0.0
+      ],
+      "preparedToFinal": [
+        0.9996514320373535,
+        0.0
+      ]
+    },
+    {
+      "clip": "2-0",
+      "sourceToPrepared": [
+        0.9503087997436523,
+        0.0
+      ],
+      "sourceToFinal": [
+        0.9502106308937073,
+        0.0
+      ],
+      "preparedToFinal": [
+        0.9999150037765503,
+        0.0
+      ]
+    },
+    {
+      "clip": "1-0",
+      "sourceToPrepared": [
+        0.9494683146476746,
+        0.0
+      ],
+      "sourceToFinal": [
+        0.9494274854660034,
+        0.0
+      ],
+      "preparedToFinal": [
+        0.9999334216117859,
+        0.0
+      ]
+    },
+    {
+      "clip": "1-1",
+      "sourceToPrepared": [
+        0.9320007562637329,
+        -0.0625
+      ],
+      "sourceToFinal": [
+        0.9320347309112549,
+        -0.0625
+      ],
+      "preparedToFinal": [
+        0.9997940063476562,
+        0.0
+      ]
+    },
+    {
+      "clip": "5-0",
+      "sourceToPrepared": [
+        0.9465449452400208,
+        0.0
+      ],
+      "sourceToFinal": [
+        0.9457296133041382,
+        0.0
+      ],
+      "preparedToFinal": [
+        0.9991199374198914,
+        0.0
+      ]
+    }
+  ],
+  "audioTimelineCheck": "PASS"
+}

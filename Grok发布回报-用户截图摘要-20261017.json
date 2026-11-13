@@ -1,0 +1,72 @@
+{
+  "at": "2026-10-17T14:06:10.471789+08:00",
+  "content_id": "doubao-app-rejection-20261016",
+  "source": "用户本PMO聊天所附Grok Bot Appshot 2026-10-17T05-59-58.814Z.png及可读文本；非本机另存图片",
+  "scope": "仅用户提供的Grok回报截图，不是Codex原生平台实时核验",
+  "reported_all_nine_submitted": true,
+  "platforms": [
+    {
+      "platform": "抖音",
+      "reported_status": "GROK_REPORTED_PUBLIC",
+      "reported_url": "https://www.douyin.com/video/7697479042231962914",
+      "native_rechecked_by_codex": false
+    },
+    {
+      "platform": "小红书",
+      "reported_status": "GROK_REPORTED_SUBMITTED_UNDER_REVIEW",
+      "reported_url": null,
+      "native_rechecked_by_codex": false
+    },
+    {
+      "platform": "B站",
+      "reported_status": "GROK_REPORTED_SUBMITTED_UNDER_REVIEW",
+      "reported_url": "https://www.bilibili.com/video/BV1bzJv6wEjF/",
+      "native_rechecked_by_codex": false
+    },
+    {
+      "platform": "视频号",
+      "reported_status": "GROK_REPORTED_PUBLISHED_NO_SHARE_URL",
+      "reported_url": null,
+      "native_rechecked_by_codex": false
+    },
+    {
+      "platform": "微博",
+      "reported_status": "GROK_REPORTED_PUBLISHED",
+      "reported_url": "https://weibo.com/7720929036/Rn4RSrUyH",
+      "native_rechecked_by_codex": false
+    },
+    {
+      "platform": "YouTube",
+      "reported_status": "GROK_REPORTED_PUBLIC",
+      "reported_url": "https://www.youtube.com/shorts/XmiorYMSA88",
+      "native_rechecked_by_codex": false
+    },
+    {
+      "platform": "X",
+      "reported_status": "GROK_REPORTED_POSTED_DURATION_UNRESOLVED",
+      "reported_url": "https://x.com/cczij1112/status/2111334703005409683",
+      "native_rechecked_by_codex": false
+    },
+    {
+      "platform": "TikTok",
+      "reported_status": "GROK_REPORTED_SUBMITTED_UNDER_REVIEW",
+      "reported_url": "https://www.tiktok.com/@elimakesapps/video/7697510164198329620",
+      "native_rechecked_by_codex": false
+    },
+    {
+      "platform": "LinkedIn",
+      "reported_status": "GROK_REPORTED_POSTED_PLAYBACK_PROCESSING_UNVERIFIED",
+      "reported_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7517064699923050496/",
+      "native_rechecked_by_codex": false
+    }
+  ],
+  "all_public_verified": false,
+  "reports_once_per_platform": "GROK_SELF_REPORT_NOT_INDEPENDENTLY_VERIFIED",
+  "grok_followups": [
+    "小红书/B站/TikTok审核与可见性",
+    "LinkedIn视频处理及播放",
+    "X播放器显示1:44与113秒母版的结尾完整性"
+  ],
+  "cleanup_triggered": false,
+  "no_external_actions_by_codex": true
+}

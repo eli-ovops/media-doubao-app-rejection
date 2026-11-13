@@ -1,0 +1,994 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "created_by": "02 intake",
+  "write_scope": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/build_handoff.py",
+      "bytes": 7732,
+      "sha256": "56d0522288acbec34f4f3ef46ae32aa3a6d4bfe84043e912636d8a87c889d228",
+      "role": "reproducible local-only intake/handoff script"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/edl.json",
+      "bytes": 6152,
+      "sha256": "cece77e31534381780e919236255223293990cabf19d06e45d07215cf8f6e90d",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/inspection/raw-01-20.0-native.jpg",
+      "bytes": 168540,
+      "sha256": "18199fdc25aa1873cb3569f0bdbab0c7ea3668de908d6f77f96ca4e34f90c079",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/inspection/raw-04-18.6-native.jpg",
+      "bytes": 115825,
+      "sha256": "4ced23595dcf39147cb6434f76309ea404ecf733324cdd889dcbb13accebdbb7",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/inspection/raw-06-1.0-native.jpg",
+      "bytes": 189528,
+      "sha256": "81cfd0a8a30bd98b358916bf67109b7bd43c4dfa1a32e8d0de22fb12a4a7ba2a",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr.json",
+      "bytes": 39070,
+      "sha256": "9f3a88522eaa9526b72a72324df47322ad41d92f6f4736492fc9780cb078c82f",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr.log",
+      "bytes": 4128,
+      "sha256": "4fb4b998c68c9faefd8646558c047b6f1676d5ca8562785c9d191c991e62011f",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr.srt",
+      "bytes": 838,
+      "sha256": "587f6cf8aaf1d5b12213132243fd0f932e0c5da2f0a93935a66e668feb72ebe1",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/asr.txt",
+      "bytes": 473,
+      "sha256": "5cff49b8c78352974a1d237cebac1c88b90c8d87ba2375e587e77fe51fbbab80",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/audio.wav",
+      "bytes": 1315534,
+      "sha256": "77054619d55f60edeef50946d0208c395dee0094401eaa27700f9f0cea975f6a",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/decode.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/000-0.000.jpg",
+      "bytes": 23989,
+      "sha256": "bec267700004674d4d2d6284a6b59be4907cc10e8bfb22d3052b53d884cc81c0",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/001-2.000.jpg",
+      "bytes": 27470,
+      "sha256": "89524365762cb7b45447e3d6a0ca6c4075eb094173383841055c876203cd2a9e",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/002-4.000.jpg",
+      "bytes": 27649,
+      "sha256": "313e2e9747cdb772010fea6eca2dd6d7e844c341a1058e92fbf8f665bc90c39f",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/003-6.000.jpg",
+      "bytes": 24362,
+      "sha256": "e58c8001eb2efb666f2b166daf2c681c0c64f4c88963580a0b8efc151763c27c",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/004-8.000.jpg",
+      "bytes": 27819,
+      "sha256": "18e7087733116ac11f255812ee8b0e5e41ca4fc7dfce1f6a165089053c2f1ef4",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/005-10.000.jpg",
+      "bytes": 28485,
+      "sha256": "47818cb89b5410d896401cd01f7e53f14fcf9806581a634fdc997aa912cf83c6",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/006-12.000.jpg",
+      "bytes": 27431,
+      "sha256": "6c599e3c6f4e401233a8f95d0a4a3ad2be09186243b258660b2b905f97f6be8d",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/007-14.000.jpg",
+      "bytes": 29320,
+      "sha256": "c8d41b39deacedccb30b2b5cb160b79fc85f5cf737f9ec04b8133adde7fe1857",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/008-16.000.jpg",
+      "bytes": 28576,
+      "sha256": "c1e40646d742ece165f4d083a28e96e927bbd85dfd3d19cb9b605ff21c1e8895",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/009-18.000.jpg",
+      "bytes": 28513,
+      "sha256": "52a68500a02bf3c819c847250e75214c8baf9ba9cb22d06b6120f145e7880221",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/010-20.000.jpg",
+      "bytes": 28270,
+      "sha256": "922c242b7166668475ad1c2cf2fc94ca4a0e1605c7fc73283d32435722246cad",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/011-22.000.jpg",
+      "bytes": 26732,
+      "sha256": "f9d8c90122a7f1067f428409eab54591bab505c152229bd71803c3e54899ef8c",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/012-24.000.jpg",
+      "bytes": 27978,
+      "sha256": "3d246c9fb3e188966d1890d526634c354124ee6d50caa1d1f38bcb0288eaa744",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/013-26.000.jpg",
+      "bytes": 29578,
+      "sha256": "1cdba836f96806365eac939fd69b2591d7dd63bfebab7c369a12753d7f0e70bf",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/014-28.000.jpg",
+      "bytes": 29569,
+      "sha256": "7e15b9b0bc960da79e730bfcc1d2187300aba546b221d0bdf75a57ab2d93cd24",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/015-30.000.jpg",
+      "bytes": 28236,
+      "sha256": "58e4d4aeeca2a530c054648e95bf4bdbe93da0c301dd916beb1da3d5fd1e373c",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/016-32.000.jpg",
+      "bytes": 29359,
+      "sha256": "37ebf5825a2f44a056fb7a42350590cb4cc6dec1841bc74baf1c0b0c45e34dd3",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/017-34.000.jpg",
+      "bytes": 28578,
+      "sha256": "d407c3f00e1a726093169b4608428aef6fc086252342f4fead38e424277edc0a",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/018-36.000.jpg",
+      "bytes": 27425,
+      "sha256": "db255bf79f9b575663887219b9e0feac66f2c5098959ec3c9a7e5a802d46d1dd",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/019-38.000.jpg",
+      "bytes": 26895,
+      "sha256": "062f7f6b0f24df60ec499e664a968d0531c0c0aca198941412c6334337ac6b61",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/020-40.000.jpg",
+      "bytes": 28895,
+      "sha256": "13758968e98c28da7d288a4d72c797423f291578d934ec800c9c33be16c72e54",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/frames/021-40.843.jpg",
+      "bytes": 26739,
+      "sha256": "0911cab2a28c895f6ff1920ff3a67072ae6198323650638c8d107ce0c9a08b7d",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/sheet-1.jpg",
+      "bytes": 259838,
+      "sha256": "aef3a4ec6ccb1d9f663b5282bbf24346a8984fd424a39ff26220acbf1febad94",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/sheet-2.jpg",
+      "bytes": 222808,
+      "sha256": "055d7f710dd248ff11d1dc4d59d6ddb4a8038bab6a3c13ae5b8827421ba52895",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/signal.log",
+      "bytes": 7379,
+      "sha256": "8e04e07f6479ea1f04676d5a02a0d4aa996c2937cf9407504689aba39d8e1384",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/subtitles-candidate.source.srt",
+      "bytes": 1247,
+      "sha256": "585b39c9a7fbc932fb979603698eaafdd3b21960baff7e4c26d4898ee8db3ba6",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr.json",
+      "bytes": 17440,
+      "sha256": "caabd24880cd3113bef83c4c183e829396d05ccf284661170130d900573f6228",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr.log",
+      "bytes": 3668,
+      "sha256": "1165462d34f5b4d2d8ddee945e1de45e2cbdb6fe9b0538e17128cfc0da3135fd",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr.srt",
+      "bytes": 376,
+      "sha256": "f678d99c78016e92eb7471c093a008df8afabe5bf06941d4a06e7e74a1aef462",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/asr.txt",
+      "bytes": 211,
+      "sha256": "7ee6ceddae7908793c6d26262bb5d022412723a0f16cb8832fe92a22e4992a69",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/audio.wav",
+      "bytes": 570062,
+      "sha256": "f442e2706704eb0851e484d34ba2d7b6c20473b733443c274603f1079aa7d754",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/decode.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/000-0.000.jpg",
+      "bytes": 25573,
+      "sha256": "c96db63ae05556587f0bc4effe2bd305b5e7e44d8ac7b8e875ad03cdf9db8001",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/001-2.000.jpg",
+      "bytes": 27633,
+      "sha256": "7ac265d735e52d4c4b8b9e6cf20b9e8af01fe59108fa6040d50f8527d4b78b5c",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/002-4.000.jpg",
+      "bytes": 27576,
+      "sha256": "df9deba21e2e182663ec1beaa304bbb9cb92bb58a09c3b8f2004f3c99c72dca7",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/003-6.000.jpg",
+      "bytes": 27794,
+      "sha256": "ea4061dd75a6d91e731ce9dce2ea463c3b68925ddb321e1016935b2358fc4208",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/004-8.000.jpg",
+      "bytes": 27091,
+      "sha256": "e6b28d93c7ee39fb8a9676a14ca47f3efbf38e3bed89701097c5d6890b2cc706",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/005-10.000.jpg",
+      "bytes": 28226,
+      "sha256": "85b74b726a327f96c24efc4991b8304c4d6588f661061a98ba550db5e1cb7632",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/006-12.000.jpg",
+      "bytes": 27490,
+      "sha256": "a311a340ecfabe27eefd62278f7b2fe2f8832e398efe2570c163332441a33302",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/007-14.000.jpg",
+      "bytes": 28557,
+      "sha256": "30378315d81ca9a67de73be4b76cc57d93aa44aee9bf4c9b02dc76266dde231e",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/008-16.000.jpg",
+      "bytes": 28364,
+      "sha256": "35c70dafadfbd4011d9ec5ef70723f04678a72960dbfd448dc3ec7ca3f0e69e4",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/frames/009-17.553.jpg",
+      "bytes": 27028,
+      "sha256": "39f237a25fb4cdfed02957dc61132ce3d70a72cd3b15f0123b346ad49255ac91",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/sheet-1.jpg",
+      "bytes": 218501,
+      "sha256": "7e507a230e3d29851ba952095f3b5f0f1d1f4f36d13c770ae5bdd9eb317b09b0",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/signal.log",
+      "bytes": 5907,
+      "sha256": "cceec1817e75e3b04d6e3b62ccbe3c2db2f15b55c27bf3e12401d137c32edeb4",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/subtitles-candidate.source.srt",
+      "bytes": 477,
+      "sha256": "efef65d1b1aeca6ea17d5dcb198c559a0df1ee673af84be4b741673071c09c02",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr.json",
+      "bytes": 23165,
+      "sha256": "e0c61a4df8ea4a98ddb89bba40ba052739cb3ba8f07245aafa7b51f3a0a3e0a8",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr.log",
+      "bytes": 3709,
+      "sha256": "5b7ce2e00ef158124da76b9444b685769dda52d89614d031d2da3f17e3cd111d",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr.srt",
+      "bytes": 417,
+      "sha256": "cb21a86c66696b8fc2ab1bb46e8900f057e6b55813d2e938f5c5f75bf3f77768",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/asr.txt",
+      "bytes": 252,
+      "sha256": "9abb096f0166869e93ff6e2367b2044d35900bf9c2464e77f3b4e11eb4033424",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/audio.wav",
+      "bytes": 845176,
+      "sha256": "446825f79ad3d03a1f6c9884fefb9dad3392228992ebdbed63893024c3fb3aa9",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/decode.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/000-0.000.jpg",
+      "bytes": 27308,
+      "sha256": "da32e126374c693fe918892748a406dda67b595229d2dbef1c82c4a76d467d90",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/001-2.000.jpg",
+      "bytes": 26000,
+      "sha256": "7ef4337eade3124dbc977f26528f4f7fcbdb40234b4d196ee20d44c285deea2e",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/002-4.000.jpg",
+      "bytes": 19280,
+      "sha256": "211638757573e338dad44ce9541a71391ecc59ec0ab6f0797f43049732abe8a6",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/003-6.000.jpg",
+      "bytes": 25788,
+      "sha256": "2a8868b56e9bd54e81bec2a2ed7945345106a017bf032d29169ce444489ac8c6",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/004-8.000.jpg",
+      "bytes": 26148,
+      "sha256": "1a6f72a436afb4d90899cb55191c43d7b6af8e9e9482954fc265b7852fa2141f",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/005-10.000.jpg",
+      "bytes": 26409,
+      "sha256": "65fd7962ed942f73ebedb3021a613e36edfc5297b2ff284a320fa0f77a02ed9c",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/006-12.000.jpg",
+      "bytes": 26647,
+      "sha256": "911215dcbe16cc62f57d6d062c3eb3a976bde53add05335dce63e085347cb922",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/007-14.000.jpg",
+      "bytes": 26910,
+      "sha256": "a883a3d1e7805f1cf42c6cf67d14d2443a37fbe3b5a1266e27bbf493bd85b6c2",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/008-16.000.jpg",
+      "bytes": 26776,
+      "sha256": "af79199d2dbf8b87bf6b3e4cf09d9cc73c98097b9dfba85386bb4824b5515dc8",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/009-18.000.jpg",
+      "bytes": 28343,
+      "sha256": "885b5d3a60fe0b5171ab4574a8526efe08f4ca808f56ec46c6aebbb98a565c52",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/010-20.000.jpg",
+      "bytes": 28841,
+      "sha256": "dbbcb25df762550e0e88d28b4b9626da1f183fafb8fcf48b44e9909942a9bc55",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/011-22.000.jpg",
+      "bytes": 28733,
+      "sha256": "fe4def8bcdf898007468e6e4574d98ba3d953d674f3d276b2adac4906009d3c2",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/012-24.000.jpg",
+      "bytes": 28797,
+      "sha256": "d6395e6daa3cd34da9d7f5a4889de1fb3ec0dc3a9a2cd5b0dddd4307eecbb260",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/013-26.000.jpg",
+      "bytes": 25806,
+      "sha256": "4bffaa3450b7bed0be7c14c125c2e6a9fe628f5e6c4a4a47b5484c6043fdf8b9",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/frames/014-26.157.jpg",
+      "bytes": 26357,
+      "sha256": "331d33dc758eea7878bcd28c3b82ca38bc0d0f667c04b0a6f258d5d9f81cf7c4",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/sheet-1.jpg",
+      "bytes": 252235,
+      "sha256": "b932b457c81cef3ea213d3cfb8c0f969e0b258fea9c03944c68b5a6321bd996d",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/sheet-2.jpg",
+      "bytes": 79066,
+      "sha256": "01633e39aa050065bfd07659b29a95d55c3724cf4285bace81aa39e48ce53a76",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/signal.log",
+      "bytes": 6589,
+      "sha256": "277a6509b7048760e14b12b4c7f13314c6f9a84d38becf8cfb49e012fd7949d0",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/subtitles-candidate.source.srt",
+      "bytes": 761,
+      "sha256": "a581972d40a833509a6f931710191263e54f673b0737d71f0bfee6075daadf64",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr.json",
+      "bytes": 18693,
+      "sha256": "49b72a66468b90c74005426e6765429705e9c0eee587d42362729c5a63189c18",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr.log",
+      "bytes": 3760,
+      "sha256": "11e6db2a7ab4d2e84b6689d8dcb260745df44602cb7da361bced28f7bad607ad",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr.srt",
+      "bytes": 468,
+      "sha256": "db554fabd65601613168b398cc21ce66968834bd9d88de6dbeb540e19e601281",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/asr.txt",
+      "bytes": 204,
+      "sha256": "2e5fa95951e85f0049bcf0883d9ab1b49035659eaeb608a24fe1ec70e27f4d86",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/audio.wav",
+      "bytes": 606926,
+      "sha256": "0415e0e449f6a3d3d07c7ae238896bd605482efabf4ee894b414b5ad800b5ca2",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/decode.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/000-0.000.jpg",
+      "bytes": 23344,
+      "sha256": "d4f6eb75c0a1f2eb178e59dc13c0d23fc30876596df93e42aa10c28e745fdba5",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/001-2.000.jpg",
+      "bytes": 25920,
+      "sha256": "112f9e68f8d65492d79b5841781ec46c62ec9635e2acf94570289d37e82bf417",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/002-4.000.jpg",
+      "bytes": 24507,
+      "sha256": "ff7b67a7ce6aebe3d55c9f5bad5f6f27f7958bcb8b68f4cf6c4718eae2a81c7c",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/003-6.000.jpg",
+      "bytes": 27330,
+      "sha256": "c7befb107af065d11dfa7071f27ecfa4ab0e2dd227cf1ef5045c7c428f94c946",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/004-8.000.jpg",
+      "bytes": 26313,
+      "sha256": "fbaee83fee3154a40d3534cf0a317ed19d1ea97bab0905c20c311e42585f8b6d",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/005-10.000.jpg",
+      "bytes": 25091,
+      "sha256": "0cbd2aeb7297b746c67f9d611d4d13e835ece4105bc8db838382ef88d2867056",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/006-12.000.jpg",
+      "bytes": 27915,
+      "sha256": "01a87be2be7ffa568646e21afc0f43046f93113cff77e6e948af60918246f8db",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/007-14.000.jpg",
+      "bytes": 26614,
+      "sha256": "7dcf3d1c90fcdfbdfc9753c0621d16443a98f85ab1c11bb3a707fb6c5b476636",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/008-16.000.jpg",
+      "bytes": 25612,
+      "sha256": "1f58cc5de5b758050df5d07ade8dafcb65ddb82a0190e75171d458bf763453c9",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/009-18.000.jpg",
+      "bytes": 27028,
+      "sha256": "c20681ae5bdc5c311b3664235b370dc4b56a047f97220ff07f65c896f16d709d",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/frames/010-18.703.jpg",
+      "bytes": 15218,
+      "sha256": "b24235194819df9a3c007d5a3d4f9c4282338c1f712beae9f70ab23f4348d275",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/sheet-1.jpg",
+      "bytes": 228879,
+      "sha256": "53806dab74cb443f8f30267865a7ad163b98f8c64ee6a6cdee0a004f0277908a",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/signal.log",
+      "bytes": 5921,
+      "sha256": "3d49475b70dc00be5262615bef44a2695639df0cf7e14a9cb47aef13517566e4",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/subtitles-candidate.source.srt",
+      "bytes": 449,
+      "sha256": "d6944c41a5659ca70e02f2ea3bb4967237f2b05fe3bd48e455398aee014c18c9",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr.json",
+      "bytes": 17718,
+      "sha256": "86588d081207e0f41e76a99c1936b15adf30653e7cc8509fde8c726b66aaa048",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr.log",
+      "bytes": 3754,
+      "sha256": "37145c848086a64c136d69598ed087039e327054a5a886e8a094f780e3b0e45a",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr.srt",
+      "bytes": 462,
+      "sha256": "df2b75406e60f8099b5e6568d1497d21953883c2c6431e5d9fdda16d7531c788",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/asr.txt",
+      "bytes": 198,
+      "sha256": "a93ca26be382cdbd3b0336043e8c4701792fe2fa353a00cc127f6d1070feb0ba",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/audio.wav",
+      "bytes": 534564,
+      "sha256": "ee5e63366569b05fc0d7d58b986fa4a635e9efee39d488103cc205cee1c7f19c",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/decode.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/000-0.000.jpg",
+      "bytes": 23343,
+      "sha256": "436a74732ff343ea13d7d93e3dde96d628d3346a3f2b5b64bc1e05a71c6050f2",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/001-2.000.jpg",
+      "bytes": 25081,
+      "sha256": "62f57e54d1d99461f5ae6ac39a55030d9aa0a1af19ce2165d1a9b6188ecb72df",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/002-4.000.jpg",
+      "bytes": 25416,
+      "sha256": "36fca265d902900f0e791b143b388f95afd87b01bed41d6cd6218b5e1d0f9c7d",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/003-6.000.jpg",
+      "bytes": 25619,
+      "sha256": "16689c33b2643a4919bb6cffc82cab304f5a3481133c1b38faef189acc0b0bd6",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/004-8.000.jpg",
+      "bytes": 26450,
+      "sha256": "034e0111520284c669546241111ba095f8de9c9bcb63c801b1a4f0bf325a101d",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/005-10.000.jpg",
+      "bytes": 26259,
+      "sha256": "e03c84c505aa222600bd808ec60a42d8f9e7e51c5ad3cc96f78e92c27ac756ee",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/006-12.000.jpg",
+      "bytes": 26882,
+      "sha256": "830c043c90d055038e6c19e99cb122b0f80005ddd762292b8a1fca4fe301efaf",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/007-14.000.jpg",
+      "bytes": 26905,
+      "sha256": "130c4c4b8aa1fff1446f4101f5d6a64e44c83e2c2b231595df16744b55558707",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/008-16.000.jpg",
+      "bytes": 25888,
+      "sha256": "92abe502265686b417e0882c43d4b8ff3c65814f2e16e7f7848f2fc084f94fca",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/frames/009-16.437.jpg",
+      "bytes": 26057,
+      "sha256": "d6b7446931bbb72715e25086c936faedb5b060381934c288a9658259a141ac32",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/sheet-1.jpg",
+      "bytes": 209612,
+      "sha256": "816d5fd1c862302ddce6b5cf7c8a2dfd817e30050d93990d9a2876d2a8c0a9c4",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/signal.log",
+      "bytes": 5915,
+      "sha256": "392cd0b8d49203dfb331c145b259aa448c4ab889901b0e489708e817bb08d164",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/subtitles-candidate.source.srt",
+      "bytes": 461,
+      "sha256": "4cce803522d119b845177d021cd3f107f7cd345297d5596708d1af7ec6e447af",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr.json",
+      "bytes": 10986,
+      "sha256": "fa85325cf7455e93a50a4eafbfd231d855e0a8a2f89db745e62d7cb6feef3760",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr.log",
+      "bytes": 3508,
+      "sha256": "39df00806f0da7c37591ce76471c4be65258d2e8be61e27a2f5a322d65172de9",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr.srt",
+      "bytes": 216,
+      "sha256": "d2ab7435e68fcd1bcef60090c78ac9e08285d0aa9e6006c65b040ad2d7aaa4b0",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/asr.txt",
+      "bytes": 117,
+      "sha256": "c511671e59e267c0fa1df56a996e7e3d5387a1749809a8542103afb6e322bd52",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/audio.wav",
+      "bytes": 363896,
+      "sha256": "87d80ef1cbaec9af3f0f23de6a27eeab6451502ea4428f0b2509429f47345269",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/decode.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/000-0.000.jpg",
+      "bytes": 26161,
+      "sha256": "1c45ade410611451b33ba00b36c3d094d8d732b0a1239fdd36c8af76cdcef76b",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/001-2.000.jpg",
+      "bytes": 25678,
+      "sha256": "4d8065cccd363d4e2ed37c339c4912af572f354a6bd7e00ca3e5a1d99146c398",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/002-4.000.jpg",
+      "bytes": 27799,
+      "sha256": "bef70e857d89898f15cc6dee2a22296e1d34d314bdc327a3613b3be17f9c8a96",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/003-6.000.jpg",
+      "bytes": 26794,
+      "sha256": "8afce78e60af09551e23108cf79465e0af3637127143c939cf630474fb69c69b",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/004-8.000.jpg",
+      "bytes": 27535,
+      "sha256": "c0fdb4cafd99886c418598d4744044b313ab54c5898a6f0256c08176df819963",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/005-10.000.jpg",
+      "bytes": 23617,
+      "sha256": "c17c4d5d12fa98ee4eef57eb66a9b98c80b088e6e7f5febdca034f76f902b643",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/frames/006-11.118.jpg",
+      "bytes": 25153,
+      "sha256": "ebe01c2c7b481c19ebe51094c9a67f607a02b510332ba4b41fd5c20c454ee9f8",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/sheet-1.jpg",
+      "bytes": 157543,
+      "sha256": "470953fa7e3026204003fd23bb1f68d75746625f7f2136e99d9fbe0e3fb8a8ee",
+      "role": "sparse/native frame inspection, not continuous viewing"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/signal.log",
+      "bytes": 5649,
+      "sha256": "32294a98e06ba755b52d3586caa839ce8fb9a49434d4d87c0d914b1c0885b79f",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/subtitles-candidate.source.srt",
+      "bytes": 279,
+      "sha256": "cdfb2c838c4ef870874f48e6ac0cc74d7d12ec9bf2de9fe578158d8c5a28fa04",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/read-evidence.json",
+      "bytes": 23953,
+      "sha256": "6e77bc68c8e80fe5da9469dc71d2a1d0ec576bbdf9930b524baf038e40ffdd1b",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/receive_media.py",
+      "bytes": 3480,
+      "sha256": "a5b92ccf3e81ec3c5d99b739e79104a649c7760ddabe4307a61ac865abd27091",
+      "role": "reproducible local-only intake/handoff script"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/roughcut-60fps-conform.edl",
+      "bytes": 1331,
+      "sha256": "1b8378412a9eb1dc42045c695604475354f1f0aceab7da97db137d435f4d9b28",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/ranges.json",
+      "bytes": 1131,
+      "sha256": "2016d3783ad263bcc297d80b5a24a9f9a5a8ca9ccbf34cff390fd42ca0f713aa",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw01-phrase.json",
+      "bytes": 3942,
+      "sha256": "bdba7822bd29490706cbfc8fd9238add1571c53e4ed57e69530a183e14f4c2cc",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw01-phrase.log",
+      "bytes": 3210,
+      "sha256": "9021171a8560edd0af47f797fc35725b84ee58a2c1b8f1542036c948395d6955",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw01-phrase.txt",
+      "bytes": 44,
+      "sha256": "a227dd783360880e0a327f4a1ec70733ad7a2f0bd1685e225d7f13cfd07ed74f",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw01-phrase.wav",
+      "bytes": 164822,
+      "sha256": "95ef3c040648808446dc791e87456327bdee9ab20bbc28804a3f82d1681912c4",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw02-captcha.json",
+      "bytes": 3922,
+      "sha256": "b6f360d4dd2894c5def879143938d94534c6fe80343da6b03daa8068e6d4d41c",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw02-captcha.log",
+      "bytes": 3207,
+      "sha256": "ec1ad93a0b1c44c077d2fc22099738f14ed241c479c0c8b2e21b5326e5f02fc2",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw02-captcha.txt",
+      "bytes": 37,
+      "sha256": "07df99843597a7bbf280e6d5fd215378e45bd3ee1aea39b22d35fe9c8bd18445",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw02-captcha.wav",
+      "bytes": 134706,
+      "sha256": "7a7742c9d282d2085bd7f54d7722aa5c19d040917a71912434efd279344e1772",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw02-removal.json",
+      "bytes": 6325,
+      "sha256": "57cb021d1ee70c9677c9cbf3a8fc34d99a59d247abae28a8367aa8fb57a260e7",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw02-removal.log",
+      "bytes": 3238,
+      "sha256": "0ac73f7e5f0f370842838defb02c1bb563b7abaceda31b2918799ca0da9d3361",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw02-removal.txt",
+      "bytes": 67,
+      "sha256": "d544175caf1ac79cadd90db5ef48fdd5032074b5a1425f56de7eebf0a7dcd31d",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw02-removal.wav",
+      "bytes": 209926,
+      "sha256": "9deff1f1f9c0b03225fc4ffce47263eba42a63b1b99bf2b5b02bf5311c29adaa",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw04-notice.json",
+      "bytes": 5348,
+      "sha256": "e9377a4fea6ebd504fe285f0df897b345fb98b6ab74e9f9cac227ff741727a69",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw04-notice.log",
+      "bytes": 3217,
+      "sha256": "9562da7c78c7034198301cf3c0c973b0ed176aad7ca0327c3b36866e14bb12d8",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw04-notice.txt",
+      "bytes": 50,
+      "sha256": "66a0bfab96079d7be6a6443982a080990f38c0d8ee99a18e7c8ec572d8c75c07",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/spot-checks/raw04-notice.wav",
+      "bytes": 232708,
+      "sha256": "9c471feac070ec8604df0ec285e5291caf7e0550c9783776d0f94d53cbed84e5",
+      "role": "ASR/spot-check derived audio, not master; preserve for handoff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/subtitle-cues.json",
+      "bytes": 15474,
+      "sha256": "cb35092a06d9a9af342b0f85f5441ef55e22fac136f372f2fbbfc2b957b3c41a",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/subtitle-edits.json",
+      "bytes": 1938,
+      "sha256": "45c1e60a1467c385a2ee561af2508a[REDACTED_PHONE]f0a9d1755989fbdba3a92b6",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/subtitle-review.json",
+      "bytes": 10596,
+      "sha256": "f3af3cd115c21cb6c8c6cfc0ea2f85a622937eafd4b93f744001ba55d9102874",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/subtitles-candidate.timeline.srt",
+      "bytes": 3717,
+      "sha256": "f8e29551537c8cc0fe3f46dee32718e69f53e19d46f09e74af8fc662a9ed0fef",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/validation.json",
+      "bytes": 2489,
+      "sha256": "b360ad3d04ba185e17836a1b9dc8ea6e599d3cb8ed45888d4fe39e9f1bbdf6eb",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/待核差异.json",
+      "bytes": 2219,
+      "sha256": "819e9d863ffbb9fcb214a747bc083a4523d56ef03566db961a49f8c2039a90da",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/素材接收报告.md",
+      "bytes": 9930,
+      "sha256": "bb1f8d604e735ab02b6d17ad2b49e143952cebb6671a03451c520aac3073a61e",
+      "role": "evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/纠错逐字稿-候选.md",
+      "bytes": 2046,
+      "sha256": "b40e1c1708bbd527b7889e11847cdf85a7353cfb5270123b8123fdf9d04ee44e",
+      "role": "evidence"
+    }
+  ],
+  "total_bytes": 9401227,
+  "source_raw_deleted": false,
+  "cleanup": "All generated evidence still required by production. No deletion."
+}

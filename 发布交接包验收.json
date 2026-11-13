@@ -1,0 +1,23 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "package": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017",
+  "zip": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017.zip",
+  "zip_bytes": 36404219,
+  "zip_sha256": "5ad5776f2bff339854f88744adc3b0f8ce2999ee393258deee702df180ab8124",
+  "archive_files": 16,
+  "payload_bytes": 36396722,
+  "manifest_file": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017/manifest.json",
+  "integrity": "ALL_ZIP_MEMBERS_VERIFIED",
+  "video_sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "grok_receipt": "PENDING",
+  "user_final_review": "PENDING",
+  "publication": "NOT_PERFORMED",
+  "temporary_files": [],
+  "closure": {
+    "handoff_scope": "素材/封面/交接包本地准备及完整性验收完成，Grok实际接收和平台准备待执行",
+    "new_assets_retained": "封面工程、静态导出、包内副本和ZIP均为本次交付/复现所需；无删除",
+    "temporary_files": [],
+    "no_video_change": true,
+    "no_new_automation": true
+  }
+}

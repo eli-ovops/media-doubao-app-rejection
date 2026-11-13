@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "gate": "implementation",
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/manifest.json",
+  "manifestSha256": "e55254b6ab6d2888fdab448bb2e706c6d0449618d13026b8e4aa9ce63aa20c6b",
+  "durationInFrames": 6780,
+  "timelineFps": 60,
+  "previousReceipt": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/planning.json",
+  "previousReceiptSha256": "a484a185e443b3e4bf6610070740ddaabaf16e3ad5080c7b8e59f82c04e040d4",
+  "sourceDir": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src",
+  "sourceTreeSha256": "31dbef0c06e70a8595fa6a762d869d45656da7513b05115d963ce36226d9f731",
+  "requiredRepresentativeScenes": [
+    "S02",
+    "S03",
+    "S05",
+    "S07",
+    "S01"
+  ],
+  "status": "PASS",
+  "errors": [],
+  "warnings": []
+}

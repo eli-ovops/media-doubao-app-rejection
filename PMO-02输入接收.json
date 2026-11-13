@@ -1,0 +1,35 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "doubao-app-rejection-20261016",
+  "decision": "PASS",
+  "reviewed_at": "2026-10-16T23:27:31.223249+08:00",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/交付.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/素材接收报告.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/edl.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/validation.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/纠错逐字稿-候选.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/subtitles-candidate.timeline.srt",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/待核差异.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/完成报告发送回执.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/inspection/raw-06-1.0-native.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/inspection/raw-04-18.6-native.jpg"
+  ],
+  "remaining_required_work": [],
+  "actual_model_effort": "UNKNOWN",
+  "reading_limits": "PMO审原件、02全轨ASR/采样范围与两张原尺寸图；无直接听音或连续声画结论。",
+  "downstream_required_work": [
+    "04重新按最终声音调整候选SRT的句内估时时间与合理分行；候选不是已听核终版。",
+    "上传4源18.6秒晃动用内容画面覆盖，保留末音。",
+    "上传2淘宝验证与阿里撤回说法待01包裁定，优先整句删减，不制造纠正配音。",
+    "05独立核实际最终导出、字幕/切口/隐私/动态及能核声音。"
+  ],
+  "stage": "02",
+  "scope": "已冻结用户脚本与实际素材语义核对、顺序和生产字幕草稿接收；不包含最终逐词听核。",
+  "findings": [
+    "六段真实语义顺序6→4→3→2→1→5；原片实际132.311667秒，保守EDL129.820秒。",
+    "已逐项复核交付清单内10个输出文件SHA；原片前后SHA证据一致。",
+    "67cue为草稿，单字孤立/句内比例估时等问题留给04结合最终音画重排，未误作完成字幕。",
+    "明确未听核范围及有限疑点，未要求新补录、不妨碍完整制作。"
+  ]
+}

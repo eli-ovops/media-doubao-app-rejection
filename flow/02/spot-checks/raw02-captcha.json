@@ -1,0 +1,227 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,100"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4100
+			},
+			"text": "逃把那边直接谈人脸的验证",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50364,
+					"p": 0.766648,
+					"t_dtw": -1
+				},
+				{
+					"text": "逃",
+					"timestamps": {
+						"from": "00:00:00,340",
+						"to": "00:00:00,500"
+					},
+					"offsets": {
+						"from": 340,
+						"to": 500
+					},
+					"id": 2215,
+					"p": 0.600802,
+					"t_dtw": -1
+				},
+				{
+					"text": "把",
+					"timestamps": {
+						"from": "00:00:00,560",
+						"to": "00:00:00,730"
+					},
+					"offsets": {
+						"from": 560,
+						"to": 730
+					},
+					"id": 16075,
+					"p": 0.450396,
+					"t_dtw": -1
+				},
+				{
+					"text": "那",
+					"timestamps": {
+						"from": "00:00:00,730",
+						"to": "00:00:00,910"
+					},
+					"offsets": {
+						"from": 730,
+						"to": 910
+					},
+					"id": 4184,
+					"p": 0.9816,
+					"t_dtw": -1
+				},
+				{
+					"text": "边",
+					"timestamps": {
+						"from": "00:00:00,910",
+						"to": "00:00:01,090"
+					},
+					"offsets": {
+						"from": 910,
+						"to": 1090
+					},
+					"id": 40503,
+					"p": 0.906523,
+					"t_dtw": -1
+				},
+				{
+					"text": "直接",
+					"timestamps": {
+						"from": "00:00:01,090",
+						"to": "00:00:01,400"
+					},
+					"offsets": {
+						"from": 1090,
+						"to": 1400
+					},
+					"id": 43297,
+					"p": 0.746052,
+					"t_dtw": -1
+				},
+				{
+					"text": "谈",
+					"timestamps": {
+						"from": "00:00:01,540",
+						"to": "00:00:01,920"
+					},
+					"offsets": {
+						"from": 1540,
+						"to": 1920
+					},
+					"id": 8897,
+					"p": 0.89753,
+					"t_dtw": -1
+				},
+				{
+					"text": "人",
+					"timestamps": {
+						"from": "00:00:02,010",
+						"to": "00:00:02,190"
+					},
+					"offsets": {
+						"from": 2010,
+						"to": 2190
+					},
+					"id": 4035,
+					"p": 0.752951,
+					"t_dtw": -1
+				},
+				{
+					"text": "脸",
+					"timestamps": {
+						"from": "00:00:02,190",
+						"to": "00:00:02,730"
+					},
+					"offsets": {
+						"from": 2190,
+						"to": 2730
+					},
+					"id": 164,
+					"p": 0.651922,
+					"t_dtw": -1
+				},
+				{
+					"text": "的",
+					"timestamps": {
+						"from": "00:00:02,730",
+						"to": "00:00:02,920"
+					},
+					"offsets": {
+						"from": 2730,
+						"to": 2920
+					},
+					"id": 1546,
+					"p": 0.957762,
+					"t_dtw": -1
+				},
+				{
+					"text": "验",
+					"timestamps": {
+						"from": "00:00:02,920",
+						"to": "00:00:03,470"
+					},
+					"offsets": {
+						"from": 2920,
+						"to": 3470
+					},
+					"id": 49657,
+					"p": 0.943897,
+					"t_dtw": -1
+				},
+				{
+					"text": "证",
+					"timestamps": {
+						"from": "00:00:03,470",
+						"to": "00:00:04,000"
+					},
+					"offsets": {
+						"from": 3470,
+						"to": 4000
+					},
+					"id": 5233,
+					"p": 0.987758,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_205]",
+					"timestamps": {
+						"from": "00:00:04,100",
+						"to": "00:00:04,100"
+					},
+					"offsets": {
+						"from": 4100,
+						"to": 4100
+					},
+					"id": 50569,
+					"p": 0.0568168,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

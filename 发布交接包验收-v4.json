@@ -1,0 +1,56 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "at": "2026-10-17T10:48:10.493804+08:00",
+  "package_version": "publication-handoff-20261017-v4",
+  "package": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v4",
+  "zip": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v4.zip",
+  "zip_bytes": 38559143,
+  "zip_sha256": "ef5242e3cc4e5fd4f1f849bd291a03ab764172be2f86feec4b3f4998dd4e5368",
+  "archive_files": 18,
+  "manifest_file": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v4/manifest.json",
+  "integrity": "ALL_ZIP_MEMBERS_VERIFIED",
+  "video_sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "srt_sha256": "8028f552ff723a906c6fd606261448d169f43cc35d1d44d064ad7a63120a9f15",
+  "video_audio_subtitles_unchanged": true,
+  "covers": {
+    "version": "cover-release-v4",
+    "exact_text": "155个app拒绝了豆包",
+    "top_line": {
+      "text": "155个app",
+      "color": "PURPLE"
+    },
+    "bottom_line": {
+      "text": "拒绝了豆包",
+      "color": "BLACK"
+    },
+    "portrait": {
+      "path": "01-发布素材/豆包封面-竖版-v4.png",
+      "width": 940,
+      "height": 1672,
+      "sha256": "6d7a11944c2a2688704e0c1521c7550a4cef3103cebf9f51a79d91c7e5c1d525",
+      "bytes": 1917284
+    },
+    "landscape": {
+      "path": "01-发布素材/豆包封面-横版-v4.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "979a90cff0735c8c6642713d83cafafde5b026322a07a490253a3ebfbed465f7",
+      "bytes": 1687480
+    },
+    "person": "User-designated brown blazer art portrait 01; source hash12c21747a2bb95a5055451780570844c6113ba8c3b9af9481bb8439d1d6fbbea",
+    "doubao": "Official App Store avatar; source hashb21fa27c86e55d13662d4e383a8f4ae252f3e3d2ef14a052a204ba0a3483f528",
+    "processing": "built-in image_gen compositing of the two exact reference inputs; generated processing, not pixel-identical overlays",
+    "blind_cross_aspect_center_crop_safe": false
+  },
+  "pmo_review": "PMO viewed both actual complete PNGs and both native eye/face crops; verified exact two-line wording, purple top and black bottom, designated brown art-portrait identity and visible Doubao girl; text/faces unobstructed, no former obvious double contours seen. Platform crops and user aesthetic approval remain pending.",
+  "owner_message_received": true,
+  "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "grok_receipt": "PENDING",
+  "user_final_review": "PENDING",
+  "publication": "NOT_PERFORMED",
+  "temporary_files": []
+}

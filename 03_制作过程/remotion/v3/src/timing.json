@@ -1,0 +1,377 @@
+{
+  "fps": 60,
+  "width": 1080,
+  "height": 1920,
+  "totalFrames": 6780,
+  "duration": 113.0,
+  "clips": [
+    {
+      "id": "6-0",
+      "order": 6,
+      "source": "/Users/USER/Downloads/5c50133579f3dbb7264e387c481f547c_raw.mp4",
+      "sourceIn": 0.25,
+      "sourceOut": 11.1,
+      "startFrame": 0,
+      "durationInFrames": 651,
+      "sourceSha256": "cc5a26a79c4a50f61741f345d66fd0675c3b0293a8d4c7c1ae20b39a1e76e151"
+    },
+    {
+      "id": "4-0",
+      "order": 4,
+      "source": "/Users/USER/Downloads/d6f955302c7b1a8b9e18b1d8bf95a739_raw.mp4",
+      "sourceIn": 0.0,
+      "sourceOut": 18.7,
+      "startFrame": 651,
+      "durationInFrames": 1122,
+      "sourceSha256": "621f50ebcfd6b71aaefbfd1983ae63b0d24581d1f98adaf337c2268bda614b8e"
+    },
+    {
+      "id": "3-0",
+      "order": 3,
+      "source": "/Users/USER/Downloads/659ae8a396fa68ce510db8952b270772_raw.mp4",
+      "sourceIn": 0.15,
+      "sourceOut": 26.2,
+      "startFrame": 1773,
+      "durationInFrames": 1563,
+      "sourceSha256": "a4071bfa86713a75c62dd1a1830ac6b63be19e8d3ef9e7aa3c2e9486e1242473"
+    },
+    {
+      "id": "2-0",
+      "order": 2,
+      "source": "/Users/USER/Downloads/d398bdb31caa205c6e1d60f6dbb03b7c_raw.mp4",
+      "sourceIn": 0.15,
+      "sourceOut": 8.1,
+      "startFrame": 3336,
+      "durationInFrames": 477,
+      "sourceSha256": "a85f01d510e26eeae24c88e68ebb71d372ee139988c031148e8760041c6ed300"
+    },
+    {
+      "id": "1-0",
+      "order": 1,
+      "source": "/Users/USER/Downloads/6ddef9d0438570a5cff46cb0bb87d695_raw.mp4",
+      "sourceIn": 0.1,
+      "sourceOut": 29.166666666666668,
+      "startFrame": 3813,
+      "durationInFrames": 1744,
+      "sourceSha256": "c6e9af758124d39d1898f57ab4fed8cd9cac18eb2ab94f43ddefa8e905b19f9a"
+    },
+    {
+      "id": "1-1",
+      "order": 1,
+      "source": "/Users/USER/Downloads/6ddef9d0438570a5cff46cb0bb87d695_raw.mp4",
+      "sourceIn": 36.44,
+      "sourceOut": 41.02333333333333,
+      "startFrame": 5557,
+      "durationInFrames": 275,
+      "sourceSha256": "c6e9af758124d39d1898f57ab4fed8cd9cac18eb2ab94f43ddefa8e905b19f9a"
+    },
+    {
+      "id": "5-0",
+      "order": 5,
+      "source": "/Users/USER/Downloads/646521d1fa5ee575fa2826a3a00a22f0_raw.mp4",
+      "sourceIn": 0.1,
+      "sourceOut": 15.9,
+      "startFrame": 5832,
+      "durationInFrames": 948,
+      "sourceSha256": "61d72e9c25887bd433eb2148f4daa36fe25063e4e4a999dae7a4619208b858cc"
+    }
+  ],
+  "subtitles": [
+    {
+      "startSeconds": 0.0,
+      "endSeconds": 1.851,
+      "text": "豆包想给你点外卖"
+    },
+    {
+      "startSeconds": 1.851,
+      "endSeconds": 3.69,
+      "text": "但是美团说不行"
+    },
+    {
+      "startSeconds": 3.69,
+      "endSeconds": 6.41,
+      "text": "而且不光是美团说不行"
+    },
+    {
+      "startSeconds": 6.41,
+      "endSeconds": 8.8688,
+      "text": "总共有155个App"
+    },
+    {
+      "startSeconds": 8.8688,
+      "endSeconds": 10.59,
+      "text": "都对豆包说No"
+    },
+    {
+      "startSeconds": 10.85,
+      "endSeconds": 13.45,
+      "text": "上个月14号豆包发了一个"
+    },
+    {
+      "startSeconds": 13.45,
+      "endSeconds": 16.35,
+      "text": "屏幕自动化操作声明"
+    },
+    {
+      "startSeconds": 16.35,
+      "endSeconds": 17.95,
+      "text": "说白了就是"
+    },
+    {
+      "startSeconds": 17.95,
+      "endSeconds": 20.25,
+      "text": "AI要替你点手机"
+    },
+    {
+      "startSeconds": 20.25,
+      "endSeconds": 22.65,
+      "text": "但是App可以提前说"
+    },
+    {
+      "startSeconds": 22.65,
+      "endSeconds": 23.95,
+      "text": "我不同意"
+    },
+    {
+      "startSeconds": 23.95,
+      "endSeconds": 26.45,
+      "text": "公示整个有30天"
+    },
+    {
+      "startSeconds": 26.45,
+      "endSeconds": 29.45,
+      "text": "10月14号名单才刚出来"
+    },
+    {
+      "startSeconds": 29.55,
+      "endSeconds": 30.915,
+      "text": "这些App里面"
+    },
+    {
+      "startSeconds": 30.915,
+      "endSeconds": 33.08,
+      "text": "腾讯总共是占了66款"
+    },
+    {
+      "startSeconds": 33.08,
+      "endSeconds": 34.49,
+      "text": "包括微信"
+    },
+    {
+      "startSeconds": 34.49,
+      "endSeconds": 35.195,
+      "text": "QQ"
+    },
+    {
+      "startSeconds": 35.195,
+      "endSeconds": 35.9,
+      "text": "元宝"
+    },
+    {
+      "startSeconds": 35.9,
+      "endSeconds": 38.72,
+      "text": "包括这些都在里面"
+    },
+    {
+      "startSeconds": 38.72,
+      "endSeconds": 40.618,
+      "text": "然后阿里的话"
+    },
+    {
+      "startSeconds": 40.618,
+      "endSeconds": 42.833,
+      "text": "总共占了23款"
+    },
+    {
+      "startSeconds": 42.833,
+      "endSeconds": 43.465,
+      "text": "淘宝"
+    },
+    {
+      "startSeconds": 43.465,
+      "endSeconds": 44.415,
+      "text": "支付宝"
+    },
+    {
+      "startSeconds": 44.415,
+      "endSeconds": 45.68,
+      "text": "高德地图"
+    },
+    {
+      "startSeconds": 45.68,
+      "endSeconds": 48.46,
+      "text": "快手总共是占了14款"
+    },
+    {
+      "startSeconds": 48.46,
+      "endSeconds": 51.24,
+      "text": "美团总共是占了11款"
+    },
+    {
+      "startSeconds": 51.24,
+      "endSeconds": 53.221,
+      "text": "就连DeepSeek"
+    },
+    {
+      "startSeconds": 53.221,
+      "endSeconds": 55.4,
+      "text": "也拒绝了豆包的这个使用"
+    },
+    {
+      "startSeconds": 55.6,
+      "endSeconds": 56.8065,
+      "text": "其实去年12月"
+    },
+    {
+      "startSeconds": 56.8065,
+      "endSeconds": 58.53,
+      "text": "就已经闹过这么一次了"
+    },
+    {
+      "startSeconds": 58.53,
+      "endSeconds": 61.13,
+      "text": "有人用豆包去操作微信"
+    },
+    {
+      "startSeconds": 61.13,
+      "endSeconds": 63.29,
+      "text": "账号直接被踢下线了"
+    },
+    {
+      "startSeconds": 63.55,
+      "endSeconds": 65.081,
+      "text": "大家有没有想过"
+    },
+    {
+      "startSeconds": 65.081,
+      "endSeconds": 67.412,
+      "text": "为什么这些头部的大厂"
+    },
+    {
+      "startSeconds": 67.412,
+      "endSeconds": 68.81,
+      "text": "都拒绝了豆包"
+    },
+    {
+      "startSeconds": 68.81,
+      "endSeconds": 72.17,
+      "text": "其实我看就很简单的三个因素"
+    },
+    {
+      "startSeconds": 72.17,
+      "endSeconds": 73.53,
+      "text": "一个是入口"
+    },
+    {
+      "startSeconds": 73.53,
+      "endSeconds": 74.89,
+      "text": "一个是数据"
+    },
+    {
+      "startSeconds": 74.89,
+      "endSeconds": 76.25,
+      "text": "一个是安全"
+    },
+    {
+      "startSeconds": 76.25,
+      "endSeconds": 78.61,
+      "text": "你本来要打开的是淘宝"
+    },
+    {
+      "startSeconds": 78.61,
+      "endSeconds": 81.57,
+      "text": "如果说现在只需要对豆包说一句"
+    },
+    {
+      "startSeconds": 82.57,
+      "endSeconds": 84.203,
+      "text": "那么淘宝的首页"
+    },
+    {
+      "startSeconds": 84.203,
+      "endSeconds": 85.137,
+      "text": "它的推荐"
+    },
+    {
+      "startSeconds": 85.137,
+      "endSeconds": 86.07,
+      "text": "它的广告"
+    },
+    {
+      "startSeconds": 86.07,
+      "endSeconds": 86.77,
+      "text": "谁来看"
+    },
+    {
+      "startSeconds": 86.77,
+      "endSeconds": 89.77,
+      "text": "AI在App里点来点去"
+    },
+    {
+      "startSeconds": 89.77,
+      "endSeconds": 91.299,
+      "text": "你所看到的东西"
+    },
+    {
+      "startSeconds": 91.299,
+      "endSeconds": 92.61,
+      "text": "它都过了一遍"
+    },
+    {
+      "startSeconds": 92.6167,
+      "endSeconds": 94.6847,
+      "text": "然后付钱聊天"
+    },
+    {
+      "startSeconds": 94.6847,
+      "endSeconds": 95.7187,
+      "text": "出了事"
+    },
+    {
+      "startSeconds": 95.7187,
+      "endSeconds": 97.0967,
+      "text": "该算谁的"
+    },
+    {
+      "startSeconds": 97.2,
+      "endSeconds": 98.7,
+      "text": "对于我们普通人来说"
+    },
+    {
+      "startSeconds": 98.7,
+      "endSeconds": 101.46,
+      "text": "AI替你点外卖打车"
+    },
+    {
+      "startSeconds": 101.46,
+      "endSeconds": 102.74,
+      "text": "听着很方便"
+    },
+    {
+      "startSeconds": 102.74,
+      "endSeconds": 104.54,
+      "text": "但是现在的这扇门"
+    },
+    {
+      "startSeconds": 104.54,
+      "endSeconds": 107.14,
+      "text": "得这些大公司点头才行"
+    },
+    {
+      "startSeconds": 107.14,
+      "endSeconds": 108.42,
+      "text": "所以接下来的问题"
+    },
+    {
+      "startSeconds": 108.42,
+      "endSeconds": 110.42,
+      "text": "并不是AI到底行不行"
+    },
+    {
+      "startSeconds": 110.42,
+      "endSeconds": 112.66,
+      "text": "而是平台让不让"
+    }
+  ],
+  "subtitlesEvidence": "02 local ASR + contextual corrections; not direct listening; interpolation retained where word alignment absent"
+}

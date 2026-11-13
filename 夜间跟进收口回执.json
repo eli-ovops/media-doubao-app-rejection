@@ -1,0 +1,32 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "automation_id": "automation-8",
+  "closure_reason": "Internal scoped QA accepted, full v3 prepared for immediate final handoff; human final review still pending",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Updated automation in the app."
+      },
+      {
+        "type": "text",
+        "text": "{\"automationId\":\"automation-8\",\"mode\":\"update\",\"status\":\"PAUSED\"}"
+      }
+    ],
+    "isError": false
+  },
+  "configuration_status_verified": "PAUSED",
+  "ui_handoff": {
+    "tool": "open_in_codex",
+    "result": "queued",
+    "threadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "url": "http://127.0.0.1:4247/",
+    "visible_open": "NOT_CLAIMED_QUEUED_UNTIL_THREAD_SHOWN"
+  },
+  "final_video": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/豆包App拒绝-完整片-v3.mp4",
+  "sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "user_final_review": "PENDING",
+  "publication": "NOT_PERFORMED",
+  "direct_hearing": "UNKNOWN",
+  "continuous_audiovisual_review": "UNKNOWN"
+}

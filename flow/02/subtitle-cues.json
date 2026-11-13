@@ -1,0 +1,672 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.851,
+    "text": "豆包想给你点外卖",
+    "semantic_segment": "01",
+    "raw_order": 6,
+    "source_start": 0.25,
+    "source_end": 2.101,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 1.851,
+    "end": 3.69,
+    "text": "但是美团说不行",
+    "semantic_segment": "01",
+    "raw_order": 6,
+    "source_start": 2.101,
+    "source_end": 3.94,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 3.69,
+    "end": 6.41,
+    "text": "而且不光是美团说不行",
+    "semantic_segment": "01",
+    "raw_order": 6,
+    "source_start": 3.94,
+    "source_end": 6.66,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 6.41,
+    "end": 9.852,
+    "text": "总共有155个App都对豆包",
+    "semantic_segment": "01",
+    "raw_order": 6,
+    "source_start": 6.66,
+    "source_end": 10.102,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 9.852,
+    "end": 10.59,
+    "text": "说No",
+    "semantic_segment": "01",
+    "raw_order": 6,
+    "source_start": 10.102,
+    "source_end": 10.84,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 10.85,
+    "end": 13.45,
+    "text": "上个月14号豆包发了一个",
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_start": 0.0,
+    "source_end": 2.6,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 13.45,
+    "end": 16.35,
+    "text": "屏幕自动化操作声明",
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_start": 2.6,
+    "source_end": 5.5,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 16.35,
+    "end": 17.95,
+    "text": "说白了就是",
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_start": 5.5,
+    "source_end": 7.1,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 17.95,
+    "end": 20.25,
+    "text": "AI要替你点手机",
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_start": 7.1,
+    "source_end": 9.4,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 20.25,
+    "end": 22.65,
+    "text": "但是App可以提前说",
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_start": 9.4,
+    "source_end": 11.8,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 22.65,
+    "end": 23.95,
+    "text": "我不同意",
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_start": 11.8,
+    "source_end": 13.1,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 23.95,
+    "end": 26.45,
+    "text": "公示整个有30天",
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_start": 13.1,
+    "source_end": 15.6,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 26.45,
+    "end": 29.45,
+    "text": "10月14号名单才刚出来",
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_start": 15.6,
+    "source_end": 18.6,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 29.55,
+    "end": 30.915,
+    "text": "这些App里面",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 0.15,
+    "source_end": 1.515,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 30.915,
+    "end": 33.08,
+    "text": "腾讯总共是占了66款",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 1.515,
+    "source_end": 3.68,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 33.08,
+    "end": 34.49,
+    "text": "包括微信",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 3.68,
+    "source_end": 5.09,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 34.49,
+    "end": 35.195,
+    "text": "QQ",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 5.09,
+    "source_end": 5.795,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 35.195,
+    "end": 35.9,
+    "text": "元宝",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 5.795,
+    "source_end": 6.5,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 35.9,
+    "end": 38.72,
+    "text": "包括这些都在里面",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 6.5,
+    "source_end": 9.32,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 38.72,
+    "end": 40.618,
+    "text": "然后阿里的话",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 9.32,
+    "source_end": 11.218,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 40.618,
+    "end": 42.833,
+    "text": "总共占了23款",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 11.218,
+    "source_end": 13.433,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 42.833,
+    "end": 43.465,
+    "text": "淘宝",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 13.433,
+    "source_end": 14.065,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 43.465,
+    "end": 44.415,
+    "text": "支付宝",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 14.065,
+    "source_end": 15.015,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 44.415,
+    "end": 45.68,
+    "text": "高德地图",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 15.015,
+    "source_end": 16.28,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 45.68,
+    "end": 48.46,
+    "text": "快手总共是占了14款",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 16.28,
+    "source_end": 19.06,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 48.46,
+    "end": 51.24,
+    "text": "美团总共是占了11款",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 19.06,
+    "source_end": 21.84,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 51.24,
+    "end": 53.221,
+    "text": "就连DeepSeek",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 21.84,
+    "source_end": 23.821,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 53.221,
+    "end": 55.4,
+    "text": "也拒绝了豆包的这个使用",
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_start": 23.821,
+    "source_end": 26.0,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 55.6,
+    "end": 57.986,
+    "text": "其实去年12月就已经闹过这么",
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_start": 0.15,
+    "source_end": 2.536,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 57.986,
+    "end": 58.53,
+    "text": "一次了",
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_start": 2.536,
+    "source_end": 3.08,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 58.53,
+    "end": 61.13,
+    "text": "有人用豆包去操作微信",
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_start": 3.08,
+    "source_end": 5.68,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 61.13,
+    "end": 63.29,
+    "text": "账号直接被踢下线了",
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_start": 5.68,
+    "source_end": 7.84,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 63.93,
+    "end": 67.37,
+    "text": "淘宝那边直接弹人脸的验证",
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_start": 8.48,
+    "source_end": 11.92,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 67.37,
+    "end": 69.843,
+    "text": "最后豆包把自己和微信",
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_start": 11.92,
+    "source_end": 14.393,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 69.843,
+    "end": 71.821,
+    "text": "和阿里的操作能力",
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_start": 14.393,
+    "source_end": 16.371,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 71.821,
+    "end": 72.81,
+    "text": "就撤掉了",
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_start": 16.371,
+    "source_end": 17.36,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 73.1,
+    "end": 74.631,
+    "text": "大家有没有想过",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 0.1,
+    "source_end": 1.631,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 74.631,
+    "end": 76.962,
+    "text": "为什么这些头部的大厂",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 1.631,
+    "source_end": 3.962,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 76.962,
+    "end": 78.36,
+    "text": "都拒绝了豆包",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 3.962,
+    "source_end": 5.36,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 78.36,
+    "end": 81.72,
+    "text": "其实我看就很简单的三个因素",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 5.36,
+    "source_end": 8.72,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 81.72,
+    "end": 83.08,
+    "text": "一个是入口",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 8.72,
+    "source_end": 10.08,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 83.08,
+    "end": 84.44,
+    "text": "一个是数据",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 10.08,
+    "source_end": 11.44,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 84.44,
+    "end": 85.8,
+    "text": "一个是安全",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 11.44,
+    "source_end": 12.8,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 85.8,
+    "end": 88.16,
+    "text": "你本来要打开的是淘宝",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 12.8,
+    "source_end": 15.16,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 88.16,
+    "end": 91.12,
+    "text": "如果说现在只需要对豆包说一句",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 15.16,
+    "source_end": 18.12,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 92.12,
+    "end": 93.753,
+    "text": "那么淘宝的首页",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 19.12,
+    "source_end": 20.753,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 93.753,
+    "end": 94.687,
+    "text": "它的推荐",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 20.753,
+    "source_end": 21.687,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 94.687,
+    "end": 95.62,
+    "text": "它的广告",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 21.687,
+    "source_end": 22.62,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 95.62,
+    "end": 96.32,
+    "text": "谁来看",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 22.62,
+    "source_end": 23.32,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 96.32,
+    "end": 99.32,
+    "text": "AI在App里点来点去",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 23.32,
+    "source_end": 26.32,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 99.32,
+    "end": 100.849,
+    "text": "你所看到的东西",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 26.32,
+    "source_end": 27.849,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 100.849,
+    "end": 102.16,
+    "text": "它都过了一遍",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 27.849,
+    "source_end": 29.16,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 102.16,
+    "end": 103.512,
+    "text": "微信的协议",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 29.16,
+    "source_end": 30.512,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 103.512,
+    "end": 105.135,
+    "text": "它本来就写着",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 30.512,
+    "source_end": 32.135,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 105.135,
+    "end": 108.11,
+    "text": "不允许未经授权的自动化",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 32.135,
+    "source_end": 35.11,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 108.11,
+    "end": 109.44,
+    "text": "操作",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 35.11,
+    "source_end": 36.44,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 109.44,
+    "end": 111.508,
+    "text": "然后付钱聊天",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 36.44,
+    "source_end": 38.508,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 111.508,
+    "end": 112.542,
+    "text": "出了事",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 38.508,
+    "source_end": 39.542,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 112.542,
+    "end": 113.92,
+    "text": "该算谁的",
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_start": 39.542,
+    "source_end": 40.92,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 114.02,
+    "end": 115.52,
+    "text": "对于我们普通人来说",
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_start": 0.1,
+    "source_end": 1.6,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 115.52,
+    "end": 118.28,
+    "text": "AI替你点外卖打车",
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_start": 1.6,
+    "source_end": 4.36,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 118.28,
+    "end": 119.56,
+    "text": "听着很方便",
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_start": 4.36,
+    "source_end": 5.64,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 119.56,
+    "end": 121.36,
+    "text": "但是现在的这扇门",
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_start": 5.64,
+    "source_end": 7.44,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 121.36,
+    "end": 123.96,
+    "text": "得这些大公司点头才行",
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_start": 7.44,
+    "source_end": 10.04,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 123.96,
+    "end": 125.24,
+    "text": "所以接下来的问题",
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_start": 10.04,
+    "source_end": 11.32,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 125.24,
+    "end": 127.24,
+    "text": "并不是AI到底行不行",
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_start": 11.32,
+    "source_end": 13.32,
+    "timing": "ASR-derived; review required"
+  },
+  {
+    "start": 127.24,
+    "end": 129.48,
+    "text": "而是平台让不让",
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_start": 13.32,
+    "source_end": 15.56,
+    "timing": "ASR-derived; review required"
+  }
+]

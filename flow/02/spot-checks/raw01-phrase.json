@@ -1,0 +1,227 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,340"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3340
+			},
+			"text": "如果說現在只需要對豆包,所以去",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50364,
+					"p": 0.802201,
+					"t_dtw": -1
+				},
+				{
+					"text": "如果",
+					"timestamps": {
+						"from": "00:00:00,470",
+						"to": "00:00:00,470"
+					},
+					"offsets": {
+						"from": 470,
+						"to": 470
+					},
+					"id": 13119,
+					"p": 0.778044,
+					"t_dtw": -1
+				},
+				{
+					"text": "說",
+					"timestamps": {
+						"from": "00:00:00,530",
+						"to": "00:00:00,700"
+					},
+					"offsets": {
+						"from": 530,
+						"to": 700
+					},
+					"id": 4622,
+					"p": 0.511981,
+					"t_dtw": -1
+				},
+				{
+					"text": "現在",
+					"timestamps": {
+						"from": "00:00:00,700",
+						"to": "00:00:01,140"
+					},
+					"offsets": {
+						"from": 700,
+						"to": 1140
+					},
+					"id": 12648,
+					"p": 0.971738,
+					"t_dtw": -1
+				},
+				{
+					"text": "只",
+					"timestamps": {
+						"from": "00:00:01,190",
+						"to": "00:00:01,390"
+					},
+					"offsets": {
+						"from": 1190,
+						"to": 1390
+					},
+					"id": 14003,
+					"p": 0.555025,
+					"t_dtw": -1
+				},
+				{
+					"text": "需要",
+					"timestamps": {
+						"from": "00:00:01,430",
+						"to": "00:00:01,820"
+					},
+					"offsets": {
+						"from": 1430,
+						"to": 1820
+					},
+					"id": 35748,
+					"p": 0.992822,
+					"t_dtw": -1
+				},
+				{
+					"text": "對",
+					"timestamps": {
+						"from": "00:00:01,910",
+						"to": "00:00:02,010"
+					},
+					"offsets": {
+						"from": 1910,
+						"to": 2010
+					},
+					"id": 2855,
+					"p": 0.88311,
+					"t_dtw": -1
+				},
+				{
+					"text": "豆",
+					"timestamps": {
+						"from": "00:00:02,100",
+						"to": "00:00:02,330"
+					},
+					"offsets": {
+						"from": 2100,
+						"to": 2330
+					},
+					"id": 45169,
+					"p": 0.559105,
+					"t_dtw": -1
+				},
+				{
+					"text": "包",
+					"timestamps": {
+						"from": "00:00:02,330",
+						"to": "00:00:02,600"
+					},
+					"offsets": {
+						"from": 2330,
+						"to": 2600
+					},
+					"id": 23305,
+					"p": 0.555599,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:02,600",
+						"to": "00:00:02,940"
+					},
+					"offsets": {
+						"from": 2600,
+						"to": 2940
+					},
+					"id": 11,
+					"p": 0.204575,
+					"t_dtw": -1
+				},
+				{
+					"text": "所以",
+					"timestamps": {
+						"from": "00:00:02,940",
+						"to": "00:00:03,140"
+					},
+					"offsets": {
+						"from": 2940,
+						"to": 3140
+					},
+					"id": 7239,
+					"p": 0.476595,
+					"t_dtw": -1
+				},
+				{
+					"text": "去",
+					"timestamps": {
+						"from": "00:00:03,280",
+						"to": "00:00:03,330"
+					},
+					"offsets": {
+						"from": 3280,
+						"to": 3330
+					},
+					"id": 6734,
+					"p": 0.614916,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_167]",
+					"timestamps": {
+						"from": "00:00:03,340",
+						"to": "00:00:03,340"
+					},
+					"offsets": {
+						"from": 3340,
+						"to": 3340
+					},
+					"id": 50531,
+					"p": 0.00559672,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

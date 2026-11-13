@@ -1,0 +1,4 @@
+import path from 'node:path';import {fileURLToPath} from 'node:url';import {bundle} from '@remotion/bundler';import {selectComposition,renderMedia} from '@remotion/renderer';
+const root=path.dirname(fileURLToPath(import.meta.url));const serveUrl=await bundle({entryPoint:path.join(root,'src/index.tsx'),publicDir:path.join(root,'public'),outDir:path.join(root,'render/bundle')});
+const base={serveUrl,browserExecutable:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',chromiumOptions:{gl:'angle'},logLevel:'warn',timeoutInMilliseconds:90000};const composition=await selectComposition({...base,id:'DoubaoFull'});
+await renderMedia({...base,composition,codec:'h264',frameRange:[4944,5225],outputLocation:path.join(root,'render/Q01.mp4'),concurrency:1,imageFormat:'png',crf:15,pixelFormat:'yuv420p',muted:true,onProgress:v=>{const n=Math.floor(v.progress*10);if(n!==globalThis.last){console.log('Q01',n*10);globalThis.last=n;}}});

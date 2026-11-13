@@ -1,0 +1,56 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "v3",
+  "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/豆包App拒绝-完整片-v3.mp4",
+  "sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "bytes": 34907696,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "frames": 6780,
+  "duration": 113,
+  "renderedRangeFramesInclusive": [
+    4944,
+    5225
+  ],
+  "renderedFrames": 282,
+  "renderedSeconds": 4.7,
+  "fullDecode": "PASS",
+  "audioPcmIdentity": "SHA256=442117895c9d3c61230dff5aec3a818404750e54a183f11e456b116b0f42e131",
+  "audioIdenticalToV2": true,
+  "audioStart": "0.000000",
+  "audioDuration": "113.000000",
+  "srtIdenticalToV2": true,
+  "FilmTsxIdenticalToV2": true,
+  "visualSampleReview": "PASS_WITHIN_Q01_SAMPLED_SCOPE",
+  "directHearing": "UNKNOWN",
+  "continuousAudiovisualReview": "UNKNOWN",
+  "pmoAcceptance": "PENDING",
+  "sampleReview": {
+    "contactSheets": 7,
+    "sampleFrames": 102,
+    "intervalSeconds": [
+      82.2,
+      87.3
+    ],
+    "sampleFps": 20,
+    "nativeFramesActuallyReviewedSeconds": [
+      83.5,
+      85,
+      86.05,
+      86.5
+    ],
+    "finding": "Three objects persist and receive sequential emphasis; question appears after 86.070; contact-sheet display artifacts were not reproduced in these four native frames.",
+    "limits": "Sampling only; remaining frames and direct listening not reviewed. Independent delta QC and PMO acceptance pending."
+  },
+  "playerReview": {
+    "status": "PASS_VERSION_AND_SEEK",
+    "url": "http://127.0.0.1:4247/",
+    "version": "v3",
+    "seekSeconds": 82.4,
+    "durationVisible": 113,
+    "screenshot": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/player-v3.png",
+    "leftAtSeconds": 0,
+    "continuousPlayback": "NOT_CLAIMED"
+  }
+}

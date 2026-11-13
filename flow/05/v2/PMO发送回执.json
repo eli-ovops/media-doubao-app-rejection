@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-17",
+  "target_thread": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "host": "local",
+  "action": "send_message_to_thread",
+  "report": "独立整片质检报告.md",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "send_status": "tool_returned_success",
+  "pmo_received_and_reviewed": "UNKNOWN",
+  "user_final_review": "PENDING"
+}

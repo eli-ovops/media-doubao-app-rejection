@@ -1,0 +1,811 @@
+{
+  "selection_is_not_runtime_acceptance": true,
+  "results": [
+    {
+      "component_id": "component:library-new10-n047",
+      "label": "N047",
+      "title": "手机从局部近景退到全貌，再解锁进入聊天",
+      "catalog_description": "从口播或人物引导进入手机实操；用近景到全貌控制观众注意力。",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "录屏与视频入场",
+      "collection_id": null,
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/N047-1-preview.mp4",
+          "filename": "N047-1-preview.mp4",
+          "sha256": "376358faff272b2ce121ce19e69f435ff97d8c976885cba75c9cc77435101b6e"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "BatchC.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/30b3c05aa839/src/BatchC.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "BatchC.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/30b3c05aa839/src/BatchC.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "index.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/30b3c05aa839/src/index.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "package-lock.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/30b3c05aa839/package-lock.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "material-policy.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/30b3c05aa839/material-policy.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "material-bindings.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/30b3c05aa839/material-bindings.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        }
+      ],
+      "analysis_card": {
+        "card_key": "N047",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/N047.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/N047-1-preview.mp4",
+        "reviewed_sample_frames": 16,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "从设备局部进入一个随身任务，保持同一手机壳与内部内容。",
+          "avoid": "不用于证明真实iOS解锁或实际账号登录；电量/通知等固定数字不转为本人数据。",
+          "capacity": "PhoneUnlock({t,accent,assets:{wallpaper}})，其他锁屏文字/时间/电池/图标硬编码；490×1010设备，外层量测scale不宜随意改比例。"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    },
+    {
+      "component_id": "combined-remake:SP006",
+      "label": "SP006",
+      "title": "手机输入界面聚焦",
+      "catalog_description": "在手机输入操作中改变设备尺度，让观众看清输入与反馈。",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "录屏聚焦",
+      "collection_id": null,
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/SP006-1-preview.mp4",
+          "filename": "SP006-1-preview.mp4",
+          "sha256": "fc0dc6c1b077c7761d532f09f1e1d4da86e946f73139a24901c824607ef566f9"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "remaining.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/remaining.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "SP006",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/SP006.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/remaining.tsx",
+              "range": "全文147行可见，重点NativeLayer/SP006 1–61",
+              "reader_attribution": "PMO实际读图/源码，01接收集成复核"
+            }
+          ]
+        },
+        {
+          "name": "README.md",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/README.md"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "compositions.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/compositions.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "dependency-manifest.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/dependency-manifest.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "manifest.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/manifest.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "package-lock.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/package-lock.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "package.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/package.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP006-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP006-track.json",
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/review-revision03/SP006-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP010-ui.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP010-ui.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP012-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP012-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP012-ui.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP012-ui.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP013-carrier.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP013-carrier.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP013-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP013-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP013-ui.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP013-ui.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP018-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP018-track.json",
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/review-revision03/SP018-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP006-device-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/reassessment/SP006-device-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP012-device-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/reassessment/SP012-device-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP013-device-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/reassessment/SP013-device-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP022-prompt-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/reassessment/SP022-prompt-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP006-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP006-track.json",
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/review-revision03/SP006-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP010-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP010-track.json",
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/review-revision03/SP010-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP012-handoff.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/review-revision03/SP012-handoff.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP018-handoff.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/review-revision03/SP018-handoff.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP018-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP018-track.json",
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/review-revision03/SP018-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "SP022-track.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/code-revision/SP022-track.json",
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/public/review-revision03/SP022-track.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "render.cjs",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/render.cjs"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "comparison-scenes.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/comparison-scenes.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "fred-scene.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/fred-scene.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "library-entry.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/library-entry.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "media-content.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/media-content.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "remaining.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/remaining.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "SP006",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/SP006.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/remaining.tsx",
+              "range": "全文147行可见，重点NativeLayer/SP006 1–61",
+              "reader_attribution": "PMO实际读图/源码，01接收集成复核"
+            }
+          ]
+        },
+        {
+          "name": "report-content.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/report-content.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "report-motion.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/report-motion.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "report-scenes.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/report-scenes.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "sp012-review-intro.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/sp012-review-intro.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "sp012-review-motion.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/sp012-review-motion.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "sp012-review-words.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/sp012-review-words.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "sp014-extra-native.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/sp014-extra-native.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "sp022-review-opacity.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/src/sp022-review-opacity.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "material-policy.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/material-policy.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "material-bindings.json",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/46d3ccc7f02f/material-bindings.json"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        }
+      ],
+      "analysis_card": {
+        "card_key": "SP006",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/SP006.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/SP006-1-preview.mp4",
+        "reviewed_sample_frames": 45,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "承接手机载体/实际手机录屏入场，作极短过渡",
+          "avoid": "复用约10秒静态小手机或把示例资料列表称操作实证",
+          "capacity": "单手机；页面像素来自逐帧图，非通用editable输入组件"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    },
+    {
+      "component_id": "component:library-legacy81-b006",
+      "label": "L81-B006",
+      "title": "手机横屏流程转为竖屏与窗口并列",
+      "catalog_description": "手机横屏流程转为竖屏与窗口并列",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "录屏与视频入场",
+      "collection_id": null,
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-B006-1-preview.mp4",
+          "filename": "L81-B006-1-preview.mp4",
+          "sha256": "50f908d9b030d00ce11b9a31f41bcb35ed4e2bc39a6b10d0e2b0a54cc96c4a82"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "RebuiltBChatPhone.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/63e8a4c716d7/groups/b/src/RebuiltBChatPhone.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "L81-B006",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-B006.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/63e8a4c716d7/groups/b/src/RebuiltBChatPhone.tsx",
+              "range": "全文8行",
+              "reader_attribution": "PMO实际读图/源码，01接收集成复核"
+            }
+          ]
+        }
+      ],
+      "analysis_card": {
+        "card_key": "L81-B006",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-B006.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-B006-1-preview.mp4",
+        "reviewed_sample_frames": 45,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "横向流程→同一手机转竖→与桌面协同，保留设备身份",
+          "avoid": "长时间空设备/空窗；三步文字条当全部解释",
+          "capacity": "固定3节点+1窗，文字取spec数组；源库flat ../../../specs不随当前project自动闭合"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    },
+    {
+      "component_id": "component:library-legacy81-b007",
+      "label": "L81-B007",
+      "title": "单个手机展开成三种界面布局",
+      "catalog_description": "单个手机展开成三种界面布局",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "录屏与视频入场",
+      "collection_id": null,
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-B007-1-preview.mp4",
+          "filename": "L81-B007-1-preview.mp4",
+          "sha256": "66f9c208d0ce4d5d1a63928fdcb8e86b834665cb54fd6f79dcf5d5418399c882"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "RebuiltBGeometric.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/a7790aabe5f7/groups/b/src/RebuiltBGeometric.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "L81-B007",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-B007.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/a7790aabe5f7/groups/b/src/RebuiltBGeometric.tsx",
+              "range": "全文11行",
+              "reader_attribution": "PMO实际读图/源码，01接收集成复核"
+            }
+          ]
+        }
+      ],
+      "analysis_card": {
+        "card_key": "L81-B007",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-B007.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-B007-1-preview.mp4",
+        "reviewed_sample_frames": 77,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "同一产品的3种界面结构递进，手机之间保留来源关系",
+          "avoid": "约19秒填色块当产品功能；空设备长持有",
+          "capacity": "3设备、3套固定占位形状；非真实界面，shape布局/色值硬编码"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    },
+    {
+      "component_id": "component:fred-wave3-40-t13d",
+      "label": "T13d",
+      "title": "请求往返",
+      "catalog_description": "你发出的请求 → 沿线到服务器，再带着结果回来",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "讲解段落",
+      "collection_id": "fred-wave3-40-20261012",
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T13d-1-preview.mp4",
+          "filename": "T13d-1-preview.mp4",
+          "sha256": "34aa6188226bb43c3d1e0a5597d16fa6d347db48b2f806c224d05b883e1bc1cf"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "T13d-RequestTrip.tsx",
+          "declared_sha256": "4cd6cda38eb3879db74f1214053baac465aa6d477a19275d451e9f7514087e48",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T13d-RequestTrip.tsx"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "T13d",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T13d.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T13d-RequestTrip.tsx",
+              "range": "Interface and companion package documented; see exact card for read scope, not a full-file claim.",
+              "reader_attribution": "See exact card"
+            }
+          ]
+        },
+        {
+          "name": "theme.ts",
+          "declared_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts"
+          ],
+          "catalog_text_read_status_historical": "duplicate_of_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "ui.tsx",
+          "declared_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx"
+          ],
+          "catalog_text_read_status_historical": "duplicate_of_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "registry.ts",
+          "declared_sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/registry.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        }
+      ],
+      "analysis_card": {
+        "card_key": "T13d",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T13d.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T13d-1-preview.mp4",
+        "reviewed_sample_frames": 27,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "解释一条请求到服务器处理、结果返回的方向和角色关系。",
+          "avoid": "动画请求当真实API调用；seconds预设不是实测耗时或延迟承诺。",
+          "capacity": "固定客户端/服务器、上下两路、单个request/result；address单行缩字。result高亮重复会split丢后文；时间要显式timeLabel=''才隐藏默认。",
+          "example": "<RequestTrip you={{name:\"客户端（示意）\"}} server={{name:\"服务器（示意）\"}} addressLabel=\"示例地址\" address=\"https://example.invalid/v1\" request=\"示例请求\" result=\"示例结果\" highlight=\"结果\" timeLabel=\"\" cues={[1,2,2.62]} />",
+          "current_contract": "must_fit_current_content_contract"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    }
+  ]
+}

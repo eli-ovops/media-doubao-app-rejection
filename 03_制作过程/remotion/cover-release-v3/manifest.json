@@ -1,0 +1,42 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "cover-release-v3",
+  "text": "155个app拒绝了豆包",
+  "lines": [
+    "155个app",
+    "拒绝了豆包"
+  ],
+  "method": "Built-in image_gen narrow text replacement from v2; landscape second pass corrects hand overlap",
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v3/豆包封面-竖版-v3.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "a28ae99d3c2f805180ac0cf3202e8182c6ad6e4e2c3f4bd826f83c96e12349a0",
+      "generatedSource": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-7c4bcde8-74d5-4902-b708-65f801a928de.png"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v3/豆包封面-横版-v3.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "af4ff10c93aff2576fd58da6ccac04f26c041b21cc0321ef7ed9f49907814385",
+      "generatedSource": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-09e8e091-859d-4744-a99b-30ab0b0fbeaa.png"
+    }
+  ],
+  "inputs": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v2/豆包封面-竖版-v2.png",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v2/豆包封面-横版-v2.png"
+  ],
+  "review": "Actually viewed both v2 inputs and final generated native images. 155 confirmed, lowercase app confirmed, all characters 拒绝了豆包 present, no extra text. Final text clear of face/eyes/hand. Same recognizable person, glasses, dark clothes, raised hand and layout; generative editing may alter skin/hair detail, not pixel-identical person preservation.",
+  "modelTarget": "gpt-6-astra",
+  "effortTarget": "medium",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "imageModel": "UNKNOWN",
+  "userAcceptance": "PENDING",
+  "scope": "Only new cover-v3 directories; previous covers, video/audio/SRT/frozen sources retained; no publishing/shared state/Grok package changes"
+}

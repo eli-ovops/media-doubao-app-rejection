@@ -1,0 +1,18 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "target_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool": "send_message_to_thread",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "tool_send": "success",
+  "PMO_actual_receipt_of_final": "pending_observation",
+  "PMO_acceptance": "pending",
+  "scope": "bounded source and real visual material package with explicit official-source gaps"
+}

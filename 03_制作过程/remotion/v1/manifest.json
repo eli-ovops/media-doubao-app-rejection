@@ -1,0 +1,2168 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "workflow": {
+    "profile": "fred-video-v2",
+    "componentMatching": "v1",
+    "mode": "direct-output",
+    "authorization": {
+      "mode": "direct-output",
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/04-完整制作任务.md",
+      "quote": "确认，开始吧。先固化Skills，再把这6段豆包视频剪成完整片。你负责持续跟进、修改和验收，中间常规问题自己处理，明早我直接看成片。"
+    }
+  },
+  "script": {
+    "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/edited-script.txt",
+    "sha256": "2ff01ce0ba51370e4d8aaa4c8f6e7971a43da56e4c162ec08dc943935d44c1a2"
+  },
+  "timingStatus": "audio-aligned",
+  "timelineFps": 60,
+  "durationInFrames": 6780,
+  "clockContract": {
+    "mode": "scene-local",
+    "sourceRule": "Scene Sequence startFrame; source video current local time plus exact sourceIn; full subtitle and audio clock at root."
+  },
+  "deliveryProfile": "standalone-video",
+  "representativeScenes": [
+    "S02",
+    "S03",
+    "S05",
+    "S07"
+  ],
+  "parts": [
+    {
+      "id": "Full",
+      "startFrame": 0,
+      "endFrameExclusive": 6780
+    }
+  ],
+  "designContract": {
+    "method": "ELI-FRED-PRODUCTION-20261016-v1",
+    "surface": "opaque white and dark ink; exact Fred wave3 kit, restrained purple",
+    "sourceTruth": "155 only within actual dated report; groups refer to associated ecology; analysis retains 我看",
+    "portraitSafeArea": {
+      "x": 70,
+      "maxY": 1570
+    },
+    "spokenSpeed": 1,
+    "fullContinuousAVReview": "UNKNOWN",
+    "requestedModel": "gpt-6-astra/high",
+    "actualModel": "UNKNOWN"
+  },
+  "referenceCatalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "pages": [
+    {
+      "stableId": "S01",
+      "startFrame": 0,
+      "durationInFrames": 651,
+      "scriptAnchor": "豆包想给你点外卖\n但是美团说不行\n而且不光是美团说不行\n总共有155个App\n都对豆包说No",
+      "sourceBeatIds": [
+        "S01"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 0,
+          "endChar": 47,
+          "text": "豆包想给你点外卖\n但是美团说不行\n而且不光是美团说不行\n总共有155个App\n都对豆包说No\n"
+        }
+      ],
+      "oneQuestion": "操作请求被拒，真实报道接管结果。",
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "mixed"
+      },
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "staticAllowanceSeconds": 3.0
+      },
+      "visualPlan": {
+        "enter": "操作请求被拒，真实报道接管结果。",
+        "change": "按当前字幕cue推进对象状态；自然内容切镜保留语义方向",
+        "read": "主要目标停稳后给阅读窗口，字幕位于底部固定安全带",
+        "exit": "结束在本段结果对象；真人切镜保留源时钟",
+        "handoff": "同一豆包/平台身份跨镜头；各镜按主题切换不重播媒体"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "操作请求被拒，真实报道接管结果。",
+            "check": "检查实际最长文字及运动中间态与口播cue"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "精确MiSans字重与得意黑，内容在字幕上方",
+            "check": "检查实际输出字体加载、边界与重叠"
+          }
+        ],
+        "signature": "493f8f325f4ab5e0b88b70cd043d702128e96451386bec5fe4ca8569b862ce41",
+        "modifiers": []
+      },
+      "componentPlan": {
+        "query": "请求沿路径前进 结果拒绝返回",
+        "selectionReason": "操作请求被拒，真实报道接管结果。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t13d",
+            "decision": "selected",
+            "reason": "操作请求被拒，真实报道接管结果。"
+          },
+          {
+            "id": "fred-wave3-40-t09i",
+            "decision": "selected",
+            "reason": "操作请求被拒，真实报道接管结果。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t13d",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T13d-1-preview.mp4",
+            "sha256": "34aa6188226bb43c3d1e0a5597d16fa6d347db48b2f806c224d05b883e1bc1cf",
+            "observations": "请求沿线抵达目标，响应沿返回方向回到请求方；已看对应时间序列图，未连续看听。"
+          },
+          {
+            "id": "fred-wave3-40-t09i",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T09i-1-preview.mp4",
+            "sha256": "aa1fe38a331b8e4e59f31f9dc2cc2f56fb0c48dd67e8dab849bc913abc064b65",
+            "observations": "同一真实截图的目标行保持像素身份并提起聚焦；已看对应时间序列图，未连续看听。"
+          }
+        ]
+      },
+      "motionEvents": [
+        {
+          "sourceBeatId": "S01",
+          "event": "豆包想给你点外卖",
+          "cueFrame": 0,
+          "spokenCue": "豆包想给你点外卖"
+        },
+        {
+          "sourceBeatId": "S01",
+          "event": "但是美团说不行",
+          "cueFrame": 111,
+          "spokenCue": "但是美团说不行"
+        },
+        {
+          "sourceBeatId": "S01",
+          "event": "而且不光是美团说不行",
+          "cueFrame": 221,
+          "spokenCue": "而且不光是美团说不行"
+        },
+        {
+          "sourceBeatId": "S01",
+          "event": "总共有155个App",
+          "cueFrame": 385,
+          "spokenCue": "总共有155个App"
+        },
+        {
+          "sourceBeatId": "S01",
+          "event": "都对豆包说No",
+          "cueFrame": 532,
+          "spokenCue": "都对豆包说No"
+        }
+      ],
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t13d",
+          "reason": "操作请求被拒，真实报道接管结果。",
+          "preserve": "请求沿线抵达目标，响应沿返回方向回到请求方",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S01",
+          "useMode": "local",
+          "keyAction": "操作请求被拒，真实报道接管结果。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T13d-RequestTrip.tsx",
+            "sha256": "4cd6cda38eb3879db74f1214053baac465aa6d477a19275d451e9f7514087e48",
+            "symbol": "RequestTrip"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "RequestAction"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Opening",
+            "callee": "RequestAction"
+          }
+        },
+        {
+          "id": "fred-wave3-40-t09i",
+          "reason": "操作请求被拒，真实报道接管结果。",
+          "preserve": "同一真实截图的目标行保持像素身份并提起聚焦",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S01",
+          "useMode": "local",
+          "keyAction": "操作请求被拒，真实报道接管结果。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T09i-PickRow.tsx",
+            "sha256": "240ccf3e70085c4cafabe15b1fe20c58d7536f8c236786c2a0f5280055d90392",
+            "symbol": "PickRow"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "ArticleFocus"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Opening",
+            "callee": "ArticleFocus"
+          }
+        }
+      ],
+      "exactScreenWords": [
+        "App 能不能操作？"
+      ],
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-1.png",
+            "sha256": "ecc770d4687175ddc018f4f6d54ec7bb49765af1fd7f80acc3a817ff4d406c97"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-3.png",
+            "sha256": "dcc7bc604151866d50c02357a9f0b66198014310de0ed375ab1177d987ddb72b"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-5.5.png",
+            "sha256": "46d30075fa49af774a70d1007e57a6f5d26c175b8a4cf9e6a1d892200ae1c47e"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-8.5.png",
+            "sha256": "f66c6f682053520677c45f2b68057f519bf74f8f4c375989e0e322b77284826f"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "操作请求被拒，真实报道接管结果。",
+          "corePreserved": "已对照源组件采样图及上述实际源码；保留路径往返、数字落定、来源像素、输入汇聚或钥匙依赖，具体边界在referenceChoices。",
+          "visualQuality": "实际关键帧：白底墨黑载体，MiSans正文/Heavy与独立得意黑字幕；主对象避开底部230px字幕带。已修报道裁切与残留关系线，原尺寸查看53.4/85/108s。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-1.png",
+            "sha256": "ecc770d4687175ddc018f4f6d54ec7bb49765af1fd7f80acc3a817ff4d406c97"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-3.png",
+            "sha256": "dcc7bc604151866d50c02357a9f0b66198014310de0ed375ab1177d987ddb72b"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-5.5.png",
+            "sha256": "46d30075fa49af774a70d1007e57a6f5d26c175b8a4cf9e6a1d892200ae1c47e"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-8.5.png",
+            "sha256": "f66c6f682053520677c45f2b68057f519bf74f8f4c375989e0e322b77284826f"
+          }
+        ],
+        "contextSha256": "b122e27f32a5b1afdf36952f99a3d71c027b520e4b752be4c1e1de77acbad8f0"
+      }
+    },
+    {
+      "stableId": "S02",
+      "startFrame": 651,
+      "durationInFrames": 1122,
+      "scriptAnchor": "上个月14号豆包发了一个\n屏幕自动化操作声明\n说白了就是\nAI要替你点手机\n但是App可以提前说\n我不同意\n公示整个有30天\n10月14号名单才刚出来",
+      "sourceBeatIds": [
+        "S02"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 47,
+          "endChar": 123,
+          "text": "上个月14号豆包发了一个\n屏幕自动化操作声明\n说白了就是\nAI要替你点手机\n但是App可以提前说\n我不同意\n公示整个有30天\n10月14号名单才刚出来\n"
+        }
+      ],
+      "oneQuestion": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "mixed"
+      },
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "staticAllowanceSeconds": 3.0
+      },
+      "visualPlan": {
+        "enter": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+        "change": "按当前字幕cue推进对象状态；自然内容切镜保留语义方向",
+        "read": "主要目标停稳后给阅读窗口，字幕位于底部固定安全带",
+        "exit": "结束在本段结果对象；真人切镜保留源时钟",
+        "handoff": "同一豆包/平台身份跨镜头；各镜按主题切换不重播媒体"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+            "check": "检查实际最长文字及运动中间态与口播cue"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "精确MiSans字重与得意黑，内容在字幕上方",
+            "check": "检查实际输出字体加载、边界与重叠"
+          }
+        ],
+        "signature": "493f8f325f4ab5e0b88b70cd043d702128e96451386bec5fe4ca8569b862ce41",
+        "modifiers": []
+      },
+      "componentPlan": {
+        "query": "日历 时间 日期 聚焦",
+        "selectionReason": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t16a",
+            "decision": "rejected",
+            "reason": "时间线能列日期，但本镜选择日历逐格走过30天以表现窗口长度。"
+          },
+          {
+            "id": "fred-wave2-42-t04d",
+            "decision": "rejected",
+            "reason": "主题长出分支再收拢不呈现日期窗口长度。"
+          },
+          {
+            "id": "library-new10-n026",
+            "decision": "rejected",
+            "reason": "手机与案例画面连续交接缺少日期含义。"
+          },
+          {
+            "id": "fred-wave3-40-t13d",
+            "decision": "selected",
+            "reason": "声明说明许可关系，公示窗口走过30天再落到10月14日。"
+          },
+          {
+            "id": "library-legacy81-r001",
+            "decision": "selected",
+            "reason": "声明说明许可关系，公示窗口走过30天再落到10月14日。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "library-legacy81-r001",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-R001-1-preview.mp4",
+            "sha256": "73ef658caf7ca86546c29fe3fb36ae3be76770188b80e5f589338020576f5512",
+            "observations": "日历载体承接时间概念，按格推进并落到截止日期；已看对应时间序列图，未连续看听。"
+          },
+          {
+            "id": "fred-wave3-40-t13d",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T13d-1-preview.mp4",
+            "sha256": "34aa6188226bb43c3d1e0a5597d16fa6d347db48b2f806c224d05b883e1bc1cf",
+            "observations": "请求沿线抵达目标，响应沿返回方向回到请求方；已看对应时间序列图，未连续看听。"
+          }
+        ]
+      },
+      "motionEvents": [
+        {
+          "sourceBeatId": "S02",
+          "event": "上个月14号豆包发了一个",
+          "cueFrame": 651,
+          "spokenCue": "上个月14号豆包发了一个"
+        },
+        {
+          "sourceBeatId": "S02",
+          "event": "屏幕自动化操作声明",
+          "cueFrame": 807,
+          "spokenCue": "屏幕自动化操作声明"
+        },
+        {
+          "sourceBeatId": "S02",
+          "event": "说白了就是",
+          "cueFrame": 981,
+          "spokenCue": "说白了就是"
+        },
+        {
+          "sourceBeatId": "S02",
+          "event": "AI要替你点手机",
+          "cueFrame": 1077,
+          "spokenCue": "AI要替你点手机"
+        },
+        {
+          "sourceBeatId": "S02",
+          "event": "但是App可以提前说",
+          "cueFrame": 1215,
+          "spokenCue": "但是App可以提前说"
+        },
+        {
+          "sourceBeatId": "S02",
+          "event": "我不同意",
+          "cueFrame": 1359,
+          "spokenCue": "我不同意"
+        },
+        {
+          "sourceBeatId": "S02",
+          "event": "公示整个有30天",
+          "cueFrame": 1437,
+          "spokenCue": "公示整个有30天"
+        },
+        {
+          "sourceBeatId": "S02",
+          "event": "10月14号名单才刚出来",
+          "cueFrame": 1587,
+          "spokenCue": "10月14号名单才刚出来"
+        }
+      ],
+      "referenceChoices": [
+        {
+          "id": "library-legacy81-r001",
+          "reason": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+          "preserve": "日历载体承接时间概念，按格推进并落到截止日期",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S02",
+          "useMode": "local",
+          "keyAction": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/8bb63da6465b/src/CalendarV3.tsx",
+            "sha256": "8c6dc5cb9de00997a3db9acd654f2559646d920fcbb2404dfad2b8d4abe6c7e0",
+            "symbol": "CalendarV3"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "CalendarAction"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Statement",
+            "callee": "CalendarAction"
+          }
+        },
+        {
+          "id": "fred-wave3-40-t13d",
+          "reason": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+          "preserve": "请求沿线抵达目标，响应沿返回方向回到请求方",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S02",
+          "useMode": "local",
+          "keyAction": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T13d-RequestTrip.tsx",
+            "sha256": "4cd6cda38eb3879db74f1214053baac465aa6d477a19275d451e9f7514087e48",
+            "symbol": "RequestTrip"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "RequestAction"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Statement",
+            "callee": "RequestAction"
+          }
+        }
+      ],
+      "exactScreenWords": [
+        "屏幕自动化操作声明协议"
+      ],
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-14.5.png",
+            "sha256": "7f1c00ccc79aafec36493306d9126bdaf3d1b300284dc08dbb8503d75fa789fe"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-20.5.png",
+            "sha256": "adc8424ea5ace7a05ce0b3bbdf0c491c8ef57b4e345c33359ee8018d2dc36aa6"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-25.5.png",
+            "sha256": "5a655cde35a0e2b8107fd8ee9ca90d5bd6fddb5ee5a10e4c73d374b4ed79dbc9"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-28.2.png",
+            "sha256": "058701e56a92feca9a207a05dc69d8b35b54ebb45beaf9cbf906e75ad56edcf7"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+          "corePreserved": "已对照源组件采样图及上述实际源码；保留路径往返、数字落定、来源像素、输入汇聚或钥匙依赖，具体边界在referenceChoices。",
+          "visualQuality": "实际关键帧：白底墨黑载体，MiSans正文/Heavy与独立得意黑字幕；主对象避开底部230px字幕带。已修报道裁切与残留关系线，原尺寸查看53.4/85/108s。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-14.5.png",
+            "sha256": "7f1c00ccc79aafec36493306d9126bdaf3d1b300284dc08dbb8503d75fa789fe"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-20.5.png",
+            "sha256": "adc8424ea5ace7a05ce0b3bbdf0c491c8ef57b4e345c33359ee8018d2dc36aa6"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-25.5.png",
+            "sha256": "5a655cde35a0e2b8107fd8ee9ca90d5bd6fddb5ee5a10e4c73d374b4ed79dbc9"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-28.2.png",
+            "sha256": "058701e56a92feca9a207a05dc69d8b35b54ebb45beaf9cbf906e75ad56edcf7"
+          }
+        ],
+        "contextSha256": "3591d7d636aac643418d64df89a43592c238b23df8be7a0d0d1ca57b9ce90f2e"
+      }
+    },
+    {
+      "stableId": "S03",
+      "startFrame": 1773,
+      "durationInFrames": 1563,
+      "scriptAnchor": "这些App里面\n腾讯总共是占了66款\n包括微信\nQQ\n元宝\n包括这些都在里面\n然后阿里的话\n总共占了23款\n淘宝\n支付宝\n高德地图\n快手总共是占了14款\n美团总共是占了11款\n就连DeepSeek\n也拒绝了豆包的这个使用",
+      "sourceBeatIds": [
+        "S03"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 123,
+          "endChar": 234,
+          "text": "这些App里面\n腾讯总共是占了66款\n包括微信\nQQ\n元宝\n包括这些都在里面\n然后阿里的话\n总共占了23款\n淘宝\n支付宝\n高德地图\n快手总共是占了14款\n美团总共是占了11款\n就连DeepSeek\n也拒绝了豆包的这个使用\n"
+        }
+      ],
+      "oneQuestion": "生态数字按口播依次聚焦，报道原文承担来源。",
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "mixed"
+      },
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "staticAllowanceSeconds": 3.0
+      },
+      "visualPlan": {
+        "enter": "生态数字按口播依次聚焦，报道原文承担来源。",
+        "change": "按当前字幕cue推进对象状态；自然内容切镜保留语义方向",
+        "read": "主要目标停稳后给阅读窗口，字幕位于底部固定安全带",
+        "exit": "结束在本段结果对象；真人切镜保留源时钟",
+        "handoff": "同一豆包/平台身份跨镜头；各镜按主题切换不重播媒体"
+      },
+      "sceneGuide": {
+        "type": "metric-change",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "生态数字按口播依次聚焦，报道原文承担来源。",
+            "check": "检查实际最长文字及运动中间态与口播cue"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "精确MiSans字重与得意黑，内容在字幕上方",
+            "check": "检查实际输出字体加载、边界与重叠"
+          }
+        ],
+        "signature": "ea63bce09020f3b149bfedaf8e8fec13cc241a0f6e71a0d3b15b0887e0abf90d",
+        "modifiers": []
+      },
+      "componentPlan": {
+        "query": "数字 并列 指标 依次落定",
+        "selectionReason": "生态数字按口播依次聚焦，报道原文承担来源。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t14e",
+            "decision": "selected",
+            "reason": "生态数字按口播依次聚焦，报道原文承担来源。"
+          },
+          {
+            "id": "fred-native-t14c",
+            "decision": "rejected",
+            "reason": "旧价划掉与新价对比会误导生态分组数字是价格或版本变化。"
+          },
+          {
+            "id": "fred-wave3-40-t15f",
+            "decision": "rejected",
+            "reason": "环形占比会错误暗示四组构成全部应用；本期只列数量。"
+          },
+          {
+            "id": "fred-wave3-40-t09i",
+            "decision": "selected",
+            "reason": "生态数字按口播依次聚焦，报道原文承担来源。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t14e",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T14e-1-preview.mp4",
+            "sha256": "38980c72d42e740fd4fe854a72b54052c54d24553b1f04740d614225ab862181",
+            "observations": "多项数字错开落定，同组字阶与焦点变深；已看对应时间序列图，未连续看听。"
+          },
+          {
+            "id": "fred-wave3-40-t09i",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T09i-1-preview.mp4",
+            "sha256": "aa1fe38a331b8e4e59f31f9dc2cc2f56fb0c48dd67e8dab849bc913abc064b65",
+            "observations": "同一真实截图的目标行保持像素身份并提起聚焦；已看对应时间序列图，未连续看听。"
+          }
+        ]
+      },
+      "motionEvents": [
+        {
+          "sourceBeatId": "S03",
+          "event": "这些App里面",
+          "cueFrame": 1773,
+          "spokenCue": "这些App里面"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "腾讯总共是占了66款",
+          "cueFrame": 1855,
+          "spokenCue": "腾讯总共是占了66款"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "包括微信",
+          "cueFrame": 1985,
+          "spokenCue": "包括微信"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "QQ",
+          "cueFrame": 2069,
+          "spokenCue": "QQ"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "元宝",
+          "cueFrame": 2112,
+          "spokenCue": "元宝"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "包括这些都在里面",
+          "cueFrame": 2154,
+          "spokenCue": "包括这些都在里面"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "然后阿里的话",
+          "cueFrame": 2323,
+          "spokenCue": "然后阿里的话"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "总共占了23款",
+          "cueFrame": 2437,
+          "spokenCue": "总共占了23款"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "淘宝",
+          "cueFrame": 2570,
+          "spokenCue": "淘宝"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "支付宝",
+          "cueFrame": 2608,
+          "spokenCue": "支付宝"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "高德地图",
+          "cueFrame": 2665,
+          "spokenCue": "高德地图"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "快手总共是占了14款",
+          "cueFrame": 2741,
+          "spokenCue": "快手总共是占了14款"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "美团总共是占了11款",
+          "cueFrame": 2908,
+          "spokenCue": "美团总共是占了11款"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "就连DeepSeek",
+          "cueFrame": 3074,
+          "spokenCue": "就连DeepSeek"
+        },
+        {
+          "sourceBeatId": "S03",
+          "event": "也拒绝了豆包的这个使用",
+          "cueFrame": 3193,
+          "spokenCue": "也拒绝了豆包的这个使用"
+        }
+      ],
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t14e",
+          "reason": "生态数字按口播依次聚焦，报道原文承担来源。",
+          "preserve": "多项数字错开落定，同组字阶与焦点变深",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S03",
+          "useMode": "local",
+          "keyAction": "生态数字按口播依次聚焦，报道原文承担来源。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T14e-StatTriplet.tsx",
+            "sha256": "a1a8f30bfd9effd7d6ceb7ea57a9031072b3a799ee27129b602bc8319464d071",
+            "symbol": "StatTriplet"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "StatGroups"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Groups",
+            "callee": "StatGroups"
+          }
+        },
+        {
+          "id": "fred-wave3-40-t09i",
+          "reason": "生态数字按口播依次聚焦，报道原文承担来源。",
+          "preserve": "同一真实截图的目标行保持像素身份并提起聚焦",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S03",
+          "useMode": "local",
+          "keyAction": "生态数字按口播依次聚焦，报道原文承担来源。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T09i-PickRow.tsx",
+            "sha256": "240ccf3e70085c4cafabe15b1fe20c58d7536f8c236786c2a0f5280055d90392",
+            "symbol": "PickRow"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "ArticleFocus"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "StatGroups",
+            "callee": "ArticleFocus"
+          }
+        }
+      ],
+      "exactScreenWords": [
+        "腾讯 阿里巴巴 快手 美团 DeepSeek"
+      ],
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-32.png",
+            "sha256": "0197ceb6cf0a761cf03213a9480632e7f836ea96a87816688fe4d9ab322d9e83"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-38.png",
+            "sha256": "542a0d2930856c925aa41e0af41196c607d688c7bbb80752550c6889de01485e"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-42.png",
+            "sha256": "d4c655a21de5e3a6af643ba39f7d5ed9f58320114212c73d22b21ccfc5131e6a"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-49.5.png",
+            "sha256": "d0594563a2633cadf10dc8d03c22c788227f3a7525a70902c5ee0a126cb69771"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-53.4.png",
+            "sha256": "ef2aec02f95948c5bd6c4ba9ef747f125674785408503859bad56c5fc1122499"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "生态数字按口播依次聚焦，报道原文承担来源。",
+          "corePreserved": "已对照源组件采样图及上述实际源码；保留路径往返、数字落定、来源像素、输入汇聚或钥匙依赖，具体边界在referenceChoices。",
+          "visualQuality": "实际关键帧：白底墨黑载体，MiSans正文/Heavy与独立得意黑字幕；主对象避开底部230px字幕带。已修报道裁切与残留关系线，原尺寸查看53.4/85/108s。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-32.png",
+            "sha256": "0197ceb6cf0a761cf03213a9480632e7f836ea96a87816688fe4d9ab322d9e83"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-38.png",
+            "sha256": "542a0d2930856c925aa41e0af41196c607d688c7bbb80752550c6889de01485e"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-42.png",
+            "sha256": "d4c655a21de5e3a6af643ba39f7d5ed9f58320114212c73d22b21ccfc5131e6a"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-49.5.png",
+            "sha256": "d0594563a2633cadf10dc8d03c22c788227f3a7525a70902c5ee0a126cb69771"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-53.4.png",
+            "sha256": "ef2aec02f95948c5bd6c4ba9ef747f125674785408503859bad56c5fc1122499"
+          }
+        ],
+        "contextSha256": "ab6ae683326ff87d21c1451553e2d80782cb5921eed8fc42baef66f71d5b6904"
+      }
+    },
+    {
+      "stableId": "S04",
+      "startFrame": 3336,
+      "durationInFrames": 477,
+      "scriptAnchor": "其实去年12月\n就已经闹过这么一次了\n有人用豆包去操作微信\n账号直接被踢下线了",
+      "sourceBeatIds": [
+        "S04"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 234,
+          "endChar": 274,
+          "text": "其实去年12月\n就已经闹过这么一次了\n有人用豆包去操作微信\n账号直接被踢下线了\n"
+        }
+      ],
+      "oneQuestion": "去年12月历史叙述，账号退出作为抽象关系结果。",
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "mixed"
+      },
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "staticAllowanceSeconds": 3.0
+      },
+      "visualPlan": {
+        "enter": "去年12月历史叙述，账号退出作为抽象关系结果。",
+        "change": "按当前字幕cue推进对象状态；自然内容切镜保留语义方向",
+        "read": "主要目标停稳后给阅读窗口，字幕位于底部固定安全带",
+        "exit": "结束在本段结果对象；真人切镜保留源时钟",
+        "handoff": "同一豆包/平台身份跨镜头；各镜按主题切换不重播媒体"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "去年12月历史叙述，账号退出作为抽象关系结果。",
+            "check": "检查实际最长文字及运动中间态与口播cue"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "精确MiSans字重与得意黑，内容在字幕上方",
+            "check": "检查实际输出字体加载、边界与重叠"
+          }
+        ],
+        "signature": "493f8f325f4ab5e0b88b70cd043d702128e96451386bec5fe4ca8569b862ce41",
+        "modifiers": []
+      },
+      "componentPlan": {
+        "query": "请求 往返 结果返回",
+        "selectionReason": "去年12月历史叙述，账号退出作为抽象关系结果。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t13d",
+            "decision": "selected",
+            "reason": "去年12月历史叙述，账号退出作为抽象关系结果。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t13d",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T13d-1-preview.mp4",
+            "sha256": "34aa6188226bb43c3d1e0a5597d16fa6d347db48b2f806c224d05b883e1bc1cf",
+            "observations": "请求沿线抵达目标，响应沿返回方向回到请求方；已看对应时间序列图，未连续看听。"
+          }
+        ]
+      },
+      "motionEvents": [
+        {
+          "sourceBeatId": "S04",
+          "event": "其实去年12月",
+          "cueFrame": 3336,
+          "spokenCue": "其实去年12月"
+        },
+        {
+          "sourceBeatId": "S04",
+          "event": "就已经闹过这么一次了",
+          "cueFrame": 3408,
+          "spokenCue": "就已经闹过这么一次了"
+        },
+        {
+          "sourceBeatId": "S04",
+          "event": "有人用豆包去操作微信",
+          "cueFrame": 3512,
+          "spokenCue": "有人用豆包去操作微信"
+        },
+        {
+          "sourceBeatId": "S04",
+          "event": "账号直接被踢下线了",
+          "cueFrame": 3668,
+          "spokenCue": "账号直接被踢下线了"
+        }
+      ],
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t13d",
+          "reason": "去年12月历史叙述，账号退出作为抽象关系结果。",
+          "preserve": "请求沿线抵达目标，响应沿返回方向回到请求方",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S04",
+          "useMode": "local",
+          "keyAction": "去年12月历史叙述，账号退出作为抽象关系结果。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T13d-RequestTrip.tsx",
+            "sha256": "4cd6cda38eb3879db74f1214053baac465aa6d477a19275d451e9f7514087e48",
+            "symbol": "RequestTrip"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "RequestAction"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "History",
+            "callee": "RequestAction"
+          }
+        }
+      ],
+      "exactScreenWords": [
+        "操作微信，账号退出"
+      ],
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-57.png",
+            "sha256": "98e2ca8d540e1558ae6cc4bce2580cfa4b484d156d5539cc3b4c11b390d4f830"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-61.png",
+            "sha256": "262352e85618f1a641a5ca3a021a5b1a0f3464cca7bf549b642a34eac9a70dd3"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "去年12月历史叙述，账号退出作为抽象关系结果。",
+          "corePreserved": "已对照源组件采样图及上述实际源码；保留路径往返、数字落定、来源像素、输入汇聚或钥匙依赖，具体边界在referenceChoices。",
+          "visualQuality": "实际关键帧：白底墨黑载体，MiSans正文/Heavy与独立得意黑字幕；主对象避开底部230px字幕带。已修报道裁切与残留关系线，原尺寸查看53.4/85/108s。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-57.png",
+            "sha256": "98e2ca8d540e1558ae6cc4bce2580cfa4b484d156d5539cc3b4c11b390d4f830"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-61.png",
+            "sha256": "262352e85618f1a641a5ca3a021a5b1a0f3464cca7bf549b642a34eac9a70dd3"
+          }
+        ],
+        "contextSha256": "aa7710097b70c51f36e8f305dc846b5b9be93e8d309ba6efc4579eb1570f87af"
+      }
+    },
+    {
+      "stableId": "S05",
+      "startFrame": 3813,
+      "durationInFrames": 1744,
+      "scriptAnchor": "大家有没有想过\n为什么这些头部的大厂\n都拒绝了豆包\n其实我看就很简单的三个因素\n一个是入口\n一个是数据\n一个是安全\n你本来要打开的是淘宝\n如果说现在只需要对豆包说一句\n那么淘宝的首页\n它的推荐\n它的广告\n谁来看\nAI在App里点来点去\n你所看到的东西\n它都过了一遍",
+      "sourceBeatIds": [
+        "S05"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 274,
+          "endChar": 407,
+          "text": "大家有没有想过\n为什么这些头部的大厂\n都拒绝了豆包\n其实我看就很简单的三个因素\n一个是入口\n一个是数据\n一个是安全\n你本来要打开的是淘宝\n如果说现在只需要对豆包说一句\n那么淘宝的首页\n它的推荐\n它的广告\n谁来看\nAI在App里点来点去\n你所看到的东西\n它都过了一遍\n"
+        }
+      ],
+      "oneQuestion": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "mixed"
+      },
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "staticAllowanceSeconds": 3.0
+      },
+      "visualPlan": {
+        "enter": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+        "change": "按当前字幕cue推进对象状态；自然内容切镜保留语义方向",
+        "read": "主要目标停稳后给阅读窗口，字幕位于底部固定安全带",
+        "exit": "结束在本段结果对象；真人切镜保留源时钟",
+        "handoff": "同一豆包/平台身份跨镜头；各镜按主题切换不重播媒体"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+            "check": "检查实际最长文字及运动中间态与口播cue"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "精确MiSans字重与得意黑，内容在字幕上方",
+            "check": "检查实际输出字体加载、边界与重叠"
+          }
+        ],
+        "signature": "493f8f325f4ab5e0b88b70cd043d702128e96451386bec5fe4ca8569b862ce41",
+        "modifiers": []
+      },
+      "componentPlan": {
+        "query": "多个输入 汇聚 入口",
+        "selectionReason": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+        "candidates": [
+          {
+            "id": "library-legacy81-r006",
+            "decision": "selected",
+            "reason": "我看的观点保留真人，入口迁移后以读屏信息流承接。"
+          },
+          {
+            "id": "library-legacy81-c005",
+            "decision": "rejected",
+            "reason": "声音到记忆发散而非输入入口汇聚，当前反向对象关系不同。"
+          },
+          {
+            "id": "fred-wave2-42-t02e",
+            "decision": "rejected",
+            "reason": "多产品用途卡的移位不表达平台许可。"
+          },
+          {
+            "id": "fred-wave3-40-t13d",
+            "decision": "selected",
+            "reason": "我看的观点保留真人，入口迁移后以读屏信息流承接。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "library-legacy81-r006",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-R006-1-preview.mp4",
+            "sha256": "8b22f045e5b0fdca794b03bab12901ec753ecc8a39a938eda3159ed0fa4bf92b",
+            "observations": "多个输入对象汇聚到统一入口，原路径和标签随动作退场；已看对应时间序列图，未连续看听。"
+          },
+          {
+            "id": "fred-wave3-40-t13d",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T13d-1-preview.mp4",
+            "sha256": "34aa6188226bb43c3d1e0a5597d16fa6d347db48b2f806c224d05b883e1bc1cf",
+            "observations": "请求沿线抵达目标，响应沿返回方向回到请求方；已看对应时间序列图，未连续看听。"
+          }
+        ]
+      },
+      "motionEvents": [
+        {
+          "sourceBeatId": "S05",
+          "event": "大家有没有想过",
+          "cueFrame": 3813,
+          "spokenCue": "大家有没有想过"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "为什么这些头部的大厂",
+          "cueFrame": 3905,
+          "spokenCue": "为什么这些头部的大厂"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "都拒绝了豆包",
+          "cueFrame": 4045,
+          "spokenCue": "都拒绝了豆包"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "其实我看就很简单的三个因素",
+          "cueFrame": 4129,
+          "spokenCue": "其实我看就很简单的三个因素"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "一个是入口",
+          "cueFrame": 4330,
+          "spokenCue": "一个是入口"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "一个是数据",
+          "cueFrame": 4412,
+          "spokenCue": "一个是数据"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "一个是安全",
+          "cueFrame": 4493,
+          "spokenCue": "一个是安全"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "你本来要打开的是淘宝",
+          "cueFrame": 4575,
+          "spokenCue": "你本来要打开的是淘宝"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "如果说现在只需要对豆包说一句",
+          "cueFrame": 4717,
+          "spokenCue": "如果说现在只需要对豆包说一句"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "那么淘宝的首页",
+          "cueFrame": 4954,
+          "spokenCue": "那么淘宝的首页"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "它的推荐",
+          "cueFrame": 5052,
+          "spokenCue": "它的推荐"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "它的广告",
+          "cueFrame": 5108,
+          "spokenCue": "它的广告"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "谁来看",
+          "cueFrame": 5164,
+          "spokenCue": "谁来看"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "AI在App里点来点去",
+          "cueFrame": 5206,
+          "spokenCue": "AI在App里点来点去"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "你所看到的东西",
+          "cueFrame": 5386,
+          "spokenCue": "你所看到的东西"
+        },
+        {
+          "sourceBeatId": "S05",
+          "event": "它都过了一遍",
+          "cueFrame": 5478,
+          "spokenCue": "它都过了一遍"
+        }
+      ],
+      "referenceChoices": [
+        {
+          "id": "library-legacy81-r006",
+          "reason": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+          "preserve": "多个输入对象汇聚到统一入口，原路径和标签随动作退场",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S05",
+          "useMode": "local",
+          "keyAction": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/5673609cc79a/groups/r/legacy/src/EncoderV3.tsx",
+            "sha256": "6f1eca08556542962edee32d1ebe1243d7d972baa9c2c0a5ddae35eff060ad78",
+            "symbol": "EncoderV3"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "EntryAction"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Analysis",
+            "callee": "EntryAction"
+          }
+        },
+        {
+          "id": "fred-wave3-40-t13d",
+          "reason": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+          "preserve": "请求沿线抵达目标，响应沿返回方向回到请求方",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S05",
+          "useMode": "local",
+          "keyAction": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T13d-RequestTrip.tsx",
+            "sha256": "4cd6cda38eb3879db74f1214053baac465aa6d477a19275d451e9f7514087e48",
+            "symbol": "RequestTrip"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "DataAction"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Analysis",
+            "callee": "DataAction"
+          }
+        }
+      ],
+      "exactScreenWords": [
+        "入口 数据 安全"
+      ],
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-67.png",
+            "sha256": "39bee81320a502a43325038d3cd29d6daa01467bba8f7892676a405a73481825"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-73.4.png",
+            "sha256": "7eb5cdbb9d8d444d8a0bdc6983f913871278b99c6752d7c93e45745f18af56a5"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-77.4.png",
+            "sha256": "c4b28015ad0cd0c432e4a5ff6df462684d59dd0d24561f0fbad5ca1e43c4fbac"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-81.2.png",
+            "sha256": "71e6e52f92fdb2b01d8982cc561286fb513acb6918ba3a0b8f3045a86c1f3b57"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-85.png",
+            "sha256": "7f7905d373b54e62d7a916e9c34af4c6c6ebf97fb498d5cd6ba38b788ce06b5d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-89.png",
+            "sha256": "61379ce580fd5ea3f15d17ff59d6b85f3d681745dbb9ce70ab962dfcc628a689"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-92.png",
+            "sha256": "99fddfb8dc03520e3c3ab0982c3776bac7229eafcbbf67054abb12f327af685e"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+          "corePreserved": "已对照源组件采样图及上述实际源码；保留路径往返、数字落定、来源像素、输入汇聚或钥匙依赖，具体边界在referenceChoices。",
+          "visualQuality": "实际关键帧：白底墨黑载体，MiSans正文/Heavy与独立得意黑字幕；主对象避开底部230px字幕带。已修报道裁切与残留关系线，原尺寸查看53.4/85/108s。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-67.png",
+            "sha256": "39bee81320a502a43325038d3cd29d6daa01467bba8f7892676a405a73481825"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-73.4.png",
+            "sha256": "7eb5cdbb9d8d444d8a0bdc6983f913871278b99c6752d7c93e45745f18af56a5"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-77.4.png",
+            "sha256": "c4b28015ad0cd0c432e4a5ff6df462684d59dd0d24561f0fbad5ca1e43c4fbac"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-81.2.png",
+            "sha256": "71e6e52f92fdb2b01d8982cc561286fb513acb6918ba3a0b8f3045a86c1f3b57"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-85.png",
+            "sha256": "7f7905d373b54e62d7a916e9c34af4c6c6ebf97fb498d5cd6ba38b788ce06b5d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-89.png",
+            "sha256": "61379ce580fd5ea3f15d17ff59d6b85f3d681745dbb9ce70ab962dfcc628a689"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-92.png",
+            "sha256": "99fddfb8dc03520e3c3ab0982c3776bac7229eafcbbf67054abb12f327af685e"
+          }
+        ],
+        "contextSha256": "c8c7109c1bc528d74bb12cbd4869abe2f6fb02e82b8954f7056625ff9247a2af"
+      }
+    },
+    {
+      "stableId": "S06",
+      "startFrame": 5557,
+      "durationInFrames": 275,
+      "scriptAnchor": "然后付钱聊天\n出了事\n该算谁的",
+      "sourceBeatIds": [
+        "S06"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 407,
+          "endChar": 423,
+          "text": "然后付钱聊天\n出了事\n该算谁的\n"
+        }
+      ],
+      "oneQuestion": "责任悬而未决，锁不打开。",
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "mixed"
+      },
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "staticAllowanceSeconds": 3.0
+      },
+      "visualPlan": {
+        "enter": "责任悬而未决，锁不打开。",
+        "change": "按当前字幕cue推进对象状态；自然内容切镜保留语义方向",
+        "read": "主要目标停稳后给阅读窗口，字幕位于底部固定安全带",
+        "exit": "结束在本段结果对象；真人切镜保留源时钟",
+        "handoff": "同一豆包/平台身份跨镜头；各镜按主题切换不重播媒体"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "责任悬而未决，锁不打开。",
+            "check": "检查实际最长文字及运动中间态与口播cue"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "精确MiSans字重与得意黑，内容在字幕上方",
+            "check": "检查实际输出字体加载、边界与重叠"
+          }
+        ],
+        "signature": "493f8f325f4ab5e0b88b70cd043d702128e96451386bec5fe4ca8569b862ce41",
+        "modifiers": []
+      },
+      "componentPlan": {
+        "query": "钥匙 锁定 能力 依赖",
+        "selectionReason": "责任悬而未决，锁不打开。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t04f",
+            "decision": "selected",
+            "reason": "责任悬而未决，锁不打开。"
+          },
+          {
+            "id": "fred-wave3-40-t02h",
+            "decision": "rejected",
+            "reason": "文件翻面解释职责需要文件原文，本片是平台许可锁依赖。"
+          },
+          {
+            "id": "fred-wave2-42-t02e",
+            "decision": "rejected",
+            "reason": "多产品用途卡的移位不表达平台许可。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t04f",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T04f-1-preview.mp4",
+            "sha256": "d3a16615177b01f31b522ce59b6dc21ac12996589070c2298be6872671305bf9",
+            "observations": "钥匙尖端与锁芯依赖，分支连接能力；本片不让锁打开；已看对应时间序列图，未连续看听。"
+          }
+        ]
+      },
+      "motionEvents": [
+        {
+          "sourceBeatId": "S06",
+          "event": "然后付钱聊天",
+          "cueFrame": 5557,
+          "spokenCue": "然后付钱聊天"
+        },
+        {
+          "sourceBeatId": "S06",
+          "event": "出了事",
+          "cueFrame": 5681,
+          "spokenCue": "出了事"
+        },
+        {
+          "sourceBeatId": "S06",
+          "event": "该算谁的",
+          "cueFrame": 5743,
+          "spokenCue": "该算谁的"
+        }
+      ],
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t04f",
+          "reason": "责任悬而未决，锁不打开。",
+          "preserve": "钥匙尖端与锁芯依赖，分支连接能力；本片不让锁打开",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S06",
+          "useMode": "local",
+          "keyAction": "责任悬而未决，锁不打开。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T04f-KeyUnlock.tsx",
+            "sha256": "1ab4c93cc3bb1c49b6bc08a45f044ba71c91f4fb0992051fce5d9e96de918439",
+            "symbol": "KeyUnlock"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "PermissionAction"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Responsibility",
+            "callee": "PermissionAction"
+          }
+        }
+      ],
+      "exactScreenWords": [
+        "出了事，谁负责？"
+      ],
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-95.png",
+            "sha256": "5599d6184375e5296ae878557b13ae43e40bfe63ae63664d219d9da4f049cecb"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "责任悬而未决，锁不打开。",
+          "corePreserved": "已对照源组件采样图及上述实际源码；保留路径往返、数字落定、来源像素、输入汇聚或钥匙依赖，具体边界在referenceChoices。",
+          "visualQuality": "实际关键帧：白底墨黑载体，MiSans正文/Heavy与独立得意黑字幕；主对象避开底部230px字幕带。已修报道裁切与残留关系线，原尺寸查看53.4/85/108s。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-95.png",
+            "sha256": "5599d6184375e5296ae878557b13ae43e40bfe63ae63664d219d9da4f049cecb"
+          }
+        ],
+        "contextSha256": "d6f7f84c6c211758a2bc93fb193a29e371eb603e27ec42ba1f8a9b78ec603d26"
+      }
+    },
+    {
+      "stableId": "S07",
+      "startFrame": 5832,
+      "durationInFrames": 948,
+      "scriptAnchor": "对于我们普通人来说\nAI替你点外卖打车\n听着很方便\n但是现在的这扇门\n得这些大公司点头才行\n所以接下来的问题\n并不是AI到底行不行\n而是平台让不让",
+      "sourceBeatIds": [
+        "S07"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 423,
+          "endChar": 497,
+          "text": "对于我们普通人来说\nAI替你点外卖打车\n听着很方便\n但是现在的这扇门\n得这些大公司点头才行\n所以接下来的问题\n并不是AI到底行不行\n而是平台让不让\n"
+        }
+      ],
+      "oneQuestion": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "mixed"
+      },
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "staticAllowanceSeconds": 3.0
+      },
+      "visualPlan": {
+        "enter": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+        "change": "按当前字幕cue推进对象状态；自然内容切镜保留语义方向",
+        "read": "主要目标停稳后给阅读窗口，字幕位于底部固定安全带",
+        "exit": "结束在本段结果对象；真人切镜保留源时钟",
+        "handoff": "同一豆包/平台身份跨镜头；各镜按主题切换不重播媒体"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+            "check": "检查实际最长文字及运动中间态与口播cue"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "精确MiSans字重与得意黑，内容在字幕上方",
+            "check": "检查实际输出字体加载、边界与重叠"
+          }
+        ],
+        "signature": "493f8f325f4ab5e0b88b70cd043d702128e96451386bec5fe4ca8569b862ce41",
+        "modifiers": []
+      },
+      "componentPlan": {
+        "query": "钥匙 许可 解锁",
+        "selectionReason": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t04f",
+            "decision": "selected",
+            "reason": "点外卖打车的方便与许可前提并存，结尾真人收束。"
+          },
+          {
+            "id": "library-new10-n047",
+            "decision": "rejected",
+            "reason": "手机解锁进入聊天会暗示操作已成功，与许可未给的结论冲突。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t04f",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T04f-1-preview.mp4",
+            "sha256": "d3a16615177b01f31b522ce59b6dc21ac12996589070c2298be6872671305bf9",
+            "observations": "钥匙尖端与锁芯依赖，分支连接能力；本片不让锁打开；已看对应时间序列图，未连续看听。"
+          }
+        ]
+      },
+      "motionEvents": [
+        {
+          "sourceBeatId": "S07",
+          "event": "对于我们普通人来说",
+          "cueFrame": 5832,
+          "spokenCue": "对于我们普通人来说"
+        },
+        {
+          "sourceBeatId": "S07",
+          "event": "AI替你点外卖打车",
+          "cueFrame": 5922,
+          "spokenCue": "AI替你点外卖打车"
+        },
+        {
+          "sourceBeatId": "S07",
+          "event": "听着很方便",
+          "cueFrame": 6088,
+          "spokenCue": "听着很方便"
+        },
+        {
+          "sourceBeatId": "S07",
+          "event": "但是现在的这扇门",
+          "cueFrame": 6164,
+          "spokenCue": "但是现在的这扇门"
+        },
+        {
+          "sourceBeatId": "S07",
+          "event": "得这些大公司点头才行",
+          "cueFrame": 6272,
+          "spokenCue": "得这些大公司点头才行"
+        },
+        {
+          "sourceBeatId": "S07",
+          "event": "所以接下来的问题",
+          "cueFrame": 6428,
+          "spokenCue": "所以接下来的问题"
+        },
+        {
+          "sourceBeatId": "S07",
+          "event": "并不是AI到底行不行",
+          "cueFrame": 6505,
+          "spokenCue": "并不是AI到底行不行"
+        },
+        {
+          "sourceBeatId": "S07",
+          "event": "而是平台让不让",
+          "cueFrame": 6625,
+          "spokenCue": "而是平台让不让"
+        }
+      ],
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t04f",
+          "reason": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+          "preserve": "钥匙尖端与锁芯依赖，分支连接能力；本片不让锁打开",
+          "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+          "useScope": "S07",
+          "useMode": "local",
+          "keyAction": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T04f-KeyUnlock.tsx",
+            "sha256": "1ab4c93cc3bb1c49b6bc08a45f044ba71c91f4fb0992051fce5d9e96de918439",
+            "symbol": "KeyUnlock"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+            "symbol": "PermissionAction"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+            "symbol": "Ending",
+            "callee": "PermissionAction"
+          }
+        }
+      ],
+      "exactScreenWords": [
+        "平台，让不让？"
+      ],
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-104.png",
+            "sha256": "c54ac27dc79bb99aa48ca07455a7550159b3fa4f115a0de6c7d2a5d288817b40"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-108.png",
+            "sha256": "2e6acb7b940fa9829be5c47efe27d5239059d0aba0323822129d6714a0877017"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-111.5.png",
+            "sha256": "fd6d1666f4951fdf2c9987061b3c107eec453c6f055f89799e120ab816ea02d9"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-99.png",
+            "sha256": "5d500f578fd69c1ecce7c1ca83ad4c92a2858f9f9a629dfb7dd0a441fa654d39"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+            "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+            "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+          "corePreserved": "已对照源组件采样图及上述实际源码；保留路径往返、数字落定、来源像素、输入汇聚或钥匙依赖，具体边界在referenceChoices。",
+          "visualQuality": "实际关键帧：白底墨黑载体，MiSans正文/Heavy与独立得意黑字幕；主对象避开底部230px字幕带。已修报道裁切与残留关系线，原尺寸查看53.4/85/108s。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-104.png",
+            "sha256": "c54ac27dc79bb99aa48ca07455a7550159b3fa4f115a0de6c7d2a5d288817b40"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-108.png",
+            "sha256": "2e6acb7b940fa9829be5c47efe27d5239059d0aba0323822129d6714a0877017"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-111.5.png",
+            "sha256": "fd6d1666f4951fdf2c9987061b3c107eec453c6f055f89799e120ab816ea02d9"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/still-99.png",
+            "sha256": "5d500f578fd69c1ecce7c1ca83ad4c92a2858f9f9a629dfb7dd0a441fa654d39"
+          }
+        ],
+        "contextSha256": "5569123ff04644e7071df6387561f6a4f6d0d01fdd4997ba341f795df0171076"
+      }
+    }
+  ],
+  "subtitles": {
+    "enabled": true,
+    "sourcePath": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/subtitles.srt",
+    "sourceSha256": "8028f552ff723a906c6fd606261448d169f43cc35d1d44d064ad7a63120a9f15",
+    "cues": [
+      {
+        "startSeconds": 0.0,
+        "endSeconds": 1.851,
+        "text": "豆包想给你点外卖"
+      },
+      {
+        "startSeconds": 1.851,
+        "endSeconds": 3.69,
+        "text": "但是美团说不行"
+      },
+      {
+        "startSeconds": 3.69,
+        "endSeconds": 6.41,
+        "text": "而且不光是美团说不行"
+      },
+      {
+        "startSeconds": 6.41,
+        "endSeconds": 8.8688,
+        "text": "总共有155个App"
+      },
+      {
+        "startSeconds": 8.8688,
+        "endSeconds": 10.59,
+        "text": "都对豆包说No"
+      },
+      {
+        "startSeconds": 10.85,
+        "endSeconds": 13.45,
+        "text": "上个月14号豆包发了一个"
+      },
+      {
+        "startSeconds": 13.45,
+        "endSeconds": 16.35,
+        "text": "屏幕自动化操作声明"
+      },
+      {
+        "startSeconds": 16.35,
+        "endSeconds": 17.95,
+        "text": "说白了就是"
+      },
+      {
+        "startSeconds": 17.95,
+        "endSeconds": 20.25,
+        "text": "AI要替你点手机"
+      },
+      {
+        "startSeconds": 20.25,
+        "endSeconds": 22.65,
+        "text": "但是App可以提前说"
+      },
+      {
+        "startSeconds": 22.65,
+        "endSeconds": 23.95,
+        "text": "我不同意"
+      },
+      {
+        "startSeconds": 23.95,
+        "endSeconds": 26.45,
+        "text": "公示整个有30天"
+      },
+      {
+        "startSeconds": 26.45,
+        "endSeconds": 29.45,
+        "text": "10月14号名单才刚出来"
+      },
+      {
+        "startSeconds": 29.55,
+        "endSeconds": 30.915,
+        "text": "这些App里面"
+      },
+      {
+        "startSeconds": 30.915,
+        "endSeconds": 33.08,
+        "text": "腾讯总共是占了66款"
+      },
+      {
+        "startSeconds": 33.08,
+        "endSeconds": 34.49,
+        "text": "包括微信"
+      },
+      {
+        "startSeconds": 34.49,
+        "endSeconds": 35.195,
+        "text": "QQ"
+      },
+      {
+        "startSeconds": 35.195,
+        "endSeconds": 35.9,
+        "text": "元宝"
+      },
+      {
+        "startSeconds": 35.9,
+        "endSeconds": 38.72,
+        "text": "包括这些都在里面"
+      },
+      {
+        "startSeconds": 38.72,
+        "endSeconds": 40.618,
+        "text": "然后阿里的话"
+      },
+      {
+        "startSeconds": 40.618,
+        "endSeconds": 42.833,
+        "text": "总共占了23款"
+      },
+      {
+        "startSeconds": 42.833,
+        "endSeconds": 43.465,
+        "text": "淘宝"
+      },
+      {
+        "startSeconds": 43.465,
+        "endSeconds": 44.415,
+        "text": "支付宝"
+      },
+      {
+        "startSeconds": 44.415,
+        "endSeconds": 45.68,
+        "text": "高德地图"
+      },
+      {
+        "startSeconds": 45.68,
+        "endSeconds": 48.46,
+        "text": "快手总共是占了14款"
+      },
+      {
+        "startSeconds": 48.46,
+        "endSeconds": 51.24,
+        "text": "美团总共是占了11款"
+      },
+      {
+        "startSeconds": 51.24,
+        "endSeconds": 53.221,
+        "text": "就连DeepSeek"
+      },
+      {
+        "startSeconds": 53.221,
+        "endSeconds": 55.4,
+        "text": "也拒绝了豆包的这个使用"
+      },
+      {
+        "startSeconds": 55.6,
+        "endSeconds": 56.8065,
+        "text": "其实去年12月"
+      },
+      {
+        "startSeconds": 56.8065,
+        "endSeconds": 58.53,
+        "text": "就已经闹过这么一次了"
+      },
+      {
+        "startSeconds": 58.53,
+        "endSeconds": 61.13,
+        "text": "有人用豆包去操作微信"
+      },
+      {
+        "startSeconds": 61.13,
+        "endSeconds": 63.29,
+        "text": "账号直接被踢下线了"
+      },
+      {
+        "startSeconds": 63.55,
+        "endSeconds": 65.081,
+        "text": "大家有没有想过"
+      },
+      {
+        "startSeconds": 65.081,
+        "endSeconds": 67.412,
+        "text": "为什么这些头部的大厂"
+      },
+      {
+        "startSeconds": 67.412,
+        "endSeconds": 68.81,
+        "text": "都拒绝了豆包"
+      },
+      {
+        "startSeconds": 68.81,
+        "endSeconds": 72.17,
+        "text": "其实我看就很简单的三个因素"
+      },
+      {
+        "startSeconds": 72.17,
+        "endSeconds": 73.53,
+        "text": "一个是入口"
+      },
+      {
+        "startSeconds": 73.53,
+        "endSeconds": 74.89,
+        "text": "一个是数据"
+      },
+      {
+        "startSeconds": 74.89,
+        "endSeconds": 76.25,
+        "text": "一个是安全"
+      },
+      {
+        "startSeconds": 76.25,
+        "endSeconds": 78.61,
+        "text": "你本来要打开的是淘宝"
+      },
+      {
+        "startSeconds": 78.61,
+        "endSeconds": 81.57,
+        "text": "如果说现在只需要对豆包说一句"
+      },
+      {
+        "startSeconds": 82.57,
+        "endSeconds": 84.203,
+        "text": "那么淘宝的首页"
+      },
+      {
+        "startSeconds": 84.203,
+        "endSeconds": 85.137,
+        "text": "它的推荐"
+      },
+      {
+        "startSeconds": 85.137,
+        "endSeconds": 86.07,
+        "text": "它的广告"
+      },
+      {
+        "startSeconds": 86.07,
+        "endSeconds": 86.77,
+        "text": "谁来看"
+      },
+      {
+        "startSeconds": 86.77,
+        "endSeconds": 89.77,
+        "text": "AI在App里点来点去"
+      },
+      {
+        "startSeconds": 89.77,
+        "endSeconds": 91.299,
+        "text": "你所看到的东西"
+      },
+      {
+        "startSeconds": 91.299,
+        "endSeconds": 92.61,
+        "text": "它都过了一遍"
+      },
+      {
+        "startSeconds": 92.6167,
+        "endSeconds": 94.6847,
+        "text": "然后付钱聊天"
+      },
+      {
+        "startSeconds": 94.6847,
+        "endSeconds": 95.7187,
+        "text": "出了事"
+      },
+      {
+        "startSeconds": 95.7187,
+        "endSeconds": 97.0967,
+        "text": "该算谁的"
+      },
+      {
+        "startSeconds": 97.2,
+        "endSeconds": 98.7,
+        "text": "对于我们普通人来说"
+      },
+      {
+        "startSeconds": 98.7,
+        "endSeconds": 101.46,
+        "text": "AI替你点外卖打车"
+      },
+      {
+        "startSeconds": 101.46,
+        "endSeconds": 102.74,
+        "text": "听着很方便"
+      },
+      {
+        "startSeconds": 102.74,
+        "endSeconds": 104.54,
+        "text": "但是现在的这扇门"
+      },
+      {
+        "startSeconds": 104.54,
+        "endSeconds": 107.14,
+        "text": "得这些大公司点头才行"
+      },
+      {
+        "startSeconds": 107.14,
+        "endSeconds": 108.42,
+        "text": "所以接下来的问题"
+      },
+      {
+        "startSeconds": 108.42,
+        "endSeconds": 110.42,
+        "text": "并不是AI到底行不行"
+      },
+      {
+        "startSeconds": 110.42,
+        "endSeconds": 112.66,
+        "text": "而是平台让不让"
+      }
+    ],
+    "geometry": {
+      "font": "SmileySans-Oblique.ttf",
+      "fontSize": 48,
+      "bottom": 230,
+      "maxWidth": 940
+    }
+  },
+  "audio": {
+    "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public/media/voice.wav",
+    "sha256": "679c7f2f226884c09c78f5a651bc98cd43c7010d81e2860c5a2301392cf3dd74"
+  },
+  "timingEvidence": {
+    "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/final-edl.json",
+    "sha256": "c9fab79e1a3282735ce7ccc4029314421c643ce0a828ab97655c009a5e22ca6d",
+    "scope": "Conformed actual speech timeline with ASR candidate cues; no direct listening claim"
+  },
+  "outputSpec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60
+  },
+  "componentDistributionReview": {
+    "status": "passed",
+    "reviewedBy": "assistant",
+    "contextSha256": "245733ac2da8e5ba790ed172f631ee5287a91697266d487ec5f50e5c85fb0f16",
+    "decisions": [
+      {
+        "groupKey": "6bf6bf05a61613f2612f05b5",
+        "sceneIds": [
+          "S01",
+          "S02",
+          "S04",
+          "S05"
+        ],
+        "reuseKind": "intentional-reprise",
+        "reason": "请求方与平台的相同身份用于开头提出矛盾、声明解释与历史回看；媒体截取为同一报道载体；结尾许可锁呼应责任而不演成成功授权。",
+        "comparisons": [
+          {
+            "stableId": "S01",
+            "task": "操作请求被拒，真实报道接管结果。",
+            "visibleState": "豆包请求美团，红色不行返回，随后真实报道",
+            "reusePurpose": "延续同一语义对象的动作词汇，当前场景有独立信息职责"
+          },
+          {
+            "stableId": "S02",
+            "task": "声明说明许可关系，公示窗口走过30天再落到10月14日。",
+            "visibleState": "App拒绝关系转为30天公示格",
+            "reusePurpose": "延续同一语义对象的动作词汇，当前场景有独立信息职责"
+          },
+          {
+            "stableId": "S04",
+            "task": "去年12月历史叙述，账号退出作为抽象关系结果。",
+            "visibleState": "微信关系返回账号退出",
+            "reusePurpose": "延续同一语义对象的动作词汇，当前场景有独立信息职责"
+          },
+          {
+            "stableId": "S05",
+            "task": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+            "visibleState": "淘宝入口绕至豆包，再读屏流向AI",
+            "reusePurpose": "延续同一语义对象的动作词汇，当前场景有独立信息职责"
+          }
+        ],
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-0.jpg",
+            "sha256": "9e6ff27611f29b07719ba35eb75b4aaee719aa2adaa1292e0ea25c594ba70966"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-1.jpg",
+            "sha256": "36bf3d7612bd4469d4deefc4a20f321717096dd6b1dd54f5e77d790fa841f9ea"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-2.jpg",
+            "sha256": "80e93402c7c049bf5660f910ed2e8782e17f3b99c50063579a2ef3cf4b8872bc"
+          }
+        ]
+      },
+      {
+        "groupKey": "ab86ad1d5c4f5a2fc30f5aa2",
+        "sceneIds": [
+          "S01",
+          "S03"
+        ],
+        "reuseKind": "intentional-reprise",
+        "reason": "请求方与平台的相同身份用于开头提出矛盾、声明解释与历史回看；媒体截取为同一报道载体；结尾许可锁呼应责任而不演成成功授权。",
+        "comparisons": [
+          {
+            "stableId": "S01",
+            "task": "操作请求被拒，真实报道接管结果。",
+            "visibleState": "豆包请求美团，红色不行返回，随后真实报道",
+            "reusePurpose": "延续同一语义对象的动作词汇，当前场景有独立信息职责"
+          },
+          {
+            "stableId": "S03",
+            "task": "生态数字按口播依次聚焦，报道原文承担来源。",
+            "visibleState": "四组数字和真实正文行，DeepSeek原像素行",
+            "reusePurpose": "延续同一语义对象的动作词汇，当前场景有独立信息职责"
+          }
+        ],
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-0.jpg",
+            "sha256": "9e6ff27611f29b07719ba35eb75b4aaee719aa2adaa1292e0ea25c594ba70966"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-1.jpg",
+            "sha256": "36bf3d7612bd4469d4deefc4a20f321717096dd6b1dd54f5e77d790fa841f9ea"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-2.jpg",
+            "sha256": "80e93402c7c049bf5660f910ed2e8782e17f3b99c50063579a2ef3cf4b8872bc"
+          }
+        ]
+      },
+      {
+        "groupKey": "ad40ab4284e55823db2aa783",
+        "sceneIds": [
+          "S06",
+          "S07"
+        ],
+        "reuseKind": "intentional-reprise",
+        "reason": "请求方与平台的相同身份用于开头提出矛盾、声明解释与历史回看；媒体截取为同一报道载体；结尾许可锁呼应责任而不演成成功授权。",
+        "comparisons": [
+          {
+            "stableId": "S06",
+            "task": "责任悬而未决，锁不打开。",
+            "visibleState": "责任钥匙未进入锁，付钱/聊天锁定",
+            "reusePurpose": "延续同一语义对象的动作词汇，当前场景有独立信息职责"
+          },
+          {
+            "stableId": "S07",
+            "task": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+            "visibleState": "许可钥匙停在锁前，真人结尾",
+            "reusePurpose": "延续同一语义对象的动作词汇，当前场景有独立信息职责"
+          }
+        ],
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-0.jpg",
+            "sha256": "9e6ff27611f29b07719ba35eb75b4aaee719aa2adaa1292e0ea25c594ba70966"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-1.jpg",
+            "sha256": "36bf3d7612bd4469d4deefc4a20f321717096dd6b1dd54f5e77d790fa841f9ea"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/overview-2.jpg",
+            "sha256": "80e93402c7c049bf5660f910ed2e8782e17f3b99c50063579a2ef3cf4b8872bc"
+          }
+        ]
+      }
+    ]
+  }
+}

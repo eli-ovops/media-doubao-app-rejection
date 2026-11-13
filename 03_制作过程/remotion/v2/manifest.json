@@ -1,0 +1,140 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "v2",
+  "baselineVideoSha256": "c561006155a3c348291c38eb4dbaa11e95e753274bae0746553eac2c71b37829",
+  "baselineManifest": {
+    "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/manifest.json",
+    "sha256": "e55254b6ab6d2888fdab448bb2e706c6d0449618d13026b8e4aa9ce63aa20c6b"
+  },
+  "authority": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/PMO-v1审查与定向精修.md",
+  "durationInFrames": 6780,
+  "fps": 60,
+  "changedRanges": [
+    {
+      "framesInclusive": [
+        384,
+        650
+      ],
+      "function": "Opening",
+      "action": "Retain one true report title crop and source/date; remove duplicate body excerpt and extra explanatory text"
+    },
+    {
+      "framesInclusive": [
+        6726,
+        6779
+      ],
+      "function": "Ending",
+      "action": "Live human ending yields upward to existing permission/key/lock objects from 112.1 to 112.38 seconds; original final sentence audio unchanged"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/src/Film.tsx",
+      "sha256": "0a013c7281b18558e8efe0cb488c4fcc6bf35c75c8eff0b7d4099add5efbf2fa"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/src/components/Actions.tsx",
+      "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/src/components/SmileySubtitle.tsx",
+      "sha256": "0f7e5f53014a99c2d8ee409cd50cba565a80484d6f619a057143537e8e68e5e6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/src/index.tsx",
+      "sha256": "995b94fb06af62ed9456aff73afe8b9e9f8dab1a048c6388789bd93547633ea2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/src/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/src/timing.json",
+      "sha256": "c9fab79e1a3282735ce7ccc4029314421c643ce0a828ab97655c009a5e22ca6d"
+    }
+  ],
+  "sourceReferenceRecords": [
+    {
+      "id": "fred-wave3-40-t13d",
+      "reason": "操作请求被拒，真实报道接管结果。",
+      "preserve": "请求沿线抵达目标，响应沿返回方向回到请求方",
+      "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+      "useScope": "S01",
+      "useMode": "local",
+      "keyAction": "操作请求被拒，真实报道接管结果。",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T13d-RequestTrip.tsx",
+        "sha256": "4cd6cda38eb3879db74f1214053baac465aa6d477a19275d451e9f7514087e48",
+        "symbol": "RequestTrip"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+        "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+        "symbol": "RequestAction"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+        "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+        "symbol": "Opening",
+        "callee": "RequestAction"
+      }
+    },
+    {
+      "id": "fred-wave3-40-t09i",
+      "reason": "操作请求被拒，真实报道接管结果。",
+      "preserve": "同一真实截图的目标行保持像素身份并提起聚焦",
+      "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+      "useScope": "S01",
+      "useMode": "local",
+      "keyAction": "操作请求被拒，真实报道接管结果。",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T09i-PickRow.tsx",
+        "sha256": "240ccf3e70085c4cafabe15b1fe20c58d7536f8c236786c2a0f5280055d90392",
+        "symbol": "PickRow"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+        "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+        "symbol": "ArticleFocus"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+        "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+        "symbol": "Opening",
+        "callee": "ArticleFocus"
+      }
+    },
+    {
+      "id": "fred-wave3-40-t04f",
+      "reason": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+      "preserve": "钥匙尖端与锁芯依赖，分支连接能力；本片不让锁打开",
+      "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+      "useScope": "S07",
+      "useMode": "local",
+      "keyAction": "点外卖打车的方便与许可前提并存，结尾真人收束。",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T04f-KeyUnlock.tsx",
+        "sha256": "1ab4c93cc3bb1c49b6bc08a45f044ba71c91f4fb0992051fce5d9e96de918439",
+        "symbol": "KeyUnlock"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/components/Actions.tsx",
+        "sha256": "bed162bacca081c47b8b600c187e645343b10538bfa35933ac6e7c999739a2af",
+        "symbol": "PermissionAction"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/src/Film.tsx",
+        "sha256": "e82d98480aaa17f0d73b71fd6ba02dfe8d516b2e495044b82e7757fa634b251d",
+        "symbol": "Ending",
+        "callee": "PermissionAction"
+      }
+    }
+  ],
+  "audio": "Stream-copy the final aligned v1 AAC track; no repeated trimming, speed change or normalization",
+  "sharedReadOnlyDependencies": {
+    "public": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/public",
+    "node_modules": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/node_modules"
+  },
+  "normalSpeedContinuousReview": "UNKNOWN",
+  "baselineGates": "Prior v1 receipts retain their original scope; no claim they validate v2 automatically"
+}

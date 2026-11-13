@@ -1,0 +1,8 @@
+{
+  "totalComparedFrames": 6780,
+  "outsideChangedRangesFrames": 6459,
+  "outsideSsimMean": 0.9984964972906023,
+  "outsideSsimMinimum": 0.988049,
+  "method": "Decoded frame-by-frame SSIM; unchanged scene pixels undergo one H264 encoding generation. Not byte identity or visual acceptance.",
+  "lowOutsideFrames": []
+}

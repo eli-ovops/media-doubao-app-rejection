@@ -1,0 +1,4 @@
+bf6ac9dbd21bf2aa496fb70c8130e1cdf1d25e4f41f2d3bb94997b978b7676c0  /Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v4/豆包封面-1440x1080-v4.png
+75e396fd66788ab79b525082083d599e0990949bec53d8985933289e0e43970f  /Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v4/1440x1080/generated-source.png
+dea2b70d91b863a5a840f333a0061738b4827600f12838ab9c94176809084322  /Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v4/1440x1080/phone-360.png
+78cb6c7532969484e54b2afc25cad59c32ab39f2592b7ca796a7973c8370292d  /Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v4/1440x1080/face-native.png

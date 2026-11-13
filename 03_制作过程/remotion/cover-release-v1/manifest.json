@@ -1,0 +1,113 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "cover-release-v1",
+  "owner": "04",
+  "targetModel": "gpt-6-astra",
+  "targetEffort": "medium",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "speedMode": "UNKNOWN",
+  "method": "Native Remotion still rendering; episode Opening title + RequestAction rejection Tag/Line and exact kit; no generated face, no video render",
+  "source": {
+    "path": "/Users/USER/Downloads/5c50133579f3dbb7264e387c481f547c_raw.mp4",
+    "sha256": "cc5a26a79c4a50f61741f345d66fd0675c3b0293a8d4c7c1ae20b39a1e76e151",
+    "timestampSeconds": 0.25,
+    "still": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v1/public/person.png",
+    "stillSha256": "32fa33c521d54b5fea4d4d363a560ff8ac0d06f716bcc70d99425d83d9491548"
+  },
+  "sourceTree": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v1/src/components/Actions.tsx",
+      "sha256": "f5f6d80d1a65d72f183807a2c7a5de361594e1c5c0590915eb3c0701e906612b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v1/src/index.tsx",
+      "sha256": "965bf7dd8a6dc1858d7e4ea40003f8fac462719838fe29537c9992671e2ea986"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v1/src/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-横版1920x1080.jpg",
+      "sha256": "3cabad02929a3ebd590b59a97eeff2d5bbbf96f290f67e242de8863a99160f9c",
+      "bytes": 140030,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-横版1920x1080.png",
+      "sha256": "26b8af30eddce9604321dc473c29f1c82a4999f3c77219507d2bfe9e0526922d",
+      "bytes": 511865,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-竖版1080x1920.jpg",
+      "sha256": "a50943250ec6a404aeebcf0cabd1104a75d19748b035177ee54f4f2f6e1ee5a2",
+      "bytes": 169064,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-竖版1080x1920.png",
+      "sha256": "ddb581e89c570ce1899e5b906c65e2710feee03375e272774095a593244e8b30",
+      "bytes": 637833,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    }
+  ],
+  "frozenVideoHashes": {
+    "v1": "c561006155a3c348291c38eb4dbaa11e95e753274bae0746553eac2c71b37829",
+    "v2": "8ab3d6a5836de740512e084b8ff51ee3fb14f33d529dacfce9084b234d0ba721",
+    "v3": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae"
+  },
+  "visualReview": {
+    "nativePng": [
+      "portrait",
+      "landscape"
+    ],
+    "phoneSizes": [
+      [
+        270,
+        480
+      ],
+      [
+        480,
+        270
+      ]
+    ],
+    "centerSquareCrops": [
+      [
+        0,
+        420,
+        1080,
+        1080
+      ],
+      [
+        420,
+        0,
+        1080,
+        1080
+      ]
+    ],
+    "findings": "Both text lines legible; no duplicate subtitles; face retains original appearance. Center-square crops preserve text and face; portrait crop trims photo bottom edge only. Other automatic platform crops not verified.",
+    "platformEditorReview": "NOT_PERFORMED",
+    "userAcceptance": "PENDING"
+  },
+  "dependencyPolicy": "Existing runtime symlink read-only; no dependency installation",
+  "errorsResolved": [
+    "PNG renderStill must omit jpegQuality; conditional JPEG-only option",
+    "Repeated bundle copy encounters symlink EEXIST; each build uses separate timestamped bundle directory"
+  ]
+}

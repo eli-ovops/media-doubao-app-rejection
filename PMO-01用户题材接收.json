@@ -1,0 +1,23 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "doubao-app-rejection-20261016",
+  "stage": "01",
+  "decision": "PASS",
+  "reviewed_at": "2026-10-16T23:24:40.066674+08:00",
+  "scope": "只验收用户已定题材、完整六段台词和当前制作授权，不代表已核全部事实，也不是01技术来源研究验收。",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/用户脚本.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/制作总单.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/素材初核.json"
+  ],
+  "findings": [
+    "用户已冻结豆包屏幕自动化题材与六段原声素材；Codex只承担制作及必要来源核对，无需重启运营选题。",
+    "六个指定原片路径存在且AVFoundation规格已实核。",
+    "事实来源核对和实际素材映射正在并行，04仍需等待PMO输入验收。"
+  ],
+  "remaining_required_work": [],
+  "required_downstream_checks": [
+    "01来源支持包原件审阅",
+    "02实际映射/字幕/EDL审阅"
+  ]
+}

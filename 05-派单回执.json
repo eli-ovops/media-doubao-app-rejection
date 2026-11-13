@@ -1,0 +1,19 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "frozen_video_sha256": "8ab3d6a5836de740512e084b8ff51ee3fb14f33d529dacfce9084b234d0ba721",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a79-f636-7823-9350-3c5f7526e6c7\"}"
+      }
+    ],
+    "isError": false
+  },
+  "scope": "First whole-video independent review, including current exact v2; not only two revised regions",
+  "user_final_review": "PENDING"
+}

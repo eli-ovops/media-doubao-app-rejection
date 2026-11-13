@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "gate": "planning",
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/manifest.json",
+  "manifestSha256": "e55254b6ab6d2888fdab448bb2e706c6d0449618d13026b8e4aa9ce63aa20c6b",
+  "durationInFrames": 6780,
+  "timelineFps": 60,
+  "previousReceipt": null,
+  "previousReceiptSha256": null,
+  "requiredRepresentativeScenes": [
+    "S02",
+    "S03",
+    "S05",
+    "S07",
+    "S01"
+  ],
+  "status": "PASS",
+  "errors": [],
+  "warnings": []
+}

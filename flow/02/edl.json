@@ -1,0 +1,155 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "intake-v1",
+  "status": "READY_FOR_PRODUCTION_WITH_SPECIFIC_AUDIO_TEXT_REVIEW_FLAGS",
+  "fps": 60,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "timeline_duration": 129.82,
+  "source_duration_total": 132.31166666666667,
+  "audio_clock": "Source time in seconds; speed1; no processing applied",
+  "cut_policy": "Only external head/tail trims. No within-sentence cut based on ASR. Preserve current full semantic takes.",
+  "clips": [
+    {
+      "semantic_segment": "01",
+      "provided_order": 6,
+      "source": "/Users/USER/Downloads/5c50133579f3dbb7264e387c481f547c_raw.mp4",
+      "source_sha256": "cc5a26a79c4a50f61741f345d66fd0675c3b0293a8d4c7c1ae20b39a1e76e151",
+      "source_in": 0.25,
+      "source_out": 11.1,
+      "source_in_60fps": 15,
+      "source_out_60fps": 666,
+      "duration": 10.85,
+      "timeline_in": 0,
+      "timeline_out": 10.85,
+      "selected_take": "Only full semantic take observed; no alternate complete retake in six-file ASR",
+      "speed": 1.0,
+      "audio_gain_db": 0,
+      "internal_audio_cuts": [],
+      "precision_note": "seconds define edit; 60fps frame numbers are output conform approximations for near60fps/VFR input; do not reinterpret native frame index"
+    },
+    {
+      "semantic_segment": "02",
+      "provided_order": 4,
+      "source": "/Users/USER/Downloads/d6f955302c7b1a8b9e18b1d8bf95a739_raw.mp4",
+      "source_sha256": "621f50ebcfd6b71aaefbfd1983ae63b0d24581d1f98adaf337c2268bda614b8e",
+      "source_in": 0.0,
+      "source_out": 18.7,
+      "source_in_60fps": 0,
+      "source_out_60fps": 1122,
+      "duration": 18.7,
+      "timeline_in": 10.85,
+      "timeline_out": 29.55,
+      "selected_take": "Only full semantic take observed; no alternate complete retake in six-file ASR",
+      "speed": 1.0,
+      "audio_gain_db": 0,
+      "internal_audio_cuts": [],
+      "precision_note": "seconds define edit; 60fps frame numbers are output conform approximations for near60fps/VFR input; do not reinterpret native frame index"
+    },
+    {
+      "semantic_segment": "03",
+      "provided_order": 3,
+      "source": "/Users/USER/Downloads/659ae8a396fa68ce510db8952b270772_raw.mp4",
+      "source_sha256": "a4071bfa86713a75c62dd1a1830ac6b63be19e8d3ef9e7aa3c2e9486e1242473",
+      "source_in": 0.15,
+      "source_out": 26.2,
+      "source_in_60fps": 9,
+      "source_out_60fps": 1572,
+      "duration": 26.05,
+      "timeline_in": 29.55,
+      "timeline_out": 55.6,
+      "selected_take": "Only full semantic take observed; no alternate complete retake in six-file ASR",
+      "speed": 1.0,
+      "audio_gain_db": 0,
+      "internal_audio_cuts": [],
+      "precision_note": "seconds define edit; 60fps frame numbers are output conform approximations for near60fps/VFR input; do not reinterpret native frame index"
+    },
+    {
+      "semantic_segment": "04",
+      "provided_order": 2,
+      "source": "/Users/USER/Downloads/d398bdb31caa205c6e1d60f6dbb03b7c_raw.mp4",
+      "source_sha256": "a85f01d510e26eeae24c88e68ebb71d372ee139988c031148e8760041c6ed300",
+      "source_in": 0.15,
+      "source_out": 17.65,
+      "source_in_60fps": 9,
+      "source_out_60fps": 1059,
+      "duration": 17.5,
+      "timeline_in": 55.6,
+      "timeline_out": 73.1,
+      "selected_take": "Only full semantic take observed; no alternate complete retake in six-file ASR",
+      "speed": 1.0,
+      "audio_gain_db": 0,
+      "internal_audio_cuts": [],
+      "precision_note": "seconds define edit; 60fps frame numbers are output conform approximations for near60fps/VFR input; do not reinterpret native frame index"
+    },
+    {
+      "semantic_segment": "05",
+      "provided_order": 1,
+      "source": "/Users/USER/Downloads/6ddef9d0438570a5cff46cb0bb87d695_raw.mp4",
+      "source_sha256": "c6e9af758124d39d1898f57ab4fed8cd9cac18eb2ab94f43ddefa8e905b19f9a",
+      "source_in": 0.1,
+      "source_out": 41.02,
+      "source_in_60fps": 6,
+      "source_out_60fps": 2461,
+      "duration": 40.92,
+      "timeline_in": 73.1,
+      "timeline_out": 114.02,
+      "selected_take": "Only full semantic take observed; no alternate complete retake in six-file ASR",
+      "speed": 1.0,
+      "audio_gain_db": 0,
+      "internal_audio_cuts": [],
+      "precision_note": "seconds define edit; 60fps frame numbers are output conform approximations for near60fps/VFR input; do not reinterpret native frame index"
+    },
+    {
+      "semantic_segment": "06",
+      "provided_order": 5,
+      "source": "/Users/USER/Downloads/646521d1fa5ee575fa2826a3a00a22f0_raw.mp4",
+      "source_sha256": "61d72e9c25887bd433eb2148f4daa36fe25063e4e4a999dae7a4619208b858cc",
+      "source_in": 0.1,
+      "source_out": 15.9,
+      "source_in_60fps": 6,
+      "source_out_60fps": 954,
+      "duration": 15.8,
+      "timeline_in": 114.02,
+      "timeline_out": 129.82,
+      "selected_take": "Only full semantic take observed; no alternate complete retake in six-file ASR",
+      "speed": 1.0,
+      "audio_gain_db": 0,
+      "internal_audio_cuts": [],
+      "precision_note": "seconds define edit; 60fps frame numbers are output conform approximations for near60fps/VFR input; do not reinterpret native frame index"
+    }
+  ],
+  "subtitle_file": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/subtitles-candidate.timeline.srt",
+  "subtitle_status": "DRAFT_MUST_RESOLVE_MARKED_PHRASES_AND_FINAL_AUDIO_SYNC",
+  "optional_cuts_disabled": [
+    {
+      "provided_order": 2,
+      "source_range": [
+        7.84,
+        12.0
+      ],
+      "reason": "Only if actual word is facial captcha and01 evidence supports only generic captcha; remove whole sentence, not invent corrected voice; requiresPMO/04 decision",
+      "enabled": false
+    },
+    {
+      "provided_order": 1,
+      "source_range": [
+        17.95,
+        18.65
+      ],
+      "reason": "Low-energy inter-phrase gap candidate only; no heard verification",
+      "enabled": false
+    },
+    {
+      "provided_order": 4,
+      "source_range": [
+        12.8,
+        13.4
+      ],
+      "reason": "Inter-phrase gap candidate only; no heard verification",
+      "enabled": false
+    }
+  ]
+}

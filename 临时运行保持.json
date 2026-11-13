@@ -1,0 +1,22 @@
+{
+  "pid": 41163,
+  "command": [
+    "/usr/bin/caffeinate",
+    "-i",
+    "-t",
+    "36000"
+  ],
+  "scope": "Temporary prevent idle system sleep for authorized overnight production; no display/lock/security setting changed",
+  "maximum_seconds": 36000,
+  "stop_when_task_finished": true,
+  "closure": {
+    "pid": 41163,
+    "expected_command": "/usr/bin/caffeinate -i -t 36000",
+    "actual_before": "/usr/bin/caffeinate -i -t 36000",
+    "action": "SIGTERM_SENT_TO_EXACT_TASK_PROCESS",
+    "after_ps_exit": 1,
+    "after_ps": "",
+    "status": "STOPPED",
+    "time": "2026-10-17T00:52:01.703899+08:00"
+  }
+}

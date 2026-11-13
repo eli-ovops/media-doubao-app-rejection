@@ -1,0 +1,688 @@
+{
+  "query": "日历 时间 日期 聚焦",
+  "sceneType": "relationship",
+  "candidates": [
+    {
+      "id": "fred-wave3-40-t16a",
+      "displayLabel": "T16a",
+      "title": "时间线",
+      "useWhen": "一条时间轴 → 节点依次点亮，当前节点展开说明",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "collectionId": "fred-wave3-40-20261012",
+      "editableParameters": [
+        "enter",
+        "exit",
+        "exitAt",
+        "nodes",
+        "focus",
+        "cues"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 360,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": true,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T16a",
+      "score": 232,
+      "reasons": [
+        "原词命中：时间",
+        "原词命中：日期",
+        "相近词：日期、时间"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain",
+          "data"
+        ],
+        "sourceId": "fred-wave3-40",
+        "inputObjects": [
+          "时间轴",
+          "日期",
+          "事件节点"
+        ],
+        "action": "一条时间轴 → 节点依次点亮，当前节点展开说明",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave3-40-t16a --full"
+    },
+    {
+      "id": "fred-wave2-42-t04d",
+      "displayLabel": "T04d",
+      "title": "展开分支后聚焦一类",
+      "useWhen": "一个主题 → 展开几类 → 聚焦其中一类开讲",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "collectionId": "fred-wave2-42-20261012",
+      "editableParameters": [],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 270,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T04d",
+      "score": 207.1,
+      "reasons": [
+        "阅读与聚焦",
+        "原词命中：聚焦",
+        "相近词：聚焦"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave2-42",
+        "inputObjects": [
+          "主题",
+          "2–5 类"
+        ],
+        "action": "一个主题 → 展开几类 → 聚焦其中一类开讲",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 4.5,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave2-42-t04d --full"
+    },
+    {
+      "id": "library-new10-n026",
+      "displayLabel": "N026",
+      "title": "外部素材卡汇集并交给手机聊天输入",
+      "useWhen": "解释多模态输入、将素材交给 Agent、从素材准备转入指令提交。",
+      "sceneTypes": [
+        "relationship",
+        "summary"
+      ],
+      "editableParameters": [],
+      "knownLimitations": [
+        "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+      ],
+      "nativeTiming": {},
+      "sourceAvailability": {
+        "available": false,
+        "status": "missing",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Public source is missing or changed; restore the repository source.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "label": "N026",
+      "score": 138,
+      "reasons": [
+        "原词命中：聚焦",
+        "相近词：聚焦"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "handoff",
+          "images"
+        ],
+        "sourceId": "fredtalk",
+        "inputObjects": [
+          "前后内容",
+          "载体",
+          "图片",
+          "作品"
+        ],
+        "action": "外部素材卡汇集并交给手机聊天输入",
+        "segmentRole": "短交接",
+        "nativeDurationSeconds": 7.6,
+        "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。"
+      },
+      "resolveCommand": "references.py --id library-new10-n026 --full"
+    },
+    {
+      "id": "fred-wave2-42-t12d",
+      "displayLabel": "T12d",
+      "title": "阶段胶囊：三枚胶囊建立，聚焦当前阶段",
+      "useWhen": "整体分成前/中/后几个阶段 → 收到当前要讲的这一段",
+      "sceneTypes": [
+        "summary",
+        "relationship"
+      ],
+      "collectionId": "fred-wave2-42-20261012",
+      "editableParameters": [],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 360,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T12d",
+      "score": 138,
+      "reasons": [
+        "原词命中：聚焦",
+        "相近词：聚焦"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "handoff",
+          "explain"
+        ],
+        "sourceId": "fred-wave2-42",
+        "inputObjects": [
+          "阶段名 2–4 个"
+        ],
+        "action": "整体分成前/中/后几个阶段 → 收到当前要讲的这一段",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave2-42-t12d --full"
+    },
+    {
+      "id": "library-new10-x037",
+      "displayLabel": "X037",
+      "title": "插画叠放转四格",
+      "useWhen": "步骤、对象关系、分支或结论交接",
+      "sceneTypes": [
+        "relationship",
+        "summary"
+      ],
+      "editableParameters": [],
+      "knownLimitations": [
+        "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+      ],
+      "nativeTiming": {},
+      "sourceAvailability": {
+        "available": false,
+        "status": "missing",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Public source is missing or changed; restore the repository source.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "label": "X037",
+      "score": 138,
+      "reasons": [
+        "原词命中：聚焦",
+        "相近词：聚焦"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "images",
+          "handoff"
+        ],
+        "sourceId": "fredtalk",
+        "inputObjects": [
+          "图片",
+          "作品",
+          "前后内容",
+          "载体"
+        ],
+        "action": "插画叠放转四格",
+        "segmentRole": "素材展示舞台",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "替换本期真实图片，核对比例、裁切、重点和各张阅读时间。"
+      },
+      "resolveCommand": "references.py --id library-new10-x037 --full"
+    }
+  ],
+  "crossTypeFallback": false,
+  "scope": "Candidates only; inspect exact video and interface before selecting. No approval inferred.",
+  "selectionRule": "Inspect every listed candidate; record each as selected or rejected with a concrete reason before any original route.",
+  "publicFallbackCandidates": [
+    {
+      "id": "library-legacy81-r001",
+      "displayLabel": "L81-R001",
+      "title": "主题文字放大交接日历窗口",
+      "useWhen": "主题文字放大交接日历窗口",
+      "sceneTypes": [
+        "summary"
+      ],
+      "editableParameters": [],
+      "knownLimitations": [
+        "Fred 对本批当前成片作整体认可；新内容适配尚未验收。"
+      ],
+      "nativeTiming": {},
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "label": "L81-R001",
+      "score": 106,
+      "reasons": [
+        "原词命中：日历",
+        "相近词：日历"
+      ],
+      "sameSceneType": false,
+      "productionUse": {
+        "useIds": [
+          "handoff",
+          "explain"
+        ],
+        "sourceId": "fredtalk",
+        "inputObjects": [
+          "前后内容",
+          "载体",
+          "文字",
+          "信息结构"
+        ],
+        "action": "主题文字放大交接日历窗口",
+        "segmentRole": "短交接",
+        "nativeDurationSeconds": 2.95,
+        "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。"
+      },
+      "resolveCommand": "references.py --id library-legacy81-r001 --full"
+    }
+  ],
+  "availabilityRule": "Unavailable member candidates remain discoverable and require a reason; select only verified installed source or use the public fallback. componentPlan.access=public limits the comparison to public source.",
+  "narrationCandidates": [
+    {
+      "id": "ep109-selected-06",
+      "displayLabel": "109-06",
+      "title": "九宫格规划转连续视频并对齐比较",
+      "useWhen": "九宫格规划转连续视频并对齐比较",
+      "sceneTypes": [
+        "image-comparison",
+        "relationship"
+      ],
+      "collectionId": "ep109-selected-20261006",
+      "editableParameters": [
+        "字幕与角标开关",
+        "原视频/九宫格素材路径",
+        "原片入口补片开关"
+      ],
+      "knownLimitations": [
+        "认可范围仅为本次指定区间；新文字、素材、ROI和接缝仍需适配检查。",
+        "源码包保留真实动画函数；33帧原片接缝为示例边界补片。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300
+      },
+      "sourceAvailability": {
+        "available": false,
+        "status": "missing",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Public source is missing or changed; restore the repository source.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "label": "109-06",
+      "score": 117.2,
+      "reasons": [
+        "媒体与设备",
+        "比较与对照"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "handoff",
+          "images",
+          "video-entry"
+        ],
+        "sourceId": "ep109",
+        "inputObjects": [
+          "九宫格",
+          "连续视频"
+        ],
+        "action": "九宫格规划转连续视频并对齐比较",
+        "segmentRole": "完整选段场景",
+        "nativeDurationSeconds": 5,
+        "adaptation": "保留准确动作关系与媒体时钟；新文案、ROI、几何及交接需适配检查。"
+      },
+      "resolveCommand": "references.py --id ep109-selected-06 --full"
+    },
+    {
+      "id": "fred-wave3-40-t13b",
+      "displayLabel": "T13b",
+      "title": "比喻变形",
+      "useWhen": "一个抽象概念 → 变成一个生活里的东西",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "collectionId": "fred-wave3-40-20261012",
+      "editableParameters": [
+        "enter",
+        "exit",
+        "exitAt",
+        "concept",
+        "object",
+        "link",
+        "line",
+        "highlight",
+        "cues"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 360,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": true,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T13b",
+      "score": 54.8,
+      "reasons": [
+        "比较与对照"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave3-40",
+        "inputObjects": [
+          "概念卡",
+          "生活物件",
+          "对应说明"
+        ],
+        "action": "一个抽象概念 → 变成一个生活里的东西",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave3-40-t13b --full"
+    },
+    {
+      "id": "fred-wave2-42-t05g",
+      "displayLabel": "T05g",
+      "title": "不等号拆开两个概念",
+      "useWhen": "两个容易混的概念 → 中间落下不等号，被明确分开",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "collectionId": "fred-wave2-42-20261012",
+      "editableParameters": [],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 180,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T05g",
+      "score": 54.8,
+      "reasons": [
+        "比较与对照"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave2-42",
+        "inputObjects": [
+          "两个概念"
+        ],
+        "action": "两个容易混的概念 → 中间落下不等号，被明确分开",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 3.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave2-42-t05g --full"
+    },
+    {
+      "id": "fred-native-t05d",
+      "displayLabel": "T05d",
+      "title": "工具并排：逐项比较，胜出格翻黑",
+      "useWhen": "工具并排：逐项比较，胜出格翻黑",
+      "sceneTypes": [
+        "image-comparison",
+        "relationship"
+      ],
+      "collectionId": "fred-native-16-20261012",
+      "editableParameters": [
+        "left",
+        "right",
+        "rows"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-native-16-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-native-16-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T05d",
+      "score": 54.8,
+      "reasons": [
+        "比较与对照"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain",
+          "data"
+        ],
+        "sourceId": "fred-native",
+        "inputObjects": [
+          "两个工具 Logo",
+          "比较维度"
+        ],
+        "action": "工具并排：逐项比较，胜出格翻黑",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-native-t05d --full"
+    },
+    {
+      "id": "fred-wave2-fix5-t05b2",
+      "displayLabel": "T05b2",
+      "title": "以前 vs 现在（返修）：旧步骤收成一叠时仍可读",
+      "useWhen": "以前的多步收起退后 → 现在一句话接管",
+      "sceneTypes": [
+        "image-comparison",
+        "relationship"
+      ],
+      "collectionId": "fred-wave2-fix5-20261012",
+      "editableParameters": [],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-fix5-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-fix5-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T05b2",
+      "score": 54.8,
+      "reasons": [
+        "比较与对照"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave2-fix5",
+        "inputObjects": [
+          "旧步骤 3–6",
+          "新做法一句话"
+        ],
+        "action": "以前的多步收起退后 → 现在一句话接管",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave2-fix5-t05b2 --full"
+    }
+  ],
+  "narrationScope": "Matches from the spoken line only. Use them to widen the visual query, not as a selection."
+}

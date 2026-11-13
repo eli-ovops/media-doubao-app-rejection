@@ -1,0 +1,52 @@
+{
+  "version": "cover-release-v2",
+  "content_id": "doubao-app-rejection-20261016",
+  "method": "Built-in image_gen edits of approved prior cover, identity-preservation requested. Not pixel-identical reuse or unaltered photography. No Python image editing.",
+  "sourceReferences": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/06/封面/简体-白底本人-3x4-v3.png",
+      "sha256": "a28da2f50b66fc7e131eb144693e9b3648440c15dbc1117a9bd9f5c620c94145"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/06/封面/简体-白底本人-16x9-v3.png",
+      "sha256": "9c4d7ef4b2c41e17ffe9209adca799f98a03bc91630d175b2297af6351d77659"
+    }
+  ],
+  "personProvenance": "User-approved Qianwen Go cover image of Eli; original cover upstream portrait workflow not re-audited. Generated edit retains recognizable glasses, haircut, black shirt and raised-hand pose; no claim of exact pixel identity.",
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v2/豆包封面-横版-v2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e2b64b76cf2bfcb468bb26e990aa081b58e92d690cea0a1457379b0fd6483334",
+      "bytes": 1654590
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v2/豆包封面-竖版-v2.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "dbffa6d70d8b449af8f1928ec91be70b95e8aa2f93b08be604965893d1be9965",
+      "bytes": 1686926
+    }
+  ],
+  "requestedModel": "gpt-6-astra",
+  "requestedEffort": "medium",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "imageModel": "UNKNOWN",
+  "review": {
+    "read": [
+      "both old references",
+      "portrait native generated output",
+      "landscape initial and corrected native output",
+      "270px-wide portrait thumbnail",
+      "480px-wide landscape thumbnail"
+    ],
+    "text": "豆包 / AI想下单 / 平台不让",
+    "style": "white ground, massive heavy black/purple type, large integrated person cutout, no photo box/red capsule/fine line",
+    "finding": "Text legible at phone scale; final landscape hand no longer covers last character; eyes and face unobscured. Similar identity visually, generated texture changes possible.",
+    "cropBoundary": "Full intended aspect preserves text and face. Not safe for arbitrary center crop to square/3:4/4:5; use matching cover with contain/manual fit. No platform editor verification.",
+    "userApproval": "PENDING"
+  },
+  "preservation": "Only new cover directories written; v1 and all frozen MP4/SRT/audio/source remain unchanged. No uploads to other destinations, paid API, publishing or monitoring."
+}

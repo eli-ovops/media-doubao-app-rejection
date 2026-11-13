@@ -1,0 +1,48 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "receipts": {
+    "dispatch_02": {
+      "role": "02",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"threadId\":\"01a11a70-35e6-7db1-86ac-80a7ce40a9cb\"}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    "dispatch_01": {
+      "role": "01",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"threadId\":\"01a11442-a6d9-7413-88b3-191ce5cb037b\"}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    "automation": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Created automation in the app."
+        },
+        {
+          "type": "text",
+          "text": "{\"automationId\":\"automation-8\",\"mode\":\"create\",\"status\":\"ACTIVE\"}"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "platform_dispatch_status": "TOOLS_ACCEPTED_EXECUTION_IN_PROGRESS",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "automation_id": "automation-8",
+  "automation_status": "ACTIVE_CONFIGURED",
+  "automation_execution": "NOT_YET_OBSERVED"
+}

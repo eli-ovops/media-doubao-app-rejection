@@ -1,0 +1,13 @@
+{
+  "changedFrames": [
+    5557
+  ],
+  "removedCue": [
+    {
+      "startSeconds": 92.61,
+      "endSeconds": 92.6167,
+      "text": "微信的协议"
+    }
+  ],
+  "method": "render corrected full frame; overlay exact frame 5557 only; audio untouched"
+}

@@ -1,0 +1,61 @@
+{
+  "time": "2026-10-17T11:18:33.991515+08:00",
+  "owner": "04",
+  "rule": "ELI-COVER-20261017-v2",
+  "tool": "built-in image_gen.imagegen",
+  "model": "UNKNOWN",
+  "reasoningEffort": "UNKNOWN",
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v4/豆包封面-横版-v4.png",
+      "bytes": 1687480,
+      "sha256": "979a90cff0735c8c6642713d83cafafde5b026322a07a490253a3ebfbed465f7",
+      "mime": "image/png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/人物形象与封面资产-20261009/外部艺术照精选-20261009/入选/01-主形象-图2-棕色西装.png",
+      "bytes": 2625801,
+      "sha256": "12c21747a2bb95a5055451780570844c6113ba8c3b9af9481bb8439d1d6fbbea",
+      "mime": "image/png",
+      "width": 1248,
+      "height": 1872
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/封面素材/豆包官方App形象-512.jpg",
+      "bytes": 30558,
+      "sha256": "b21fa27c86e55d13662d4e383a8f4ae252f3e3d2ef14a052a204ba0a3483f528"
+    }
+  ],
+  "productProvenance": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/封面素材/豆包形象来源.json",
+  "source": {
+    "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v4/1440x1080/generated-source.png",
+    "bytes": 1699206,
+    "sha256": "75e396fd66788ab79b525082083d599e0990949bec53d8985933289e0e43970f",
+    "mime": "image/png",
+    "width": 1448,
+    "height": 1086
+  },
+  "output": {
+    "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v4/豆包封面-1440x1080-v4.png",
+    "bytes": 2261698,
+    "sha256": "bf6ac9dbd21bf2aa496fb70c8130e1cdf1d25e4f41f2d3bb94997b978b7676c0",
+    "mime": "image/png",
+    "width": 1440,
+    "height": 1080
+  },
+  "processing": "Individually recomposed 4:3 using three references; proportional Lanczos contain and white pad to exact 1440x1080, no stretch or crop. Generated composite, not pixel-identical portrait/product paste.",
+  "qa": {
+    "fullFinalViewed": true,
+    "phone360x270Viewed": true,
+    "nativeFaceCropViewed": true,
+    "text": "155个app / 拒绝了豆包",
+    "colors": "upper purple, lower black",
+    "visualFindings": "Complete typography, lowercase app, intact hair/face/glasses and blue-circle Doubao girl. No observed overlap of face or product with text; no obvious duplicate glasses or etched face artifacts.",
+    "platformCrop": "NOT_TESTED"
+  },
+  "userApproval": "PENDING",
+  "pmoAcceptance": "PENDING",
+  "existingManifestAndZip": "NOT_MODIFIED"
+}

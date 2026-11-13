@@ -1,0 +1,442 @@
+[
+  {
+    "semantic_segment": "01",
+    "raw_order": 6,
+    "source_range": [
+      0.0,
+      3.94
+    ],
+    "original_asr": "豆包想给你点完卖,但是每团说不行",
+    "editorial_candidate": "豆包想给你点外卖 但是美团说不行",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "01",
+    "raw_order": 6,
+    "source_range": [
+      3.94,
+      6.66
+    ],
+    "original_asr": "而且不光是每团说不行",
+    "editorial_candidate": "而且不光是美团说不行",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "01",
+    "raw_order": 6,
+    "source_range": [
+      6.66,
+      10.84
+    ],
+    "original_asr": "总共有155个APP都对豆包说 \"No\"",
+    "editorial_candidate": "总共有155个App都对豆包说No",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_range": [
+      0.0,
+      2.6
+    ],
+    "original_asr": "上個月十四號豆包發了一個",
+    "editorial_candidate": "上个月14号豆包发了一个",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_range": [
+      2.6,
+      5.5
+    ],
+    "original_asr": "屏幕自動化操作聲明",
+    "editorial_candidate": "屏幕自动化操作声明",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_range": [
+      5.5,
+      7.1
+    ],
+    "original_asr": "說白了就是",
+    "editorial_candidate": "说白了就是",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_range": [
+      7.1,
+      9.4
+    ],
+    "original_asr": "AI要替你點手機",
+    "editorial_candidate": "AI要替你点手机",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_range": [
+      9.4,
+      11.8
+    ],
+    "original_asr": "但是APP可以提前說",
+    "editorial_candidate": "但是App可以提前说",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_range": [
+      11.8,
+      13.1
+    ],
+    "original_asr": "「我不同意」",
+    "editorial_candidate": "我不同意",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_range": [
+      13.1,
+      15.6
+    ],
+    "original_asr": "公司整個有三十天",
+    "editorial_candidate": "公示整个有30天",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "02",
+    "raw_order": 4,
+    "source_range": [
+      15.6,
+      18.6
+    ],
+    "original_asr": "10月十四號名單才剛出來",
+    "editorial_candidate": "10月14号名单才刚出来",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_range": [
+      0.0,
+      3.68
+    ],
+    "original_asr": "这些APP里面 腾讯总共是占了66款",
+    "editorial_candidate": "这些App里面 腾讯总共是占了66款",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_range": [
+      3.68,
+      9.32
+    ],
+    "original_asr": "包括微信QQ元宝 包括这些都在里面",
+    "editorial_candidate": "包括微信 QQ 元宝 包括这些都在里面",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_range": [
+      9.32,
+      16.28
+    ],
+    "original_asr": "然后阿里的话 总共占了23款 淘宝支付宝高德地图",
+    "editorial_candidate": "然后阿里的话 总共占了23款 淘宝 支付宝 高德地图",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_range": [
+      16.28,
+      21.84
+    ],
+    "original_asr": "快手总共是占了14款 每团都是占了11款",
+    "editorial_candidate": "快手总共是占了14款 美团总共是占了11款",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "03",
+    "raw_order": 3,
+    "source_range": [
+      21.84,
+      26.0
+    ],
+    "original_asr": "就连DipSync也拒绝了斗包的这个使用",
+    "editorial_candidate": "就连DeepSeek也拒绝了豆包的这个使用",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_range": [
+      0.0,
+      3.08
+    ],
+    "original_asr": "其實去年12月就已經鬧過這麼一次了",
+    "editorial_candidate": "其实去年12月就已经闹过这么一次了",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_range": [
+      3.08,
+      5.68
+    ],
+    "original_asr": "有人用鬥包去操作微信",
+    "editorial_candidate": "有人用豆包去操作微信",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_range": [
+      5.68,
+      7.84
+    ],
+    "original_asr": "正好直接被踢下線了",
+    "editorial_candidate": "账号直接被踢下线了",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_range": [
+      8.48,
+      11.92
+    ],
+    "original_asr": "逃把那邊直接彈人臉的驗證",
+    "editorial_candidate": "淘宝那边直接弹人脸的验证",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "04",
+    "raw_order": 2,
+    "source_range": [
+      11.92,
+      17.36
+    ],
+    "original_asr": "最後鬥包把自己和微信和阿里的操作能力就撤掉了",
+    "editorial_candidate": "最后豆包把自己和微信和阿里的操作能力就撤掉了",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      0.0,
+      5.36
+    ],
+    "original_asr": "大家有没有想过为什么这些头部的大厂都拒绝了斗宝",
+    "editorial_candidate": "大家有没有想过为什么这些头部的大厂都拒绝了豆包",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      5.36,
+      8.72
+    ],
+    "original_asr": "其实我看就很简单的三个因素",
+    "editorial_candidate": "其实我看就很简单的三个因素",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      8.72,
+      12.8
+    ],
+    "original_asr": "一个是入口 一个是数据 一个是安全",
+    "editorial_candidate": "一个是入口 一个是数据 一个是安全",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      12.8,
+      15.16
+    ],
+    "original_asr": "你本来要打开的是淘宝",
+    "editorial_candidate": "你本来要打开的是淘宝",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      15.16,
+      18.12
+    ],
+    "original_asr": "如果说现在只需要对斗宝所以去",
+    "editorial_candidate": "如果说现在只需要对豆包说一句",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      19.12,
+      23.32
+    ],
+    "original_asr": "那么淘宝的首页 他的推荐 他的广告 谁来看",
+    "editorial_candidate": "那么淘宝的首页 它的推荐 它的广告 谁来看",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      23.32,
+      26.32
+    ],
+    "original_asr": "AI在APP里点来点去",
+    "editorial_candidate": "AI在App里点来点去",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      26.32,
+      29.16
+    ],
+    "original_asr": "你所看到的东西 他都过了一遍",
+    "editorial_candidate": "你所看到的东西 它都过了一遍",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      29.16,
+      35.11
+    ],
+    "original_asr": "微信的协议 他本来就写着 不允许未经授权的自动化",
+    "editorial_candidate": "微信的协议 它本来就写着 不允许未经授权的自动化",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      35.11,
+      36.44
+    ],
+    "original_asr": "操作",
+    "editorial_candidate": "操作",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "05",
+    "raw_order": 1,
+    "source_range": [
+      36.44,
+      40.92
+    ],
+    "original_asr": "然后付钱聊天 出了事 该算谁的",
+    "editorial_candidate": "然后付钱聊天 出了事 该算谁的",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_range": [
+      0.0,
+      1.6
+    ],
+    "original_asr": "对于我们普通人来说",
+    "editorial_candidate": "对于我们普通人来说",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_range": [
+      1.6,
+      4.36
+    ],
+    "original_asr": "AI替你点外卖打车",
+    "editorial_candidate": "AI替你点外卖打车",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_range": [
+      4.36,
+      5.64
+    ],
+    "original_asr": "听着很方便",
+    "editorial_candidate": "听着很方便",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_range": [
+      5.64,
+      7.44
+    ],
+    "original_asr": "但是现在的这扇门",
+    "editorial_candidate": "但是现在的这扇门",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_range": [
+      7.44,
+      10.04
+    ],
+    "original_asr": "得这些大公司点头才行",
+    "editorial_candidate": "得这些大公司点头才行",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_range": [
+      10.04,
+      11.32
+    ],
+    "original_asr": "所以接下来的问题",
+    "editorial_candidate": "所以接下来的问题",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_range": [
+      11.32,
+      13.32
+    ],
+    "original_asr": "并不是AI到底行不行",
+    "editorial_candidate": "并不是AI到底行不行",
+    "heard_verified": false
+  },
+  {
+    "semantic_segment": "06",
+    "raw_order": 5,
+    "source_range": [
+      13.32,
+      15.56
+    ],
+    "original_asr": "而是平台让不让",
+    "editorial_candidate": "而是平台让不让",
+    "heard_verified": false
+  }
+]

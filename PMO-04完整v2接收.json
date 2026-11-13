@@ -1,0 +1,36 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "doubao-app-rejection-20261016",
+  "stage": "04",
+  "decision": "PASS",
+  "scope": "完整制作候选及两项定向修复交接验收，释放05独立整片质检；不是用户终审或全部正常速度声画通过。",
+  "reviewed_at": "2026-10-17T00:24:35.491225+08:00",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/04-完整片交付-v1.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/04-完整片交付-v2.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/qc/delivery.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/qc/decode.log",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/qc/native-8.5.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/qc/native-112.3.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/qc/native-112.4.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/qc/news-motion-4.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/qc/ending-motion-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/qc/ending-motion-2.jpg"
+  ],
+  "remaining_required_work": [],
+  "findings": [
+    "MP4实体SHA与本次v2报告一致，113秒/1080×1920/60fps/完整解码证据齐全。",
+    "已实际查看v1全时段113个逐秒采样；v2当前原尺寸标题与片尾中间/终态、两处接缝区间图；多余解释字及重复小框消失，收机晃动被许可/锁接管。",
+    "v1/v2声音解码PCM身份一致的原始hash证据，未反复处理延迟；当前检查不替代直接听音。",
+    "没有新增台词、配音、付费/上传/发布；已批准的省略和素材保护保持。"
+  ],
+  "video_sha256": "8ab3d6a5836de740512e084b8ff51ee3fb14f33d529dacfce9084b234d0ba721",
+  "internal_final_acceptance": "PENDING_INDEPENDENT05",
+  "user_review": "PENDING",
+  "normal_speed_continuous_audiovisual": "UNKNOWN",
+  "direct_hearing": "UNKNOWN",
+  "downstream_required_checks": [
+    "05首次审本片须覆盖整条v2而非只看v2两处变化；以实际动态区间检查PPT感/语义动作/重复机制。",
+    "核最终字幕/切口/声音可核层及声画边界；没有能力的部分继续UNKNOWN，不冒充。"
+  ]
+}

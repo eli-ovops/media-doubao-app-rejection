@@ -1,0 +1,37 @@
+{
+  "output": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v3/豆包封面-横版-v3-r1.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "7152e3e49fffdc25ea95fdc9a9e14b07154b5f4a48b5902466a3057dc70d8f61",
+  "portraitUnchangedSha256": "a28ae99d3c2f805180ac0cf3202e8182c6ad6e4e2c3f4bd826f83c96e12349a0",
+  "comparisonCrop": [
+    940,
+    170,
+    500,
+    430
+  ],
+  "comparisonMethod": "ffmpeg crop from native PNG, no resize/interpolation; 1 crop pixel = 1 source pixel",
+  "evidence": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v3/qc/eyes-v2-native.png",
+      "sha256": "be246531a4029a30f3501585d54a82d494e6bed0b4f52ebd20f05ba51b090859"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v3/qc/eyes-v3-native.png",
+      "sha256": "5a6d3d7ebcf415a2a95e7ac640bc20df68fa4d690ea4101f3600f0cf7ee4a671"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/cover-release-v3/qc/eyes-v3-r1-native.png",
+      "sha256": "2fdd70741821115dd4d19e8bfcb3861e6c24fdc51aebb8fbd9bb12f2e2b8a4a0"
+    }
+  ],
+  "finding": "No second set of pupils seen. V3 softened/repeated brow/frame edges and generated skin markings are present in actual PNG, not merely player reflections. R1 brow/frame definition is clearer than V3, single eyes and frame visible; fine etched skin texture also existed in V2 and persists. Not original-photographic restoration or pixel-identical identity.",
+  "textCheck": "155个app / 拒绝了豆包 exactly, lowercase app, no extra text; hand/face/eyes do not overlap text",
+  "status": "R1_CANDIDATE_PENDING_PMO_VISUAL_ACCEPTANCE",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "requestedModel": "gpt-6-astra",
+  "requestedEffort": "medium"
+}

@@ -1,0 +1,140 @@
+{
+  "query": "钥匙 许可 解锁",
+  "sceneType": "relationship",
+  "candidates": [
+    {
+      "id": "fred-wave3-40-t04f",
+      "displayLabel": "T04f",
+      "title": "一把钥匙解锁几件事",
+      "useWhen": "一把钥匙插入 → 几项能力依次从锁定变成可用",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "collectionId": "fred-wave3-40-20261012",
+      "editableParameters": [
+        "enter",
+        "exit",
+        "exitAt",
+        "keyName",
+        "logo",
+        "abilities",
+        "cues"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": true,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T04f",
+      "score": 232,
+      "reasons": [
+        "原词命中：钥匙",
+        "原词命中：解锁",
+        "相近词：解锁、钥匙"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave3-40",
+        "inputObjects": [
+          "钥匙",
+          "锁",
+          "能力项"
+        ],
+        "action": "一把钥匙插入 → 几项能力依次从锁定变成可用",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave3-40-t04f --full"
+    },
+    {
+      "id": "library-new10-n047",
+      "displayLabel": "N047",
+      "title": "手机从局部近景退到全貌，再解锁进入聊天",
+      "useWhen": "从口播或人物引导进入手机实操；用近景到全貌控制观众注意力。",
+      "sceneTypes": [
+        "device-demo",
+        "prompt-reading"
+      ],
+      "editableParameters": [],
+      "knownLimitations": [
+        "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+      ],
+      "nativeTiming": {},
+      "sourceAvailability": {
+        "available": false,
+        "status": "missing",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Public source is missing or changed; restore the repository source.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "label": "N047",
+      "score": 106,
+      "reasons": [
+        "原词命中：解锁",
+        "相近词：解锁"
+      ],
+      "sameSceneType": false,
+      "productionUse": {
+        "useIds": [
+          "video-entry",
+          "explain",
+          "handoff"
+        ],
+        "sourceId": "fredtalk",
+        "inputObjects": [
+          "录屏",
+          "视频",
+          "窗口",
+          "文字",
+          "信息结构",
+          "前后内容",
+          "载体"
+        ],
+        "action": "手机从局部近景退到全貌，再解锁进入聊天",
+        "segmentRole": "真实媒体进入讲解",
+        "nativeDurationSeconds": 3.7,
+        "adaptation": "替换真实媒体，保留连续媒体时钟；按片段进出点检查全屏、窗口与设备之间的交接。"
+      },
+      "resolveCommand": "references.py --id library-new10-n047 --full"
+    }
+  ],
+  "crossTypeFallback": true,
+  "scope": "Candidates only; inspect exact video and interface before selecting. No approval inferred.",
+  "selectionRule": "Inspect every listed candidate; record each as selected or rejected with a concrete reason before any original route.",
+  "publicFallbackCandidates": [],
+  "availabilityRule": "Unavailable member candidates remain discoverable and require a reason; select only verified installed source or use the public fallback. componentPlan.access=public limits the comparison to public source.",
+  "narrationCandidates": [],
+  "narrationScope": "Matches from the spoken line only. Use them to widen the visual query, not as a selection."
+}

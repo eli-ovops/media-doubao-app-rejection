@@ -1,0 +1,17 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a6f-49ef-7653-934a-4312979fd4e7\"}"
+      }
+    ],
+    "isError": false
+  },
+  "status": "TOOL_ACCEPTED_EXECUTION_NOT_YET_AUDITED"
+}

@@ -1,0 +1,311 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:06,480"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 6480
+			},
+			"text": "公司整個有30天,10月14號名單才剛出來",
+			"tokens": [
+				{
+					"text": "[_BEG_]",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,000"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 0
+					},
+					"id": 50364,
+					"p": 0.857924,
+					"t_dtw": -1
+				},
+				{
+					"text": "公",
+					"timestamps": {
+						"from": "00:00:00,000",
+						"to": "00:00:00,100"
+					},
+					"offsets": {
+						"from": 0,
+						"to": 100
+					},
+					"id": 13545,
+					"p": 0.842211,
+					"t_dtw": -1
+				},
+				{
+					"text": "司",
+					"timestamps": {
+						"from": "00:00:00,270",
+						"to": "00:00:00,560"
+					},
+					"offsets": {
+						"from": 270,
+						"to": 560
+					},
+					"id": 32981,
+					"p": 0.532352,
+					"t_dtw": -1
+				},
+				{
+					"text": "整",
+					"timestamps": {
+						"from": "00:00:00,560",
+						"to": "00:00:00,840"
+					},
+					"offsets": {
+						"from": 560,
+						"to": 840
+					},
+					"id": 27662,
+					"p": 0.303491,
+					"t_dtw": -1
+				},
+				{
+					"text": "個",
+					"timestamps": {
+						"from": "00:00:00,840",
+						"to": "00:00:01,120"
+					},
+					"offsets": {
+						"from": 840,
+						"to": 1120
+					},
+					"id": 3338,
+					"p": 0.72704,
+					"t_dtw": -1
+				},
+				{
+					"text": "有",
+					"timestamps": {
+						"from": "00:00:01,300",
+						"to": "00:00:01,310"
+					},
+					"offsets": {
+						"from": 1300,
+						"to": 1310
+					},
+					"id": 2412,
+					"p": 0.662702,
+					"t_dtw": -1
+				},
+				{
+					"text": "30",
+					"timestamps": {
+						"from": "00:00:01,450",
+						"to": "00:00:03,050"
+					},
+					"offsets": {
+						"from": 1450,
+						"to": 3050
+					},
+					"id": 3446,
+					"p": 0.688232,
+					"t_dtw": -1
+				},
+				{
+					"text": "天",
+					"timestamps": {
+						"from": "00:00:03,130",
+						"to": "00:00:03,400"
+					},
+					"offsets": {
+						"from": 3130,
+						"to": 3400
+					},
+					"id": 6135,
+					"p": 0.992809,
+					"t_dtw": -1
+				},
+				{
+					"text": ",",
+					"timestamps": {
+						"from": "00:00:03,400",
+						"to": "00:00:03,470"
+					},
+					"offsets": {
+						"from": 3400,
+						"to": 3470
+					},
+					"id": 11,
+					"p": 0.487935,
+					"t_dtw": -1
+				},
+				{
+					"text": "10",
+					"timestamps": {
+						"from": "00:00:03,760",
+						"to": "00:00:04,520"
+					},
+					"offsets": {
+						"from": 3760,
+						"to": 4520
+					},
+					"id": 3279,
+					"p": 0.878572,
+					"t_dtw": -1
+				},
+				{
+					"text": "月",
+					"timestamps": {
+						"from": "00:00:04,520",
+						"to": "00:00:04,660"
+					},
+					"offsets": {
+						"from": 4520,
+						"to": 4660
+					},
+					"id": 6939,
+					"p": 0.980636,
+					"t_dtw": -1
+				},
+				{
+					"text": "14",
+					"timestamps": {
+						"from": "00:00:04,660",
+						"to": "00:00:05,500"
+					},
+					"offsets": {
+						"from": 4660,
+						"to": 5500
+					},
+					"id": 7271,
+					"p": 0.961236,
+					"t_dtw": -1
+				},
+				{
+					"text": "號",
+					"timestamps": {
+						"from": "00:00:05,500",
+						"to": "00:00:05,640"
+					},
+					"offsets": {
+						"from": 5500,
+						"to": 5640
+					},
+					"id": 18616,
+					"p": 0.364184,
+					"t_dtw": -1
+				},
+				{
+					"text": "名",
+					"timestamps": {
+						"from": "00:00:05,640",
+						"to": "00:00:05,780"
+					},
+					"offsets": {
+						"from": 5640,
+						"to": 5780
+					},
+					"id": 15940,
+					"p": 0.8644,
+					"t_dtw": -1
+				},
+				{
+					"text": "單",
+					"timestamps": {
+						"from": "00:00:05,780",
+						"to": "00:00:05,920"
+					},
+					"offsets": {
+						"from": 5780,
+						"to": 5920
+					},
+					"id": 24227,
+					"p": 0.996529,
+					"t_dtw": -1
+				},
+				{
+					"text": "才",
+					"timestamps": {
+						"from": "00:00:05,920",
+						"to": "00:00:06,060"
+					},
+					"offsets": {
+						"from": 5920,
+						"to": 6060
+					},
+					"id": 18888,
+					"p": 0.934286,
+					"t_dtw": -1
+				},
+				{
+					"text": "剛",
+					"timestamps": {
+						"from": "00:00:06,060",
+						"to": "00:00:06,100"
+					},
+					"offsets": {
+						"from": 6060,
+						"to": 6100
+					},
+					"id": 16940,
+					"p": 0.933312,
+					"t_dtw": -1
+				},
+				{
+					"text": "出來",
+					"timestamps": {
+						"from": "00:00:06,200",
+						"to": "00:00:06,480"
+					},
+					"offsets": {
+						"from": 6200,
+						"to": 6480
+					},
+					"id": 29741,
+					"p": 0.942921,
+					"t_dtw": -1
+				},
+				{
+					"text": "[_TT_324]",
+					"timestamps": {
+						"from": "00:00:06,480",
+						"to": "00:00:06,480"
+					},
+					"offsets": {
+						"from": 6480,
+						"to": 6480
+					},
+					"id": 50688,
+					"p": 0.0117409,
+					"t_dtw": -1
+				}
+			]
+		}
+	]
+}

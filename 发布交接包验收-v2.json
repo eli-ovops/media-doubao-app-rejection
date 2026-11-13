@@ -1,0 +1,34 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "package_version": "publication-handoff-20261017-v2",
+  "package": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v2",
+  "zip": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v2.zip",
+  "zip_bytes": 38293253,
+  "zip_sha256": "660201e263170a4693dc9919c046c5539f684d525012f8dc19a70a6281089bc2",
+  "archive_files": 16,
+  "payload_bytes": 38285185,
+  "manifest_file": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v2/manifest.json",
+  "integrity": "ALL_ZIP_MEMBERS_VERIFIED",
+  "video_sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "covers": {
+    "version": "cover-release-v2",
+    "portrait": {
+      "path": "01-发布素材/豆包封面-竖版-v2.png",
+      "width": 941,
+      "height": 1672
+    },
+    "landscape": {
+      "path": "01-发布素材/豆包封面-横版-v2.png",
+      "width": 1672,
+      "height": 941
+    },
+    "style": "reference previous Qianwen Go: white background, black-purple oversized text, large person cutout",
+    "processing": "built-in image_gen edit of existing approved personal covers; not raw unprocessed portrait pixels",
+    "blind_cross_aspect_center_crop_safe": false
+  },
+  "pmo_cover_review": "actual full portrait and landscape PNGs viewed; text, face and eyes visible; references actually viewed; user style acceptance remains PENDING",
+  "grok_receipt": "PENDING",
+  "user_final_review": "PENDING",
+  "publication": "NOT_PERFORMED",
+  "temporary_files": []
+}

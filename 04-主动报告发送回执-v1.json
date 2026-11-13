@@ -1,0 +1,20 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "v1",
+  "targetThreadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "sentAt": "2026-10-16 16:09:35 UTC",
+  "toolResult": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "toolSend": "SUCCESS",
+  "pmoReceipt": "UNKNOWN",
+  "pmoAcceptance": "PENDING",
+  "independent05": "NOT_RELEASED_BY_04",
+  "videoSha256": "c561006155a3c348291c38eb4dbaa11e95e753274bae0746553eac2c71b37829"
+}

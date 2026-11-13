@@ -1,0 +1,102 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "v3",
+  "baselineVideoSha256": "8ab3d6a5836de740512e084b8ff51ee3fb14f33d529dacfce9084b234d0ba721",
+  "baselineManifest": {
+    "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/manifest.json",
+    "sha256": "a38835b66120577cd719fe57ae3c67f6f08c57742b81192e4b591a067914290d"
+  },
+  "authority": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/PMO-v2独立质检接收与v3时序修正.md",
+  "durationInFrames": 6780,
+  "fps": 60,
+  "renderedRangeFramesInclusive": [
+    4944,
+    5225
+  ],
+  "renderedRangeSecondsHalfOpen": [
+    82.4,
+    87.1
+  ],
+  "scope": "Q01 EntryAction only; Film.tsx, SRT, audio, news crop, ending and all other scene timing remain v2. Full video reencoded once; unchanged visual regions not claimed byte-identical.",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/src/Film.tsx",
+      "sha256": "0a013c7281b18558e8efe0cb488c4fcc6bf35c75c8eff0b7d4099add5efbf2fa"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/src/components/Actions.tsx",
+      "sha256": "f5f6d80d1a65d72f183807a2c7a5de361594e1c5c0590915eb3c0701e906612b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/src/components/SmileySubtitle.tsx",
+      "sha256": "0f7e5f53014a99c2d8ee409cd50cba565a80484d6f619a057143537e8e68e5e6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/src/index.tsx",
+      "sha256": "995b94fb06af62ed9456aff73afe8b9e9f8dab1a048c6388789bd93547633ea2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/src/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/src/timing.json",
+      "sha256": "c9fab79e1a3282735ce7ccc4029314421c643ce0a828ab97655c009a5e22ca6d"
+    }
+  ],
+  "sourceReferenceRecords": [
+    {
+      "id": "library-legacy81-r006",
+      "reason": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+      "preserve": "多个输入对象汇聚到统一入口，原路径和标签随动作退场",
+      "change": "本期竖屏、语义、真实口播时序和对象重排；移除Fred身份及私人音轨",
+      "useScope": "S05",
+      "useMode": "local",
+      "keyAction": "我看的观点保留真人，入口迁移后以读屏信息流承接。",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/5673609cc79a/groups/r/legacy/src/EncoderV3.tsx",
+        "sha256": "6f1eca08556542962edee32d1ebe1243d7d972baa9c2c0a5ddae35eff060ad78",
+        "symbol": "EncoderV3"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/src/components/Actions.tsx",
+        "sha256": "f5f6d80d1a65d72f183807a2c7a5de361594e1c5c0590915eb3c0701e906612b",
+        "symbol": "EntryAction"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/src/Film.tsx",
+        "sha256": "0a013c7281b18558e8efe0cb488c4fcc6bf35c75c8eff0b7d4099add5efbf2fa",
+        "symbol": "Analysis",
+        "callee": "EntryAction"
+      },
+      "v3Adaptation": "Cancel premature merging/removal. Retain the same objects and existing kit; sequential emphasis follows frozen speech. No new component selection."
+    }
+  ],
+  "cuesSeconds": {
+    "首页": [
+      82.57,
+      84.203
+    ],
+    "推荐": [
+      84.203,
+      85.137
+    ],
+    "广告": [
+      85.137,
+      86.07
+    ],
+    "谁来看": [
+      86.07,
+      86.77
+    ]
+  },
+  "audio": {
+    "method": "Stream-copy aligned final v2 AAC; decoded PCM SHA equal",
+    "pcmSha256": "SHA256=442117895c9d3c61230dff5aec3a818404750e54a183f11e456b116b0f42e131"
+  },
+  "srtSha256": "8028f552ff723a906c6fd606261448d169f43cc35d1d44d064ad7a63120a9f15",
+  "sourceDiff": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/source-diff.patch",
+  "deliveryReceipt": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/qc/delivery.json",
+  "normalSpeedContinuousReview": "UNKNOWN",
+  "baselineGates": "Prior receipts retain their original scope; independent v3 delta review pending."
+}

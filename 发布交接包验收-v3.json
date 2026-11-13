@@ -1,0 +1,39 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "package_version": "publication-handoff-20261017-v3",
+  "package": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v3",
+  "zip": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v3.zip",
+  "zip_bytes": 38185058,
+  "zip_sha256": "e2eca44f02c8dcf9682205fe34f9748e6377e4980e4648d6cdff7a679231487b",
+  "archive_files": 16,
+  "manifest_file": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v3/manifest.json",
+  "integrity": "ALL_ZIP_MEMBERS_VERIFIED",
+  "video_sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "covers": {
+    "version": "cover-release-v3",
+    "exact_text": "155个app拒绝了豆包",
+    "lines": [
+      "155个app",
+      "拒绝了豆包"
+    ],
+    "portrait": {
+      "path": "01-发布素材/豆包封面-竖版-v3.png",
+      "width": 941,
+      "height": 1672
+    },
+    "landscape": {
+      "path": "01-发布素材/豆包封面-横版-v3-r1.png",
+      "width": 1672,
+      "height": 941,
+      "variant": "r1"
+    },
+    "processing": "built-in image_gen edit of prior personal covers; generated processing, not raw portrait pixels",
+    "style": "white background; black-purple oversized type; large personal cutout",
+    "blind_cross_aspect_center_crop_safe": false
+  },
+  "pmo_review": "Actual final portrait, landscape r1, and native eye comparison crops viewed; exact caption checked; generated texture remains; acceptable for user review, not user aesthetic approval",
+  "grok_receipt": "PENDING",
+  "user_final_review": "PENDING",
+  "publication": "NOT_PERFORMED",
+  "temporary_files": []
+}

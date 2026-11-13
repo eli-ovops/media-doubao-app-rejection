@@ -1,0 +1,11 @@
+Browser tab: 2, Title: "豆包 - 字节跳动旗下 AI 智能助手", URL: "https://www.doubao.com/phone".
+0 AXWebArea 豆包 - 字节跳动旗下 AI 智能助手, URL: doubao.com/phone
+	1 container root
+		2 image
+		3 text 未找到页面
+		4 text 页面不存在，请确认网址是否正确。
+		5 button 刷新页面
+		6 button 返回首页
+		7 container Notifications alt+T
+
+The focused UI element is 0 AXWebArea 豆包 - 字节跳动旗下 AI 智能助手, URL: doubao.com/phone

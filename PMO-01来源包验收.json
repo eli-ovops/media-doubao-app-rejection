@@ -1,0 +1,29 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "doubao-app-rejection-20261016",
+  "scope": "本片生产支持来源包，非重启运营选题",
+  "decision": "ACCEPT_WITH_DEFINED_EDITORIAL_OMISSIONS",
+  "reviewed_at": "2026-10-16T23:31:45.824756+08:00",
+  "report_received": true,
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/来源核验与画面素材.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材清单.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/日期数量核验原件.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材/澎湃-20261014-155款-首屏.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/素材/澎湃-20261014-DeepSeek与其他名单.jpg"
+  ],
+  "asset_hashes_verified": 5,
+  "usable_assets": 4,
+  "excluded_assets": 1,
+  "reading_limits": "一篇媒体全文深读与相应真实截图；官源/协议缺口和仅搜索返回分别保留，不声称全部已核。",
+  "decisions": [
+    "保留155及各生态分组，在真实有日期澎湃报道载体中自然呈现，不称当前官方实数。",
+    "历史段保留微信被踢下线；淘宝验证不明及撤回阿里证据不足，整句省略后续两句，避免未听核的四字硬拼。",
+    "分析段保留入口/数据/安全的作者观点与最后责任问题；未经官方核对的协议引述整句省略，不伪造官方页。",
+    "05/04须根据最终删减重映射字幕及组件cue，不能沿用129.82秒候选SRT烧录。"
+  ],
+  "new_external_queries_required": false,
+  "remaining_source_research_required_for_production": [],
+  "protected_inputs": "用户原片/付费库/旧工程不改，删减只作用新工程时间线",
+  "actual_model_effort": "UNKNOWN"
+}

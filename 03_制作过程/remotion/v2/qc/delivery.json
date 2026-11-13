@@ -1,0 +1,107 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "v2",
+  "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/豆包App拒绝-完整片-v2.mp4",
+  "sha256": "8ab3d6a5836de740512e084b8ff51ee3fb14f33d529dacfce9084b234d0ba721",
+  "bytes": 36796116,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "frames": 6780,
+  "duration": 113,
+  "changedFrameRangesInclusive": [
+    [
+      384,
+      650
+    ],
+    [
+      6726,
+      6779
+    ]
+  ],
+  "sourceRenderedFrames": 321,
+  "audioDecodedPcmIdentity": "SHA256=442117895c9d3c61230dff5aec3a818404750e54a183f11e456b116b0f42e131",
+  "audioUnchangedFromV1": true,
+  "audioStart": "0.000000",
+  "audioDuration": "113.000000",
+  "fullDecode": "PASS",
+  "visualSampleReview": "PASS_WITHIN_TWO_REVISED_RANGES_AND_NEIGHBORS",
+  "continuousAudiovisualReview": "UNKNOWN",
+  "directHearing": "UNKNOWN",
+  "pmoAcceptance": "PENDING",
+  "reviewedSamples": {
+    "news": "6.2-11.1s at 10fps: 49 samples",
+    "ending": "111.8-113s at 20fps: 24 samples",
+    "nativeFramesSeconds": [
+      8.5,
+      8.15,
+      8.1,
+      112.3,
+      112.4
+    ]
+  },
+  "outsideRangeComparison": {
+    "totalComparedFrames": 6780,
+    "outsideChangedRangesFrames": 6459,
+    "outsideSsimMean": 0.9984964972906023,
+    "outsideSsimMinimum": 0.988049,
+    "method": "Decoded frame-by-frame SSIM; unchanged scene pixels undergo one H264 encoding generation. Not byte identity or visual acceptance.",
+    "lowOutsideFrames": []
+  },
+  "headlineStability": {
+    "frames": 267,
+    "maxMeanAbsolutePixelDifference": 0.16066666666666668,
+    "worstFrames": [
+      [
+        385,
+        0.1607
+      ],
+      [
+        384,
+        0.1544
+      ],
+      [
+        386,
+        0.1321
+      ],
+      [
+        393,
+        0.1319
+      ],
+      [
+        397,
+        0.1319
+      ],
+      [
+        401,
+        0.1319
+      ],
+      [
+        388,
+        0.1316
+      ],
+      [
+        389,
+        0.1316
+      ],
+      [
+        390,
+        0.1316
+      ],
+      [
+        398,
+        0.1316
+      ],
+      [
+        399,
+        0.1316
+      ],
+      [
+        400,
+        0.1316
+      ]
+    ]
+  },
+  "manifestSha256": "a38835b66120577cd719fe57ae3c67f6f08c57742b81192e4b591a067914290d",
+  "browserPlayback": "PASS: v2 UI loaded, sought 112.10s, muted playback reached 113.00s; paused at 0 with sound restored"
+}

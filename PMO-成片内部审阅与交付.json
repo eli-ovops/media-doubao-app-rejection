@@ -1,0 +1,35 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "reviewed_at": "2026-10-17T00:50:10.039086+08:00",
+  "decision": "ACCEPT_FOR_USER_COMPLETE_REVIEW_WITH_EXPLICIT_READING_LIMITS",
+  "video": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/豆包App拒绝-完整片-v3.mp4",
+  "video_sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/PMO-04完整v3接收.json",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/05/v2/独立整片质检报告.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/05/v3/局部复核报告.md",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/05/v3/native/f-0117.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/05/v3/native/f-0252.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/05/v3/delta-08.jpg"
+  ],
+  "findings": [
+    "05首次全时段v2检查和v3准确delta均已实际工具报告，PMO已审原件及问题/修复原尺寸。",
+    "Q01对象提前消失已修；三对象随首页/推荐/广告逐句强调、问句和数据段接管吻合冻结时点。",
+    "联系表拼贴疑点在准确最终解码帧与邻接未复现，未以缩略图误判扩大返工。",
+    "v3完整MP4真实存在且PMO/05独立SHA均同，完整解码和声音身份证据齐全。",
+    "多余报道小字/重复框和末尾收机晃动的v2定向修复保留。"
+  ],
+  "remaining_mandatory_local_fixes": [],
+  "nonblocking_notes": [
+    "阿里名称较口播稍早出现但讲到时仍可见。",
+    "第二次一般App拒绝返回比对应字幕略早；不影响主线，按本轮范围保留。"
+  ],
+  "reading_scope": "v2独立385去重采样帧/完整113秒离线ASR；v3独立118精确帧位含14原尺寸，仅受影响范围与邻接；不是全部帧或正常速度连续看听。",
+  "direct_hearing": "UNKNOWN",
+  "continuous_audiovisual_review": "UNKNOWN",
+  "user_final_review": "PENDING",
+  "publication": "NOT_AUTHORIZED_NOT_PERFORMED",
+  "formal_stage05": "RELEASED_AWAITING_HUMAN_FINAL_REVIEW; no fabricated gate approval",
+  "monitor_next": "Pause this one monitor after user-facing playback handoff; preserve unrelated automations and original assets."
+}

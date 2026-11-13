@@ -1,0 +1,437 @@
+{
+  "selection_is_not_runtime_acceptance": true,
+  "results": [
+    {
+      "component_id": "component:fred-chapter-transitions-20-t20o",
+      "label": "T20o",
+      "title": "数字狂跳：一个大数字跳到目标再让位",
+      "catalog_description": "数字从 0 狂跳到目标 → 缩到一边，主题落定",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "内容交接",
+      "collection_id": "fred-chapter-transitions-20-20261014",
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T20o-1-preview.mp4",
+          "filename": "T20o-1-preview.mp4",
+          "sha256": "3ebc3f803c946e2476f89f9620249f93305795cbc8bcef9b160de620a24d4a7e"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "T20o-StatSlam.tsx",
+          "declared_sha256": "1e395e125552592d046f9728530c671d1d8224e378dae0925ab238e3fc546df5",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T20o-StatSlam.tsx"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "T20o",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T20o.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T20o-StatSlam.tsx",
+              "range": "Interface and companion package documented; see exact card for read scope, not a full-file claim.",
+              "reader_attribution": "See exact card"
+            }
+          ]
+        },
+        {
+          "name": "theme.ts",
+          "declared_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/kit/theme.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "ui.tsx",
+          "declared_sha256": "ab02aeb7aa92b995e1affac3b1b327571270ac96df387250f9aec3b3eb0dacc2",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/kit/ui.tsx"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "registry.ts",
+          "declared_sha256": "4b2e51f1a8d4891fb92ea30a2c7aabe69e76fce0d6020be2c3ef7408d43e591d",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/registry.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "_shared.ts",
+          "declared_sha256": "f5ebf5850bf3dd67d094ce7e9778bd52c44ff138b27abf70ce72b3378f79aaa8",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/_shared.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        }
+      ],
+      "analysis_card": {
+        "card_key": "T20o",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T20o.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T20o-1-preview.mp4",
+        "reviewed_sample_frames": 16,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "一个有出处的数字先冲到目标、停稳，再缩小上移给主题让位。",
+          "avoid": "用滚动动画装作真实实时计数；默认50500是作者截图例子，不是当前已核统计，也不等于使用人数。",
+          "capacity": "value有限数、decimals须为Intl支持的有效整数、unit短字符串；固定终值估宽右对齐，数字330上限按1500宽，caption56/主题120。负数/小数/单位组合需实看，无输入校验。",
+          "example": "<StatSlam value={3} decimals={0} unit=\"项\" caption=\"本示例列出的检查项\" title=\"逐项核对输出\" highlight=\"核对\" cues={[1.25,1.7]} />",
+          "current_contract": "must_fit_current_content_contract"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    },
+    {
+      "component_id": "component:fred-chapter-transitions-20-t12o",
+      "label": "T12o",
+      "title": "穿过序号：镜头钻进数字进入本章",
+      "catalog_description": "巨大序号 → 镜头穿过数字的空心 → 本章标题",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "内容交接",
+      "collection_id": "fred-chapter-transitions-20-20261014",
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T12o-1-preview.mp4",
+          "filename": "T12o-1-preview.mp4",
+          "sha256": "8d9f7abbc5b093d49238d7792041cbf583646ff2e3b9d8be67ef6f0364e78201"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "T12o-ZoomThrough.tsx",
+          "declared_sha256": "79bffe51dc08bc43cb2956919cd3fcf2d578db2f6d1b8589e749144950e3dde9",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T12o-ZoomThrough.tsx"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "T12o",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T12o.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T12o-ZoomThrough.tsx",
+              "range": "Interface and companion package documented; see exact card for read scope, not a full-file claim.",
+              "reader_attribution": "See exact card"
+            }
+          ]
+        },
+        {
+          "name": "theme.ts",
+          "declared_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/kit/theme.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "ui.tsx",
+          "declared_sha256": "ab02aeb7aa92b995e1affac3b1b327571270ac96df387250f9aec3b3eb0dacc2",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/kit/ui.tsx"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "registry.ts",
+          "declared_sha256": "4b2e51f1a8d4891fb92ea30a2c7aabe69e76fce0d6020be2c3ef7408d43e591d",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/registry.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "_shared.ts",
+          "declared_sha256": "f5ebf5850bf3dd67d094ce7e9778bd52c44ff138b27abf70ce72b3378f79aaa8",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/_shared.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        }
+      ],
+      "analysis_card": {
+        "card_key": "T12o",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T12o.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T12o-1-preview.mp4",
+        "reviewed_sample_frames": 14,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "从章节序号进入具体章节，以数字空心作为视觉入口，再落到标题胶囊。",
+          "avoid": "需要持续读大段文字、不能快速推近的阅读段；不同字体空心几何未核时不能直接替换。",
+          "capacity": "序号由pad2生成所有字符；含0时进第一个0，否则进数字间缝，含0与不含0应分别检查；标题单行，132上限按1260估宽，胶囊最小760、高230。超长标题只会缩字。",
+          "example": "<ZoomThrough index={2} label=\"第二步\" title=\"核对生成文件\" cues={[0.78]} enter=\"cut\" exit=\"none\" />",
+          "current_contract": "must_fit_current_content_contract"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    },
+    {
+      "component_id": "component:library-legacy81-r005",
+      "label": "L81-R005",
+      "title": "数字展开为分类分支",
+      "catalog_description": "数字展开为分类分支",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "讲解段落",
+      "collection_id": null,
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-R005-1-preview.mp4",
+          "filename": "L81-R005-1-preview.mp4",
+          "sha256": "5cae6c5d1d71b12ea264ddf4f84165384a1676fcceb00257e9069c9b8e96a63f"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "CountV3.tsx",
+          "declared_sha256": null,
+          "path_evidence": "CATALOG_PROJECT_AND_EXACT_FILENAME_CANDIDATE_REQUIRES_API_REVIEW",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/d864313852a2/groups/r/legacy/src/CountV3.tsx"
+          ],
+          "catalog_text_read_status_historical": "not_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "L81-R005",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-R005.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/d864313852a2/groups/r/legacy/src/CountV3.tsx",
+              "range": "full",
+              "reader_attribution": "PMO实际读图/源码，01接收集成复核"
+            }
+          ]
+        }
+      ],
+      "analysis_card": {
+        "card_key": "L81-R005",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-R005.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-R005-1-preview.mp4",
+        "reviewed_sample_frames": 39,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "总量拆成类别，强调同一数字继承到下一阶段。",
+          "avoid": "50/30/10/10为示例；默认句与数字短暂重复叠在一处，交接需调alpha。",
+          "capacity": "3分支；总数50写死JSX，值/label/开始字时点长度耦合；不能仅改pillText。"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    },
+    {
+      "component_id": "component:fred-wave3-40-t14e",
+      "label": "T14e",
+      "title": "三个关键数字",
+      "catalog_description": "几项指标 → 数字同时滚动、依次落定成一排",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "数值与图表",
+      "collection_id": "fred-wave3-40-20261012",
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T14e-1-preview.mp4",
+          "filename": "T14e-1-preview.mp4",
+          "sha256": "38980c72d42e740fd4fe854a72b54052c54d24553b1f04740d614225ab862181"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "T14e-StatTriplet.tsx",
+          "declared_sha256": "a1a8f30bfd9effd7d6ceb7ea57a9031072b3a799ee27129b602bc8319464d071",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T14e-StatTriplet.tsx"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "T14e",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14e.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T14e-StatTriplet.tsx",
+              "range": "Interface and companion package documented; see exact card for read scope, not a full-file claim.",
+              "reader_attribution": "See exact card"
+            }
+          ]
+        },
+        {
+          "name": "theme.ts",
+          "declared_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts"
+          ],
+          "catalog_text_read_status_historical": "duplicate_of_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "ui.tsx",
+          "declared_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx"
+          ],
+          "catalog_text_read_status_historical": "duplicate_of_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "registry.ts",
+          "declared_sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/registry.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        }
+      ],
+      "analysis_card": {
+        "card_key": "T14e",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14e.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T14e-1-preview.mp4",
+        "reviewed_sample_frames": 22,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "把几项并列数字一屏落定，最后突出其中一项。",
+          "avoid": "未核单位与价格直接用默认定价；此卡不是自动读取实时API计费。",
+          "capacity": "stats截前4，注释2–4无硬2下限；同组取最小数字/标签字号，单位独立。空数组不能当通用空态。hero取整夹范围。",
+          "example": "<StatTriplet stats={[{label:\"输入文件（示例）\",value:3,unit:\"份\"},{label:\"待核项（示例）\",value:2,unit:\"项\"}]} hero={1} cues={[0.6,2.65]} />",
+          "current_contract": "must_fit_current_content_contract"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    },
+    {
+      "component_id": "component:fred-wave3-40-t09i",
+      "label": "T09i",
+      "title": "按条件选中一行",
+      "catalog_description": "一列选项 → 条件胶囊连到匹配的那一行，其余退灰",
+      "description_evidence": "AUTHOR_CATALOG_TEXT_NOT_AUTOMATIC_VISUAL_ANALYSIS",
+      "category": "录屏聚焦",
+      "collection_id": "fred-wave3-40-20261012",
+      "previews": [
+        {
+          "file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T09i-1-preview.mp4",
+          "filename": "T09i-1-preview.mp4",
+          "sha256": "aa1fe38a331b8e4e59f31f9dc2cc2f56fb0c48dd67e8dab849bc913abc064b65"
+        }
+      ],
+      "source_files": [
+        {
+          "name": "T09i-PickRow.tsx",
+          "declared_sha256": "240ccf3e70085c4cafabe15b1fe20c58d7536f8c236786c2a0f5280055d90392",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T09i-PickRow.tsx"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "ATTRIBUTED_CURRENT_CARD_READ_RANGE_LINKED",
+          "current_read_evidence": [
+            {
+              "card_key": "T09i",
+              "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T09i.md",
+              "source_path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T09i-PickRow.tsx",
+              "range": "Interface and companion package documented; see exact card for read scope, not a full-file claim.",
+              "reader_attribution": "See exact card"
+            }
+          ]
+        },
+        {
+          "name": "theme.ts",
+          "declared_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts"
+          ],
+          "catalog_text_read_status_historical": "duplicate_of_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "ui.tsx",
+          "declared_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx"
+          ],
+          "catalog_text_read_status_historical": "duplicate_of_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        },
+        {
+          "name": "registry.ts",
+          "declared_sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "path_evidence": "DECLARED_PATH_OR_SHA_MAPPING",
+          "local_files": [
+            "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/registry.ts"
+          ],
+          "catalog_text_read_status_historical": "full_text_read",
+          "text_read_status": "UNKNOWN_NO_CURRENT_CARD_RANGE_LINKED_FOR_THIS_CATALOG_SOURCE",
+          "current_read_evidence": []
+        }
+      ],
+      "analysis_card": {
+        "card_key": "T09i",
+        "card_file": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T09i.md",
+        "version": "v1",
+        "variant": null,
+        "media_file": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T09i-1-preview.mp4",
+        "reviewed_sample_frames": 27,
+        "full_continuous_AV_viewing": "UNKNOWN",
+        "expanded_evidence": "Use --full or read the exact markdown card",
+        "usage": {
+          "suitable": "把一个明确条件连到真实列表中相应的文件或套餐行，帮助读者定位。",
+          "avoid": "把手工输入row当自动匹配、AI识别或真实点击下载。",
+          "capacity": "1–3条件，conditions只slice3未防空；crop/row为原像素框，row按crop裁列。被选行1.14放大、最低行目标890；条件签密集会向下避让但不再夹底，需实查。",
+          "example": "<PickRow image=\"media/authorized-list.png\" imageWidth={1600} imageHeight={1200} crop={{x:100,y:200,w:900,h:700}} conditions={[{label:\"目标条件\",row:{x:100,y:350,w:900,h:80}}]} cues={[0.6]} />\n// crop/row仅接口占位，需换本期原图量值。",
+          "current_contract": "must_fit_current_content_contract"
+        }
+      },
+      "review_status": "CALL_CARD_AVAILABLE_CHECK_READING_SCOPE",
+      "import_or_render_verified": false
+    }
+  ]
+}

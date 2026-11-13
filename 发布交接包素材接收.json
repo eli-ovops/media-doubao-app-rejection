@@ -1,0 +1,153 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "scope": "本地复制最终交付与内部参考，不包含原片、Fred付费源码、密钥或登录资料",
+  "package": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017",
+  "copies": [
+    {
+      "path": "01-发布素材/豆包App拒绝-完整片-v3.mp4",
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/豆包App拒绝-完整片-v3.mp4",
+      "bytes": 34907696,
+      "sha256": "d367b655f69f1d550f4a6e443cb895b4664de86b2e66666ca6771d9bbbbbffae"
+    },
+    {
+      "path": "02-内容与字幕/豆包App拒绝-字幕-v3.srt",
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/豆包App拒绝-字幕-v3.srt",
+      "bytes": 3263,
+      "sha256": "8028f552ff723a906c6fd606261448d169f43cc35d1d44d064ad7a63120a9f15"
+    },
+    {
+      "path": "05-内部参考/PMO-成片内部审阅与交付.json",
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/PMO-成片内部审阅与交付.json",
+      "bytes": 2394,
+      "sha256": "1a421856f955f7399d17529d63bba42b98d4282773f1668084dcc87d926570d5"
+    },
+    {
+      "path": "05-内部参考/来源核验与画面素材-20261016.md",
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/01/来源核验与画面素材.md",
+      "bytes": 9854,
+      "sha256": "7636a7b6a4c9e29cfad6fc3087a4483dd1bfbd60ff5a0b37fa5701e9863d64f5"
+    },
+    {
+      "path": "05-内部参考/九平台账号与语言-历史定位.md",
+      "source": "/Volumes/EXTERNAL/自媒体/交接包/自媒体运营迁移-Grok-20261015/05-九平台账号与语言.md",
+      "bytes": 1400,
+      "sha256": "c3633cb896cb855cede5adf0907249d95d62354a91641e9da8c639ba52c0b9ef"
+    }
+  ],
+  "temporary_files": [],
+  "cover_owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "cover_status": "04_REPORTED_PMO_VISUALLY_REVIEWED",
+  "updated_at": "2026-10-17T09:38:16.249196+08:00",
+  "cover_dispatch": {
+    "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+    "model_requested": "gpt-6-astra",
+    "effort_requested": "medium",
+    "actual_model_effort": "UNKNOWN",
+    "tool_receipt": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"threadId\":\"01a11a6f-49ef-7653-934a-4312979fd4e7\"}"
+        }
+      ],
+      "isError": false
+    },
+    "scope": "仅本人出镜封面及独立封面工程，不改冻结成片；完成主动报告PMO"
+  },
+  "covers": {
+    "豆包封面-横版1920x1080.jpg": {
+      "path": "01-发布素材/豆包封面-横版1920x1080.jpg",
+      "sha256": "3cabad02929a3ebd590b59a97eeff2d5bbbf96f290f67e242de8863a99160f9c",
+      "bytes": 140030,
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-横版1920x1080.jpg"
+    },
+    "豆包封面-横版1920x1080.png": {
+      "path": "01-发布素材/豆包封面-横版1920x1080.png",
+      "sha256": "26b8af30eddce9604321dc473c29f1c82a4999f3c77219507d2bfe9e0526922d",
+      "bytes": 511865,
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-横版1920x1080.png",
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    "豆包封面-竖版1080x1920.jpg": {
+      "path": "01-发布素材/豆包封面-竖版1080x1920.jpg",
+      "sha256": "a50943250ec6a404aeebcf0cabd1104a75d19748b035177ee54f4f2f6e1ee5a2",
+      "bytes": 169064,
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-竖版1080x1920.jpg"
+    },
+    "豆包封面-竖版1080x1920.png": {
+      "path": "01-发布素材/豆包封面-竖版1080x1920.png",
+      "sha256": "ddb581e89c570ce1899e5b906c65e2710feee03375e272774095a593244e8b30",
+      "bytes": 637833,
+      "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-竖版1080x1920.png",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    }
+  },
+  "cover_pmo_review": {
+    "reviewed_outputs": [
+      "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-竖版1080x1920.png",
+      "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v1/豆包封面-横版1920x1080.png"
+    ],
+    "method": "PMO实际查看两版完整PNG原图；核本人、两句文字、无重复字幕、无遮挡和版式；未操作各平台编辑页",
+    "findings": "真人及文字可辨，无原首帧上下重复文字；没有发现阻断纳入交接包的问题。",
+    "user_cover_approval": "PENDING",
+    "platform_crop_acceptance": "NOT_VERIFIED",
+    "actual_model_effort": "UNKNOWN"
+  },
+  "cover_revision_v2": {
+    "user_rejected_version": "cover-release-v1",
+    "status": "04_REPORTED_PMO_VISUALLY_REVIEWED_USER_PENDING",
+    "reference": "此前千问Go白底黑紫大字及本人抠像封面",
+    "covers": [
+      {
+        "path": "01-发布素材/豆包封面-竖版-v2.png",
+        "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v2/豆包封面-竖版-v2.png",
+        "bytes": 1686926,
+        "dimensions": [
+          941,
+          1672
+        ],
+        "sha256": "dbffa6d70d8b449af8f1928ec91be70b95e8aa2f93b08be604965893d1be9965"
+      },
+      {
+        "path": "01-发布素材/豆包封面-横版-v2.png",
+        "source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v2/豆包封面-横版-v2.png",
+        "bytes": 1654590,
+        "dimensions": [
+          1672,
+          941
+        ],
+        "sha256": "e2b64b76cf2bfcb468bb26e990aa081b58e92d690cea0a1457379b0fd6483334"
+      }
+    ],
+    "pmo_review": "实际查看两张完整PNG。大幅本人抠像与黑紫超大标题接近给定旧参考，字/脸/眼睛无互遮；横版手与标题分开，未见首版卡片胶囊结构。",
+    "provenance": "内置image_gen以已有本人封面编辑；生成式处理，不宣称人脸像素未变。",
+    "platform_crop_review": "NOT_VERIFIED; match aspect and complete-fit, no blind center crop",
+    "video_unchanged": true,
+    "new_package": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v2",
+    "dispatch_receipt": "Owner 04已实际主动工具报告PMO；来源threadId 01a11a6f-49ef-7653-934a-4312979fd4e7",
+    "actual_model_effort_image_model": "UNKNOWN"
+  },
+  "cover_revision_v3": {
+    "user_text": "155个app拒绝了豆包",
+    "portrait_source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v3/豆包封面-竖版-v3.png",
+    "landscape_source": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v3/豆包封面-横版-v3-r1.png",
+    "method": "built-in image_gen edit; identity from existing approved covers; generated processing",
+    "pmo_viewed": [
+      "full portrait v3",
+      "full landscape v3 and v3-r1",
+      "exact native eye crops v3 and r1"
+    ],
+    "text_check": "exact 155个app / 拒绝了豆包; app lowercase; no other heading",
+    "portrait_status": "ACCEPTABLE_FOR_USER_REVIEW",
+    "landscape_status": "R1_ACCEPTABLE_FOR_USER_REVIEW",
+    "limits": "单一眼睛和镜框可辨，未确认完整第二副眼睛；边缘与皮肤生成纹理仍在，不宣称照片像素无变化或全部生成痕迹已消除。平台原生裁切和用户审美认可仍PENDING。",
+    "video_unchanged": true,
+    "package": "/Volumes/EXTERNAL/自媒体/交接包/豆包App拒绝-发布交接-20261017-v3"
+  }
+}

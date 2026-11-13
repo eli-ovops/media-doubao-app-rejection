@@ -1,0 +1,50 @@
+{
+  "content_id": "doubao-app-rejection-20261016",
+  "version": "cover-release-v4",
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v4/豆包封面-横版-v4.png",
+      "width": 1672,
+      "height": 941,
+      "mime": "image/png",
+      "bytes": 1687480,
+      "sha256": "979a90cff0735c8c6642713d83cafafde5b026322a07a490253a3ebfbed465f7"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/02_最终输出/封面发布-v4/豆包封面-竖版-v4.png",
+      "width": 940,
+      "height": 1672,
+      "mime": "image/png",
+      "bytes": 1917284,
+      "sha256": "6d7a11944c2a2688704e0c1521c7550a4cef3103cebf9f51a79d91c7e5c1d525"
+    }
+  ],
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/人物形象与封面资产-20261009/外部艺术照精选-20261009/入选/01-主形象-图2-棕色西装.png",
+      "sha256": "12c21747a2bb95a5055451780570844c6113ba8c3b9af9481bb8439d1d6fbbea"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/封面素材/豆包官方App形象-512.jpg",
+      "sha256": "b21fa27c86e55d13662d4e383a8f4ae252f3e3d2ef14a052a204ba0a3483f528"
+    }
+  ],
+  "avatarProvenance": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/封面素材/豆包形象来源.json",
+  "method": "Built-in image_gen compositing with exact supplied art portrait and official avatar as input. Both are generation-processed, not byte-identical image overlays. No Python image editing.",
+  "requirementsReview": {
+    "topLine": "155个app purple; 155 verified, lowercase app",
+    "bottomLine": "拒绝了豆包 black, all five Chinese characters; no extra text",
+    "person": "Brown suede suit + white T, neat hairstyle, round glasses and face match supplied art portrait visually; no old black-shirt person",
+    "doubao": "Visible substantial blue-circle bob-haired girl from supplied official reference; recognizably matches original, no invented alternate mascot; not pixel-identical paste",
+    "phone": "270px-wide portrait and480px-wide landscape both actually read, titles and two faces clear",
+    "nativeFace": "Both native crops actually viewed; single eyeglass frames and eyes, natural hair edges, no former etched/double-contour artifact seen in these crops",
+    "coverage": "Two references, v3 layout, both native generated full outputs, two phone views, two native face crops; platform editors/cross-aspect auto-crops not verified",
+    "acceptance": "PENDING_PMO_AND_USER"
+  },
+  "requestedModel": "gpt-6-astra",
+  "requestedEffort": "medium",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "imageModel": "UNKNOWN",
+  "scope": "Only new cover-v4 dirs; previous files/video/audio/SRT/frozen sources/Grok package/shared state unchanged"
+}

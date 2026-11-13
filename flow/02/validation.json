@@ -1,0 +1,66 @@
+{
+  "source_mapping": [
+    6,
+    4,
+    3,
+    2,
+    1,
+    5
+  ],
+  "net_duration": 129.82,
+  "total_raw_duration": 132.31166666666667,
+  "cue_count": 67,
+  "max_cue_characters": 14,
+  "ranges_valid": true,
+  "subtitles_nonoverlapping": true,
+  "source_hash_recheck": [
+    {
+      "path": "/Users/USER/Downloads/6ddef9d0438570a5cff46cb0bb87d695_raw.mp4",
+      "sha256": "c6e9af758124d39d1898f57ab4fed8cd9cac18eb2ab94f43ddefa8e905b19f9a",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/USER/Downloads/d398bdb31caa205c6e1d60f6dbb03b7c_raw.mp4",
+      "sha256": "a85f01d510e26eeae24c88e68ebb71d372ee139988c031148e8760041c6ed300",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/USER/Downloads/659ae8a396fa68ce510db8952b270772_raw.mp4",
+      "sha256": "a4071bfa86713a75c62dd1a1830ac6b63be19e8d3ef9e7aa3c2e9486e1242473",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/USER/Downloads/d6f955302c7b1a8b9e18b1d8bf95a739_raw.mp4",
+      "sha256": "621f50ebcfd6b71aaefbfd1983ae63b0d24581d1f98adaf337c2268bda614b8e",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/USER/Downloads/646521d1fa5ee575fa2826a3a00a22f0_raw.mp4",
+      "sha256": "61d72e9c25887bd433eb2148f4daa36fe25063e4e4a999dae7a4619208b858cc",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/USER/Downloads/5c50133579f3dbb7264e387c481f547c_raw.mp4",
+      "sha256": "cc5a26a79c4a50f61741f345d66fd0675c3b0293a8d4c7c1ae20b39a1e76e151",
+      "unchanged": true
+    }
+  ],
+  "actual_viewed_contact_sheets": [
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-01/sheet-2.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-02/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-03/sheet-2.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-04/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-05/sheet-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/flow/02/raw-06/sheet-1.jpg"
+  ],
+  "actual_viewed_sample_count": 75,
+  "native_stills_viewed": [
+    "inspection/raw-06-1.0-native.jpg",
+    "inspection/raw-01-20.0-native.jpg",
+    "inspection/raw-04-18.6-native.jpg"
+  ],
+  "direct_audio": false,
+  "continuous_viewing": false
+}
